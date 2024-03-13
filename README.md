@@ -1,4 +1,6 @@
 # FiveM Lore-Friendly Car Pack
+This Pack is currently in-development, the Data Folder is missing whilst this is a work in progress!
+
 A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
 * Only high quality models and sounds. 
 * **Most** models run at <40 MiB of physical memory.
