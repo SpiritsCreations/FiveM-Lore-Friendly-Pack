@@ -37,7 +37,6 @@ client_scripts {
 }
 
 server_script 'versioncheck.lua'
-server_script 'server.lua'
 
 -- START OF AUDIO SYNTHDATA --
 data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/bfely_amp.dat'
