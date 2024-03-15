@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>remustwo</modelName>
+      <colors>
+        <Item><!--DARK BLUE-->
+          <indices content="char_array">
+            62
+            62
+            61
+            156
+            63
+            150
+          </indices>
+        </Item>
+        <Item><!--GARNET RED-->
+          <indices content="char_array">
+            32
+            32
+            43
+            156
+            32
+            150
+          </indices>
+        </Item>
+        <Item><!--GASOLINE GREEN-->
+          <indices content="char_array">
+            54
+            54
+            49
+            156
+            54
+            150
+          </indices>
+        </Item>
+        <Item><!--DARK GREEN-->
+          <indices content="char_array">
+            49
+            49
+            54
+            156
+            50
+            150
+          </indices>
+        </Item>
+        <Item><!--FROST WHITE-->
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            107
+            150
+          </indices>
+        </Item>
+        <Item><!--PURE BLACK-->
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+            107
+            150
+          </indices>
+        </Item>
+        <Item><!--CLASSIC GOLD-->
+          <indices content="char_array">
+            37
+            37
+            2
+            156
+            107
+            150
+          </indices>
+        </Item>
+        <Item><!--DARK SILVER-->
+          <indices content="char_array">
+            3
+            2
+            0
+            156
+            111
+            150
+          </indices>
+        </Item>
+        <Item><!--SHADOW SILVER-->
+          <indices content="char_array">
+            7
+            1
+            0
+            156
+            111
+            150
+          </indices>
+        </Item>
+        <Item><!--TSPORT PURPLE-->
+          <indices content="char_array">
+            72
+            72
+            71
+            156
+            71
+            71
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>stew_remustwo_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="666"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

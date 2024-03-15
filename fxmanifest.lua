@@ -44,13 +44,16 @@ server_script 'versioncheck.lua'
 
 -- START OF AUDIO GAMEDATA --
 data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/roxanne_game.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/remustwo_game.dat'
 -- END OF AUDIO GAMEDATA --
 
 -- START OF AUDIO SOUNDDATA --
 data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/roxanne_sounds.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/remustwo_sounds.dat'
 -- END OF AUDIO SOUNDDATA --
 
 -- START OF AUDIO WAVEPACK --
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_roxanne'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_remustwo'
 -- END OF AUDIO WAVEPACK --
 

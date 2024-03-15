@@ -4,4 +4,5 @@ end
 		-- AddTextEntry('SPAWN-CODE', 'Vehicle Name') --
 Citizen.CreateThread(function ()
 		AddTextEntry('roxanne', 'Roxanne') -- Annis Roxanne
+		AddTextEntry('remustwo', 'Remus II') -- Annis Remus II
 	end)
