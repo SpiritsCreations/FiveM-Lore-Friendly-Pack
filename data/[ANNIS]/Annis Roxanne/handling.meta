@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>ROXANNE</handlingName>
+      <handlingName>roxanne</handlingName>
       <fMass value="1300.000000" />
       <fInitialDragCoeff value="3.000000" />
 	  <fDownforceModifier value="1.3500" />

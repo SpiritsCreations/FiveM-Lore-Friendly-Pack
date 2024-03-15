@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>roxanne_modkit</kitName>
-      <id value="814" />	 	  
+      <kitName>914_roxanne_modkit</kitName>
+      <id value="914" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item><!--EXHAUST START HERE-->

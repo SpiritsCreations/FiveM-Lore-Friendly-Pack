@@ -6,8 +6,8 @@
    <Item>
       <modelName>roxanne</modelName>
       <txdName>roxanne</txdName>
-      <handlingId>ROXANNE</handlingId>
-      <gameName>ROXANNE</gameName>
+      <handlingId>roxanne</handlingId>
+      <gameName>roxanne</gameName>
       <vehicleMakeName>ANNIS</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -120,14 +120,14 @@
     </Item>
     <Item>
       <parent>vehicles_racecar</parent>
-      <child>vehicles_race_interior</child>
-    </Item>
-    <Item>
-      <parent>vehicles_race_interior</parent>
       <child>vehicles_race_generic</child>
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
+      <child>vehicles_race_interior</child>
+    </Item>
+    <Item>
+      <parent>vehicles_supergt_interior</parent>
       <child>roxanne</child>
     </Item>
   </txdRelationships>
