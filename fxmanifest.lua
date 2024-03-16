@@ -20,6 +20,7 @@ files {
     'audio/sfx/**/*.awc'
 }
 
+server_script 'versioncheck.lua'
 data_file 'HANDLING_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_METADATA_FILE' 'data/**/*.meta'
 data_file 'CARCOLS_FILE' 'data/**/*.meta'
@@ -32,11 +33,10 @@ data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/*.meta'
 data_file 'PTFXASSETINFO_FILE' 'data/**/ptfxassetinfo.meta'
 
 client_scripts {
-    'vehicle_names.lua',
-    'client.lua'
+    'vehicle_names.lua'
 }
 
-server_script 'versioncheck.lua'
+server_script 'client.lua'
 
 -- START OF AUDIO SYNTHDATA --
 -- data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/example_amp.dat'

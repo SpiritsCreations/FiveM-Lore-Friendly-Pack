@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CVehicleModelInfo__InitDataList>
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
@@ -26,27 +26,27 @@
       <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
       <FirstPersonDriveByIKOffset x="0.000000" y="-0.040000" z="-0.040000" />
       <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="-0.020000" />
-	  <FirstPersonProjectileDriveByIKOffset x="0.030000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByPassengerIKOffset x="-0.030000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.040000" z="-0.040000" />
-	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonMobilePhoneOffset x="0.135000" y="0.240000" z="0.520000" />
+      <FirstPersonProjectileDriveByIKOffset x="0.030000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByPassengerIKOffset x="-0.030000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.040000" z="-0.040000" />
+      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonMobilePhoneOffset x="0.135000" y="0.240000" z="0.520000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000" />
-	  <FirstPersonMobilePhoneSeatIKOffset>
-		<Item>
-			<Offset x="0.136000" y="0.136000" z="0.415000" />
-			<SeatIndex value="2" />
-		</Item>
-		<Item>
-			<Offset x="0.136000" y="0.136000" z="0.415000" />
-			<SeatIndex value="3" />
-		</Item>
-	  </FirstPersonMobilePhoneSeatIKOffset> 
+      <FirstPersonMobilePhoneSeatIKOffset>
+        <Item>
+          <Offset x="0.136000" y="0.136000" z="0.415000" />
+          <SeatIndex value="2" />
+        </Item>
+        <Item>
+          <Offset x="0.136000" y="0.136000" z="0.415000" />
+          <SeatIndex value="3" />
+        </Item>
+      </FirstPersonMobilePhoneSeatIKOffset>
       <PovCameraOffset x="0.000000" y="-0.165000" z="0.645000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -59,15 +59,15 @@
       <AllowJoyriding value="true" />
       <AllowSundayDriving value="true" />
       <AllowBodyColorMapping value="true" />
-      <wheelScale value="0.264500" />
-      <wheelScaleRear value="0.264500" />
+      <wheelScale value="0.344200" />
+      <wheelScaleRear value="0.344200" />
       <dirtLevelMin value="0.000000" />
       <dirtLevelMax value="0.550000" />
       <envEffScaleMin value="0.000000" />
       <envEffScaleMax value="0.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="0.000000" />
-      <damageMapScale value="0.05000" />
+      <damageMapScale value="0.300000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -94,7 +94,7 @@
       <flags>FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS FLAG_EXTRAS_ALL FLAG_EXTRAS_STRONG</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
-	  <dashboardType>VDT_RACE</dashboardType>
+      <dashboardType>VDT_RACE</dashboardType>
       <vehicleClass>VC_OFF_ROAD</vehicleClass>
       <wheelType>VWT_OFFROAD</wheelType>
       <trailers />
@@ -117,7 +117,7 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-	  <firstPersonDrivebyData>
+      <firstPersonDrivebyData>
         <Item>STD_BALLER7_FRONT_LEFT</Item>
         <Item>STD_BALLER7_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
@@ -130,5 +130,4 @@
       <child>baller7r</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>
