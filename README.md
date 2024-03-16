@@ -15,3 +15,4 @@ A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixt
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Annis Roxanne** | roxanne | ![Picture](./image/roxanne.webp) | TGI_J | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) | ✔️ |
+| **Annis Remus II** | remustwo | ![Picture](./image/remustwo.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-remus-ii-add-on-tuning-lod-s-sounds) | ✔️ |
