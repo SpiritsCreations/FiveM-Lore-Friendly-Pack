@@ -10,6 +10,14 @@ A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixt
 * Drag and drop
 * Ensure FiveM-Lore-Friendly-Car-Pack
 
+# Important ⚠️
+* All credits to go the original creators of these vehicles. These vehicles may be removed from the pack if the owners will it.
+* Treat all vehicles in this pack as the following: *Modifying this package and it's contents except the text data such as handling, meta files and mod-kit, uploading or hosting it elsewhere as is or in a modified state and selling, paywalling or monetizing in any shape or form is prohibited.*
+* Most of these cannot be used as one of one's or as donator cars.
+
+# Support
+* I will not **Offer Support** on any of the vehicles within this pack, everything on my part is within the README. All Vehicles are tested prior to uploading or updating. If you want to change any **Handling Files**, you need to configure it yourself.*
+
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
