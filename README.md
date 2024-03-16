@@ -24,3 +24,8 @@ A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixt
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Annis Roxanne** | roxanne | ![Picture](./image/roxanne.webp) | TGI_J | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) | ✔️ |
 | **Annis Remus II** | remustwo | ![Picture](./image/remustwo.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-remus-ii-add-on-tuning-lod-s-sounds) | ✔️ |
+
+| **Gallivanter Baller Classic** | ballers / ballers2 | ![Picture](./image/GallivanterBallerClassic.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-baller-classic-add-on) | ✔️ |
+| **Gallivanter Peacemaker** | ballerc | ![Picture](./image/GallivanterPeacemaker.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-peacemaker-add-on-tuning) | ✔️ |
+| **Gallivanter Baller Raid** | baller7r | ![Picture](./image/GallivanterBallerRaid.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards) | ✔️ | Not Spawning
+| **Gallivanter Baller Blackline Sport** | peacemaker / peacemaker2 / peacemaker3 | ![Picture](./image/GallivanterBallerBlacklineSport.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-baller-blackline-sport-add-on-lod-s-tuning) | ✔️ |
