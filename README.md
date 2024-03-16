@@ -9,3 +9,9 @@ A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixt
 * # Install
 * Drag and drop
 * Ensure FiveM-Lore-Friendly-Car-Pack
+
+<center><h1>All included cars with pictures and spawn codes</h1></center>
+
+| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Annis Roxanne** | roxanne | ![Picture](./img/tltypes.webp) | TGI_J | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) | ✔️ |
