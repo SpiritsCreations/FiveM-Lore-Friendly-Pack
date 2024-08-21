@@ -3,8 +3,15 @@ games { 'rdr3', 'gta5' }
 
 author "Spirit's Creations"
 description 'Lore-Friendly Car Pack'
-version 'v1.0.0'
 repository 'https://github.com/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack'
+
+client_scripts {
+    'versioncheck.lua'
+}
+
+client_script{
+    'client.lua'
+}
 
 files {
     'data/**/*.meta',
@@ -31,12 +38,6 @@ data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_SETTINGS_FILE' 'data/**/*.meta'
 data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/*.meta'
 data_file 'PTFXASSETINFO_FILE' 'data/**/ptfxassetinfo.meta'
-
-client_scripts {
-    'vehicle_names.lua'
-}
-
-server_script 'client.lua'
 
 -- START OF AUDIO SYNTHDATA --
 -- data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/example_amp.dat'
