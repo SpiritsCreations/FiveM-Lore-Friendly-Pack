@@ -1,4 +1,9 @@
 # FiveM Lore-Friendly Car Pack
+![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
+![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-4-brightgreen?style=for-the-badge)
+==========================
+
 This Pack is currently in-development, the Data Folder is empty whilst this is a work in progress!
 
 A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
