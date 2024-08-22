@@ -1,4 +1,4 @@
-# FiveM Lore-Friendly Car Pack
+# FiveM Lore Friendly Car Pack
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-4-brightgreen?style=for-the-badge)
