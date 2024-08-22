@@ -2,6 +2,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-5-brightgreen?style=for-the-badge)
+![Rim Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
 _Tested upon Build ID 3258_
