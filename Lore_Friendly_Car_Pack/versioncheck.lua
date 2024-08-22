@@ -1,9 +1,9 @@
 -- Sets server list convar
-SetConvarServerInfo('tags', 'Car_Pack')
+SetConvarServerInfo('tags', 'FiveM-Lore-Friendly-Car-Pack')
 
 -- Setup for the version check
 updatePath = "/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack" -- your git user/repo path
-versionFile = "/version" -- path to the version file
+versionFile = "/FiveM-Lore-Friendly-Car-Pack/version" -- path to the version file
 
 -- Console stuff
 Citizen.CreateThread(function()
