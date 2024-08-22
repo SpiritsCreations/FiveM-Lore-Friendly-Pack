@@ -1,4 +1,4 @@
-  -- Sets server list convar
+-- Sets server list convar
 SetConvarServerInfo('tags', 'Car_Pack')
 
 -- Setup for the version check
@@ -19,23 +19,23 @@ Citizen.CreateThread(function()
             if curVersion and responseText then
                 if tonumber(curVersion) and tonumber(responseText) then
                     if tonumber(curVersion) < tonumber(responseText) then
-                        print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Car Pack!")
+                        print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Lore Friendly Car Pack!")
                         print("   _/        _/        ║")
                         print("    _/_/    _/         ║")
-                        print("       _/  _/          ║                       Uh Oh! Looks like Car Pack is outdated")
+                        print("       _/  _/          ║                       Uh Oh! Looks like Lore Friendly Car Pack is outdated")
                         print("_/_/_/      _/_/_/     ║ Should be: "..responseText..", currently is: "..curVersion..". Please update it from https://github.com"..updatePath.."")
                     elseif tonumber(curVersion) > tonumber(responseText) then
-                        print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Car Pack!")
+                        print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Lore Friendly Car Pack!")
                         print("   _/        _/        ║")
                         print("    _/_/    _/         ║")
-                        print("       _/  _/          ║           Uh Oh! You somehow skipped a few versions of Car Pack")
+                        print("       _/  _/          ║           Uh Oh! You somehow skipped a few versions of Lore Friendly Car Pack")
                         print("_/_/_/      _/_/_/     ║  or the git went offline, if it's still online I advise you to update (or downgrade?)")
                     else
-                        print("      _/_/_/    _/_/_/ ║              Hey there! Yeah you, thanks for using my Car Pack!")
+                        print("      _/_/_/    _/_/_/ ║              Hey there! Yeah you, thanks for using my Lore Friendly Car Pack!")
                         print("   _/        _/        ║")
                         print("    _/_/    _/         ║")
                         print("       _/  _/          ║")
-                        print("_/_/_/      _/_/_/     ║               It looks like Car Pack is up to date, have fun!")
+                        print("_/_/_/      _/_/_/     ║               It looks like Lore Friendly Car Pack is up to date, have fun!")
                     end
                 else
                     print("Error: Unable to parse version numbers.")

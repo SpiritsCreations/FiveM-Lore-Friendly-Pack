@@ -2,7 +2,7 @@
 This Pack is currently in-development, the Data Folder is empty whilst this is a work in progress!
 
 A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
-* Only high quality models and sounds. 
+* Only high quality models and sounds.
 * **Most** models run at <40 MiB of physical memory.
 * Most handling files are lore friendly. Feel free to make a PR if you fix handling on one of the featured vehicles.
 
@@ -22,9 +22,7 @@ A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixt
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Annis Roxanne** | roxanne | ![Picture](./image/roxanne.webp) | TGI_J | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) | ✔️ |
-| **Annis Remus II** | remustwo | ![Picture](./image/remustwo.webp) | 13Stewartc | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-remus-ii-add-on-tuning-lod-s-sounds) | ✔️ |
-| **Gallivanter Baller Classic** | ballers / ballers2 | ![Picture](./image/GallivanterBallerClassic.webp) | Patão_Innertubey | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-baller-classic-add-on) | ✔️ |
-| **Gallivanter Peacemaker** | ballerc | ![Picture](./image/GallivanterPeacemaker.webp) | WibFlip, Grulaz | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-peacemaker-add-on-tuning) | ✔️ |
-| **Gallivanter Baller Raid** | baller7r | ![Picture](./image/GallivanterBallerRaid.webp) | BullseyeSBT | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards) | ✔️ | Not Spawning
-| **Gallivanter Baller Blackline Sport** | peacemaker / peacemaker2 / peacemaker3 | ![Picture](./image/GallivanterBallerBlacklineSport.webp) | F7YO | [5MODS Link](https://www.gta5-mods.com/vehicles/gallivanter-baller-blackline-sport-add-on-lod-s-tuning) | ✔️ |
+| **Benefactor Dubsta 4x4** | dubsta4x4 | ![Picture](./image/dubsta4x4.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-dubsta-4x4) | ✔️ |
+| **Pfister Comet R** | cometr | ![Picture](./image/cometr.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-comet-r-add-on-replace) | ✔️ |
+| **Progen T20 GTR** | t20gtr | ![Picture](./image/t20gtr.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
+| **Truffade Adder Sport** | adders | ![Picture](./image/adders.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |

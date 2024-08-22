@@ -1,16 +1,16 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author "Spirit's Creations"
+author "Spirits Creations"
 description 'Lore-Friendly Car Pack'
 repository 'https://github.com/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack'
 
-client_scripts {
-    'versioncheck.lua'
+server_scripts {
+	"versioncheck.lua"
 }
 
-client_script{
-    'client.lua'
+client_scripts {
+	"client.lua"
 }
 
 files {
@@ -34,27 +34,7 @@ data_file 'CARCOLS_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_LAYOUTS_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_SHOP_DLC_FILE' 'data/**/*.meta'
-data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/*.meta' 
+data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_SETTINGS_FILE' 'data/**/*.meta'
 data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/*.meta'
 data_file 'PTFXASSETINFO_FILE' 'data/**/ptfxassetinfo.meta'
-
--- START OF AUDIO SYNTHDATA --
--- data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/example_amp.dat'
--- END OF AUDIO SYNTHDATA
-
--- START OF AUDIO GAMEDATA --
-data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/roxanne_game.dat'
-data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/remustwo_game.dat'
--- END OF AUDIO GAMEDATA --
-
--- START OF AUDIO SOUNDDATA --
-data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/roxanne_sounds.dat'
-data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/remustwo_sounds.dat'
--- END OF AUDIO SOUNDDATA --
-
--- START OF AUDIO WAVEPACK --
-data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_roxanne'
-data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_remustwo'
--- END OF AUDIO WAVEPACK --
-
