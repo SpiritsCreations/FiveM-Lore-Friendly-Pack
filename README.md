@@ -31,3 +31,4 @@ A collection of Lore-Friendly vehicles from GTA5-mods. This pack features a mixt
 | **Pfister Comet R** | cometr | ![Picture](./image/cometr.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-comet-r-add-on-replace) | ✔️ |
 | **Progen T20 GTR** | t20gtr | ![Picture](./image/t20gtr.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
 | **Truffade Adder Sport** | adders | ![Picture](./image/adders.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
+| **Vapid Dominator GT Coupe** | domgtcoupe | ![Picture](./image/domgtcoupe.webp) | [Dayashii](https://www.gta5-mods.com/users/Dayashii) | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-dominator-gt-coupe-add-on-tuning) | ✔️ |
