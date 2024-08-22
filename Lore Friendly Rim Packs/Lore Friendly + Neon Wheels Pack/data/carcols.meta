@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item> <!-- VWT_SPORT -->
+		<Item>
+        <wheelName>10f_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>10F_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>10f_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>10F_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>10f_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>10F_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>8fdrafter_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>8FDRAFTER_WL</modShopLabel>
+        <rimRadius value="0.5"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>8fdrafter_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>8FDRAFTER_WL2</modShopLabel>
+        <rimRadius value="0.5"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>8fdrafter_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>8FDRAFTER_WLN</modShopLabel>
+        <rimRadius value="0.5"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>coqued10_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>COQUED10_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>coqued10_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>COQUED10_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>coqued10_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>COQUED10_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>euros_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>EUROS_WL</modShopLabel>
+        <rimRadius value="0.7"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>euros_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>EUROS_WLN</modShopLabel>
+        <rimRadius value="0.7"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_zr380_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_ZR380_WL</modShopLabel>
+        <rimRadius value="0.77"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>italirsx_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>ITALIRSX_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>italirsx_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>ITALIRSX_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>italirsx_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>ITALIRSX_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>jesterrr_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>JESTERRR_WL</modShopLabel>
+        <rimRadius value="0.79"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>jesterrr_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>JESTERRR_WL2</modShopLabel>
+        <rimRadius value="0.79"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>jesterrr_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>JESTERRR_WLN</modShopLabel>
+        <rimRadius value="0.79"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>omnisegt_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>OMNISEGT_WL</modShopLabel>
+        <rimRadius value="0.79"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>omnisegt_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>OMNISEGT_WL2</modShopLabel>
+        <rimRadius value="0.79"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>omnisegt_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>OMNISEGT_WLN</modShopLabel>
+        <rimRadius value="0.79"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>panthere_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>PANTHERE_WL</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>panthere_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>PANTHERE_WLN</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>paragonr_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>PARAGONR_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>paragonr_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>PARAGONR_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>paragonr_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>PARAGONR_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>vectre_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>VECTRE_WL</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>vectre_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>VECTRE_WL2</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>vectre_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>VECTRE_WLN</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>vstr_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>VSTR_WL</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>vstr_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>VSTR_WLN</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+    </Item>
+	<Item> <!-- VWT_MUSCLE -->
+		<Item>
+        <wheelName>buffalo_evx_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>BUFFALO_EVX_WL</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>buffalo_evx_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>BUFFALO_EVX_WL2</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>buffalo_evx_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>BUFFALO_EVX_WLN</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_slamvan_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_SLAMVAN_WL</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>impaler_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>IMPALER_WL</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ruiner2000_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>RUINER2000_WL</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ruiner2000_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>RUINER2000_WL2</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ruiner2000_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>RUINER2000_WLN</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+	</Item>
+	<Item> <!-- VWT_LOWRIDER -->
+	</Item>
+	<Item> <!-- VWT_SUV -->
+		<Item>
+        <wheelName>astron_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>ASTRON_WL</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>astron_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>ASTRON_WLN</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ballerstd_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>BALLERSTD_WL</modShopLabel>
+        <rimRadius value="0.75"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ballerstd_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>BALLERSTD_WL2</modShopLabel>
+        <rimRadius value="0.75"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ballerstd_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>BALLERSTD_WLN</modShopLabel>
+        <rimRadius value="0.75"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>cognos_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>COGNOS_WL</modShopLabel>
+        <rimRadius value="0.75"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>cognos_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>COGNOS_WLN</modShopLabel>
+        <rimRadius value="0.75"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_brutus_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_BRUTUS_WL</modShopLabel>
+        <rimRadius value="0.77"/>
+        <rear value="false"/>
+		</Item>
+	</Item>
+	<Item> <!-- VWT_OFFROAD -->
+		<Item>
+        <wheelName>apc_sus_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>APC_SUS_WL</modShopLabel>
+        <rimRadius value="0.25"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>apc_sus_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>APC_SUS_WLN</modShopLabel>
+        <rimRadius value="0.25"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_bruiser_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_BRUISER_WL</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_bruiser_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_BRUISER_WL2</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_imper_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_IMPER_WL</modShopLabel>
+        <rimRadius value="0.33"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_imper_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_IMPER_WLN</modShopLabel>
+        <rimRadius value="0.33"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_sus_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_SUS_WL</modShopLabel>
+        <rimRadius value="0.885"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_sus_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_SUS_WLN</modShopLabel>
+        <rimRadius value="0.885"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ftr_sus_wln2</wheelName>
+        <wheelVariation />
+        <modShopLabel>FTR_SUS_WLN2</modShopLabel>
+        <rimRadius value="0.885"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>terminus_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TERMINUS_WL</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>terminus_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>TERMINUS_WL2</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>terminus_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>TERMINUS_WLN</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>zhaba_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>ZHABA_WL</modShopLabel>
+        <rimRadius value="0.225"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>zhaba_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>ZHABA_WLN</modShopLabel>
+        <rimRadius value="0.225"/>
+        <rear value="false"/>
+		</Item>
+	</Item>
+	<Item> <!-- VWT_TUNER -->
+		<Item>
+        <wheelName>asbo_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>ASBO_WL</modShopLabel>
+        <rimRadius value="0.768"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>asbo_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>ASBO_WLN</modShopLabel>
+        <rimRadius value="0.768"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>kanjosj_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>KANJOSJ_WL</modShopLabel>
+        <rimRadius value="0.3"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>kanjosj_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>KANJOSJ_WLN</modShopLabel>
+        <rimRadius value="0.3"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>previon_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>PREVION_WL</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>previon_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>PREVION_WLN</modShopLabel>
+        <rimRadius value="0.4"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>primo_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>PRIMO_WL</modShopLabel>
+        <rimRadius value="0.3"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>primo_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>PRIMO_WL2</modShopLabel>
+        <rimRadius value="0.3"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>primo_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>PRIMO_WLN</modShopLabel>
+        <rimRadius value="0.3"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>remus_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>REMUS_WL</modShopLabel>
+        <rimRadius value="0.35"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>remus_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>REMUS_WLN</modShopLabel>
+        <rimRadius value="0.35"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>toreador_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TOREADOR_WL</modShopLabel>
+        <rimRadius value="0.315"/>
+        <rear value="false"/>
+		</Item>
+	</Item>
+    <Item/> <!-- VWT_BIKE -->
+    <Item> <!-- VWT_HIEND -->
+		<Item>
+        <wheelName>bullet_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>BULLET_WL</modShopLabel>
+        <rimRadius value="0.815"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>bullet_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>BULLET_WL2</modShopLabel>
+        <rimRadius value="0.815"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>bullet_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>BULLET_WLN</modShopLabel>
+        <rimRadius value="0.815"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>champ_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>CHAMP_WL</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>champ_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>CHAMP_WL2</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>champ_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>CHAMP_WLN</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>furia_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>FURIA_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>furia_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>FURIA_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>furia_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>FURIA_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ignus_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>IGNUS_WL</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ignus_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>IGNUS_WL2</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>ignus_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>IGNUS_WLN</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>nero_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>NERO_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>nero_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>NERO_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>nero_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>NERO_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>reaper_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>REAPER_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>reaper_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>REAPER_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>taipan_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TAIPAN_WL</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>taipan_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>TAIPAN_WL2</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>taipan_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>TAIPAN_WLN</modShopLabel>
+        <rimRadius value="0.8"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tempesta_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TEMPESTA_WL</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tempesta_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>TEMPESTA_WL2</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tempesta_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>TEMPESTA_WLN</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tezeract_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TEZERACT_WL</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tezeract_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>TEZERACT_WL2</modShopLabel>
+        <rimRadius value="0.82"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>thrax_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>THRAX_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>thrax_wl2</wheelName>
+        <wheelVariation />
+        <modShopLabel>THRAX_WL2</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>thrax_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>THRAX_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tigon_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TIGON_WL</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>tigon_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>TIGON_WLN</modShopLabel>
+        <rimRadius value="0.83"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>toreroxo_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>TOREROXO_WL</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>toreroxo_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>TOREROXO_WLN</modShopLabel>
+        <rimRadius value="0.86"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>x80proto_wl</wheelName>
+        <wheelVariation />
+        <modShopLabel>X80PROTO_WL</modShopLabel>
+        <rimRadius value="0.84"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>x80proto_wln</wheelName>
+        <wheelVariation />
+        <modShopLabel>X80PROTO_WLN</modShopLabel>
+        <rimRadius value="0.84"/>
+        <rear value="false"/>
+		</Item>
+	</Item>
+	<Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

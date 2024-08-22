@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item> <!-- VWT_MUSCLE -->
+	<Item>
+        <wheelName>wheel_musc_e1</wheelName>
+        <wheelVariation>wheel_musc_e1w</wheelVariation>
+        <modShopLabel>wheel_musc_e1</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e1a</wheelName>
+        <wheelVariation>wheel_musc_e1aw</wheelVariation>
+        <modShopLabel>wheel_musc_e1a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e2</wheelName>
+        <wheelVariation>wheel_musc_e2w</wheelVariation>
+        <modShopLabel>wheel_musc_e2</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e2a</wheelName>
+        <wheelVariation>wheel_musc_e2aw</wheelVariation>
+        <modShopLabel>wheel_musc_e2a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e3</wheelName>
+        <wheelVariation>wheel_musc_e3w</wheelVariation>
+        <modShopLabel>wheel_musc_e3</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e3a</wheelName>
+        <wheelVariation>wheel_musc_e3aw</wheelVariation>
+        <modShopLabel>wheel_musc_e3a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e3b</wheelName>
+        <wheelVariation>wheel_musc_e3bw</wheelVariation>
+        <modShopLabel>wheel_musc_e3b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e3c</wheelName>
+        <wheelVariation>wheel_musc_e3cw</wheelVariation>
+        <modShopLabel>wheel_musc_e3c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e3d</wheelName>
+        <wheelVariation>wheel_musc_e3dw</wheelVariation>
+        <modShopLabel>wheel_musc_e3d</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e36</wheelName>
+        <wheelVariation>wheel_musc_e36w</wheelVariation>
+        <modShopLabel>wheel_musc_e36</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e36a</wheelName>
+        <wheelVariation>wheel_musc_e36aw</wheelVariation>
+        <modShopLabel>wheel_musc_e36a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e36b</wheelName>
+        <wheelVariation>wheel_musc_e36bw</wheelVariation>
+        <modShopLabel>wheel_musc_e36b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e36c</wheelName>
+        <wheelVariation>wheel_musc_e36cw</wheelVariation>
+        <modShopLabel>wheel_musc_e36c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e36d</wheelName>
+        <wheelVariation>wheel_musc_e36dw</wheelVariation>
+        <modShopLabel>wheel_musc_e36d</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e4</wheelName>
+        <wheelVariation>wheel_musc_e4w</wheelVariation>
+        <modShopLabel>wheel_musc_e4</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e4a</wheelName>
+        <wheelVariation>wheel_musc_e4aw</wheelVariation>
+        <modShopLabel>wheel_musc_e4a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e37</wheelName>
+        <wheelVariation>wheel_musc_e37w</wheelVariation>
+        <modShopLabel>wheel_musc_e37</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e37a</wheelName>
+        <wheelVariation>wheel_musc_e37aw</wheelVariation>
+        <modShopLabel>wheel_musc_e37a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e5</wheelName>
+        <wheelVariation>wheel_musc_e5w</wheelVariation>
+        <modShopLabel>wheel_musc_e5</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e5a</wheelName>
+        <wheelVariation>wheel_musc_e5aw</wheelVariation>
+        <modShopLabel>wheel_musc_e5a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e6</wheelName>
+        <wheelVariation>wheel_musc_e6w</wheelVariation>
+        <modShopLabel>wheel_musc_e6</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e6a</wheelName>
+        <wheelVariation>wheel_musc_e6aw</wheelVariation>
+        <modShopLabel>wheel_musc_e6a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e6b</wheelName>
+        <wheelVariation>wheel_musc_e6bw</wheelVariation>
+        <modShopLabel>wheel_musc_e6b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e6c</wheelName>
+        <wheelVariation>wheel_musc_e6cw</wheelVariation>
+        <modShopLabel>wheel_musc_e6c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e6d</wheelName>
+        <wheelVariation>wheel_musc_e6dw</wheelVariation>
+        <modShopLabel>wheel_musc_e6d</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e7</wheelName>
+        <wheelVariation>wheel_musc_e7w</wheelVariation>
+        <modShopLabel>wheel_musc_e7</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e7a</wheelName>
+        <wheelVariation>wheel_musc_e7aw</wheelVariation>
+        <modShopLabel>wheel_musc_e7a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e7b</wheelName>
+        <wheelVariation>wheel_musc_e7bw</wheelVariation>
+        <modShopLabel>wheel_musc_e7b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e7c</wheelName>
+        <wheelVariation>wheel_musc_e7cw</wheelVariation>
+        <modShopLabel>wheel_musc_e7c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e8</wheelName>
+        <wheelVariation>wheel_musc_e8w</wheelVariation>
+        <modShopLabel>wheel_musc_e8</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e8a</wheelName>
+        <wheelVariation>wheel_musc_e8aw</wheelVariation>
+        <modShopLabel>wheel_musc_e8a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e29</wheelName>
+        <wheelVariation>wheel_musc_e29w</wheelVariation>
+        <modShopLabel>wheel_musc_e29</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e29a</wheelName>
+        <wheelVariation>wheel_musc_e29aw</wheelVariation>
+        <modShopLabel>wheel_musc_e29a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e29b</wheelName>
+        <wheelVariation>wheel_musc_e29bw</wheelVariation>
+        <modShopLabel>wheel_musc_e29b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e29c</wheelName>
+        <wheelVariation>wheel_musc_e29cw</wheelVariation>
+        <modShopLabel>wheel_musc_e29c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e9</wheelName>
+        <wheelVariation>wheel_musc_e9w</wheelVariation>
+        <modShopLabel>wheel_musc_e9</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e9a</wheelName>
+        <wheelVariation>wheel_musc_e9aw</wheelVariation>
+        <modShopLabel>wheel_musc_e9a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e9b</wheelName>
+        <wheelVariation>wheel_musc_e9bw</wheelVariation>
+        <modShopLabel>wheel_musc_e9b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e10</wheelName>
+        <wheelVariation>wheel_musc_e10w</wheelVariation>
+        <modShopLabel>wheel_musc_e10</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e10a</wheelName>
+        <wheelVariation>wheel_musc_e10aw</wheelVariation>
+        <modShopLabel>wheel_musc_e10a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e10b</wheelName>
+        <wheelVariation>wheel_musc_e10bw</wheelVariation>
+        <modShopLabel>wheel_musc_e10b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e10c</wheelName>
+        <wheelVariation>wheel_musc_e10cw</wheelVariation>
+        <modShopLabel>wheel_musc_e10c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e11</wheelName>
+        <wheelVariation>wheel_musc_e11w</wheelVariation>
+        <modShopLabel>wheel_musc_e11</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e11a</wheelName>
+        <wheelVariation>wheel_musc_e11aw</wheelVariation>
+        <modShopLabel>wheel_musc_e11a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e11b</wheelName>
+        <wheelVariation>wheel_musc_e11bw</wheelVariation>
+        <modShopLabel>wheel_musc_e11b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e12</wheelName>
+        <wheelVariation>wheel_musc_e12w</wheelVariation>
+        <modShopLabel>wheel_musc_e12</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e12a</wheelName>
+        <wheelVariation>wheel_musc_e12aw</wheelVariation>
+        <modShopLabel>wheel_musc_e12a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e12b</wheelName>
+        <wheelVariation>wheel_musc_e12bw</wheelVariation>
+        <modShopLabel>wheel_musc_e12b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e19</wheelName>
+        <wheelVariation>wheel_musc_e19w</wheelVariation>
+        <modShopLabel>wheel_musc_e19</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e19a</wheelName>
+        <wheelVariation>wheel_musc_e19aw</wheelVariation>
+        <modShopLabel>wheel_musc_e19a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e19b</wheelName>
+        <wheelVariation>wheel_musc_e19bw</wheelVariation>
+        <modShopLabel>wheel_musc_e19b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e24</wheelName>
+        <wheelVariation>wheel_musc_e24w</wheelVariation>
+        <modShopLabel>wheel_musc_e24</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e24a</wheelName>
+        <wheelVariation>wheel_musc_e24aw</wheelVariation>
+        <modShopLabel>wheel_musc_e24a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e24b</wheelName>
+        <wheelVariation>wheel_musc_e24bw</wheelVariation>
+        <modShopLabel>wheel_musc_e24b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e13</wheelName>
+        <wheelVariation>wheel_musc_e13w</wheelVariation>
+        <modShopLabel>wheel_musc_e13</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e13a</wheelName>
+        <wheelVariation>wheel_musc_e13aw</wheelVariation>
+        <modShopLabel>wheel_musc_e13a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e35</wheelName>
+        <wheelVariation>wheel_musc_e35w</wheelVariation>
+        <modShopLabel>wheel_musc_e35</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e35a</wheelName>
+        <wheelVariation>wheel_musc_e35aw</wheelVariation>
+        <modShopLabel>wheel_musc_e35a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e14</wheelName>
+        <wheelVariation>wheel_musc_e14w</wheelVariation>
+        <modShopLabel>wheel_musc_e14</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e14a</wheelName>
+        <wheelVariation>wheel_musc_e14aw</wheelVariation>
+        <modShopLabel>wheel_musc_e14a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e39</wheelName>
+        <wheelVariation>wheel_musc_e39w</wheelVariation>
+        <modShopLabel>wheel_musc_e39</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e39a</wheelName>
+        <wheelVariation>wheel_musc_e39aw</wheelVariation>
+        <modShopLabel>wheel_musc_e39a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e27</wheelName>
+        <wheelVariation>wheel_musc_e27w</wheelVariation>
+        <modShopLabel>wheel_musc_e27</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e27a</wheelName>
+        <wheelVariation>wheel_musc_e27aw</wheelVariation>
+        <modShopLabel>wheel_musc_e27a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e15</wheelName>
+        <wheelVariation>wheel_musc_e15w</wheelVariation>
+        <modShopLabel>wheel_musc_e15</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e15a</wheelName>
+        <wheelVariation>wheel_musc_e15aw</wheelVariation>
+        <modShopLabel>wheel_musc_e15a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e16</wheelName>
+        <wheelVariation>wheel_musc_e16w</wheelVariation>
+        <modShopLabel>wheel_musc_e16</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e16a</wheelName>
+        <wheelVariation>wheel_musc_e16aw</wheelVariation>
+        <modShopLabel>wheel_musc_e16a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e16b</wheelName>
+        <wheelVariation>wheel_musc_e16bw</wheelVariation>
+        <modShopLabel>wheel_musc_e16b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e16c</wheelName>
+        <wheelVariation>wheel_musc_e16cw</wheelVariation>
+        <modShopLabel>wheel_musc_e16c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e17</wheelName>
+        <wheelVariation>wheel_musc_e17w</wheelVariation>
+        <modShopLabel>wheel_musc_e17</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e17a</wheelName>
+        <wheelVariation>wheel_musc_e17aw</wheelVariation>
+        <modShopLabel>wheel_musc_e17a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e17b</wheelName>
+        <wheelVariation>wheel_musc_e17bw</wheelVariation>
+        <modShopLabel>wheel_musc_e17b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e18</wheelName>
+        <wheelVariation>wheel_musc_e18w</wheelVariation>
+        <modShopLabel>wheel_musc_e18</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e18a</wheelName>
+        <wheelVariation>wheel_musc_e18aw</wheelVariation>
+        <modShopLabel>wheel_musc_e18a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e42</wheelName>
+        <wheelVariation>wheel_musc_e42w</wheelVariation>
+        <modShopLabel>wheel_musc_e42</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e42a</wheelName>
+        <wheelVariation>wheel_musc_e42aw</wheelVariation>
+        <modShopLabel>wheel_musc_e42a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e42b</wheelName>
+        <wheelVariation>wheel_musc_e42bw</wheelVariation>
+        <modShopLabel>wheel_musc_e42b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e20</wheelName>
+        <wheelVariation>wheel_musc_e20w</wheelVariation>
+        <modShopLabel>wheel_musc_e20</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e20a</wheelName>
+        <wheelVariation>wheel_musc_e20aw</wheelVariation>
+        <modShopLabel>wheel_musc_e20a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e20b</wheelName>
+        <wheelVariation>wheel_musc_e20bw</wheelVariation>
+        <modShopLabel>wheel_musc_e20b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e25</wheelName>
+        <wheelVariation>wheel_musc_e25w</wheelVariation>
+        <modShopLabel>wheel_musc_e25</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e25a</wheelName>
+        <wheelVariation>wheel_musc_e25aw</wheelVariation>
+        <modShopLabel>wheel_musc_e25a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e25b</wheelName>
+        <wheelVariation>wheel_musc_e25bw</wheelVariation>
+        <modShopLabel>wheel_musc_e25b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e21</wheelName>
+        <wheelVariation>wheel_musc_e21w</wheelVariation>
+        <modShopLabel>wheel_musc_e21</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e21a</wheelName>
+        <wheelVariation>wheel_musc_e21aw</wheelVariation>
+        <modShopLabel>wheel_musc_e21a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e22</wheelName>
+        <wheelVariation>wheel_musc_e22w</wheelVariation>
+        <modShopLabel>wheel_musc_e22</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e22a</wheelName>
+        <wheelVariation>wheel_musc_e22aw</wheelVariation>
+        <modShopLabel>wheel_musc_e22a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e23</wheelName>
+        <wheelVariation>wheel_musc_e23w</wheelVariation>
+        <modShopLabel>wheel_musc_e23</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e23a</wheelName>
+        <wheelVariation>wheel_musc_e23aw</wheelVariation>
+        <modShopLabel>wheel_musc_e23a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e23b</wheelName>
+        <wheelVariation>wheel_musc_e23bw</wheelVariation>
+        <modShopLabel>wheel_musc_e23b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e26</wheelName>
+        <wheelVariation>wheel_musc_e26w</wheelVariation>
+        <modShopLabel>wheel_musc_e26</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e26a</wheelName>
+        <wheelVariation>wheel_musc_e26aw</wheelVariation>
+        <modShopLabel>wheel_musc_e26a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e40</wheelName>
+        <wheelVariation>wheel_musc_e40w</wheelVariation>
+        <modShopLabel>wheel_musc_e40</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e40a</wheelName>
+        <wheelVariation>wheel_musc_e40aw</wheelVariation>
+        <modShopLabel>wheel_musc_e40a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e41</wheelName>
+        <wheelVariation>wheel_musc_e41w</wheelVariation>
+        <modShopLabel>wheel_musc_e41</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e41a</wheelName>
+        <wheelVariation>wheel_musc_e41aw</wheelVariation>
+        <modShopLabel>wheel_musc_e41a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e28</wheelName>
+        <wheelVariation>wheel_musc_e28w</wheelVariation>
+        <modShopLabel>wheel_musc_e28</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e28a</wheelName>
+        <wheelVariation>wheel_musc_e28aw</wheelVariation>
+        <modShopLabel>wheel_musc_e28a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e30</wheelName>
+        <wheelVariation>wheel_musc_e30w</wheelVariation>
+        <modShopLabel>wheel_musc_e30</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e30a</wheelName>
+        <wheelVariation>wheel_musc_e30aw</wheelVariation>
+        <modShopLabel>wheel_musc_e30a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e31</wheelName>
+        <wheelVariation>wheel_musc_e31w</wheelVariation>
+        <modShopLabel>wheel_musc_e31</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e31a</wheelName>
+        <wheelVariation>wheel_musc_e31aw</wheelVariation>
+        <modShopLabel>wheel_musc_e31a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e32</wheelName>
+        <wheelVariation>wheel_musc_e32w</wheelVariation>
+        <modShopLabel>wheel_musc_e32</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e32a</wheelName>
+        <wheelVariation>wheel_musc_e32aw</wheelVariation>
+        <modShopLabel>wheel_musc_e32a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e33</wheelName>
+        <wheelVariation>wheel_musc_e33w</wheelVariation>
+        <modShopLabel>wheel_musc_e33</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e33a</wheelName>
+        <wheelVariation>wheel_musc_e33aw</wheelVariation>
+        <modShopLabel>wheel_musc_e33a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e33b</wheelName>
+        <wheelVariation>wheel_musc_e33bw</wheelVariation>
+        <modShopLabel>wheel_musc_e33b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e33c</wheelName>
+        <wheelVariation>wheel_musc_e33cw</wheelVariation>
+        <modShopLabel>wheel_musc_e33c</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e33d</wheelName>
+        <wheelVariation>wheel_musc_e33dw</wheelVariation>
+        <modShopLabel>wheel_musc_e33d</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e43</wheelName>
+        <wheelVariation>wheel_musc_e43w</wheelVariation>
+        <modShopLabel>wheel_musc_e43</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e43a</wheelName>
+        <wheelVariation>wheel_musc_e43aw</wheelVariation>
+        <modShopLabel>wheel_musc_e43a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e43b</wheelName>
+        <wheelVariation>wheel_musc_e43bw</wheelVariation>
+        <modShopLabel>wheel_musc_e43b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e34</wheelName>
+        <wheelVariation>wheel_musc_e34w</wheelVariation>
+        <modShopLabel>wheel_musc_e34</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e34a</wheelName>
+        <wheelVariation>wheel_musc_e34aw</wheelVariation>
+        <modShopLabel>wheel_musc_e34a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e34b</wheelName>
+        <wheelVariation>wheel_musc_e34bw</wheelVariation>
+        <modShopLabel>wheel_musc_e34b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e38</wheelName>
+        <wheelVariation>wheel_musc_e38w</wheelVariation>
+        <modShopLabel>wheel_musc_e38</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e38a</wheelName>
+        <wheelVariation>wheel_musc_e38aw</wheelVariation>
+        <modShopLabel>wheel_musc_e38a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel_musc_e38b</wheelName>
+        <wheelVariation>wheel_musc_e38bw</wheelVariation>
+        <modShopLabel>wheel_musc_e38b</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e1</wheelName>
+        <wheelVariation>wheel2_musc_e1w</wheelVariation>
+        <modShopLabel>wheel2_musc_e1</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e2</wheelName>
+        <wheelVariation>wheel2_musc_e2w</wheelVariation>
+        <modShopLabel>wheel2_musc_e2</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e3</wheelName>
+        <wheelVariation>wheel2_musc_e3w</wheelVariation>
+        <modShopLabel>wheel2_musc_e3</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e36</wheelName>
+        <wheelVariation>wheel2_musc_e36w</wheelVariation>
+        <modShopLabel>wheel2_musc_e36</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e4</wheelName>
+        <wheelVariation>wheel2_musc_e4w</wheelVariation>
+        <modShopLabel>wheel2_musc_e4</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e37</wheelName>
+        <wheelVariation>wheel2_musc_e37w</wheelVariation>
+        <modShopLabel>wheel2_musc_e37</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e5</wheelName>
+        <wheelVariation>wheel2_musc_e5w</wheelVariation>
+        <modShopLabel>wheel2_musc_e5</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e6</wheelName>
+        <wheelVariation>wheel2_musc_e6w</wheelVariation>
+        <modShopLabel>wheel2_musc_e6</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e7</wheelName>
+        <wheelVariation>wheel2_musc_e7w</wheelVariation>
+        <modShopLabel>wheel2_musc_e7</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e8</wheelName>
+        <wheelVariation>wheel2_musc_e8w</wheelVariation>
+        <modShopLabel>wheel2_musc_e8</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e29</wheelName>
+        <wheelVariation>wheel2_musc_e29w</wheelVariation>
+        <modShopLabel>wheel2_musc_e29</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e9</wheelName>
+        <wheelVariation>wheel2_musc_e9w</wheelVariation>
+        <modShopLabel>wheel2_musc_e9</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e10</wheelName>
+        <wheelVariation>wheel2_musc_e10w</wheelVariation>
+        <modShopLabel>wheel2_musc_e10</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e10a</wheelName>
+        <wheelVariation>wheel2_musc_e10aw</wheelVariation>
+        <modShopLabel>wheel2_musc_e10a</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e11</wheelName>
+        <wheelVariation>wheel2_musc_e11w</wheelVariation>
+        <modShopLabel>wheel2_musc_e11</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e12</wheelName>
+        <wheelVariation>wheel2_musc_e12w</wheelVariation>
+        <modShopLabel>wheel2_musc_e12</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e24</wheelName>
+        <wheelVariation>wheel2_musc_e24w</wheelVariation>
+        <modShopLabel>wheel2_musc_e24</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e13</wheelName>
+        <wheelVariation>wheel2_musc_e13w</wheelVariation>
+        <modShopLabel>wheel2_musc_e13</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e35</wheelName>
+        <wheelVariation>wheel2_musc_e35w</wheelVariation>
+        <modShopLabel>wheel2_musc_e35</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e14</wheelName>
+        <wheelVariation>wheel2_musc_e14w</wheelVariation>
+        <modShopLabel>wheel2_musc_e14</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e39</wheelName>
+        <wheelVariation>wheel2_musc_e39w</wheelVariation>
+        <modShopLabel>wheel2_musc_e39</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e27</wheelName>
+        <wheelVariation>wheel2_musc_e27w</wheelVariation>
+        <modShopLabel>wheel2_musc_e27</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e15</wheelName>
+        <wheelVariation>wheel2_musc_e15w</wheelVariation>
+        <modShopLabel>wheel2_musc_e15</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e16</wheelName>
+        <wheelVariation>wheel2_musc_e16w</wheelVariation>
+        <modShopLabel>wheel2_musc_e16</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e17</wheelName>
+        <wheelVariation>wheel2_musc_e17w</wheelVariation>
+        <modShopLabel>wheel2_musc_e17</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e18</wheelName>
+        <wheelVariation>wheel2_musc_e18w</wheelVariation>
+        <modShopLabel>wheel2_musc_e18</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e42</wheelName>
+        <wheelVariation>wheel2_musc_e42w</wheelVariation>
+        <modShopLabel>wheel2_musc_e42</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e19</wheelName>
+        <wheelVariation>wheel2_musc_e19w</wheelVariation>
+        <modShopLabel>wheel2_musc_e19</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e20</wheelName>
+        <wheelVariation>wheel2_musc_e20w</wheelVariation>
+        <modShopLabel>wheel2_musc_e20</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e25</wheelName>
+        <wheelVariation>wheel2_musc_e25w</wheelVariation>
+        <modShopLabel>wheel2_musc_e25</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e21</wheelName>
+        <wheelVariation>wheel2_musc_e21w</wheelVariation>
+        <modShopLabel>wheel2_musc_e21</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e22</wheelName>
+        <wheelVariation>wheel2_musc_e22w</wheelVariation>
+        <modShopLabel>wheel2_musc_e22</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e23</wheelName>
+        <wheelVariation>wheel2_musc_e23w</wheelVariation>
+        <modShopLabel>wheel2_musc_e23</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e26</wheelName>
+        <wheelVariation>wheel2_musc_e26w</wheelVariation>
+        <modShopLabel>wheel2_musc_e26</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e40</wheelName>
+        <wheelVariation>wheel2_musc_e40w</wheelVariation>
+        <modShopLabel>wheel2_musc_e40</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e41</wheelName>
+        <wheelVariation>wheel2_musc_e41w</wheelVariation>
+        <modShopLabel>wheel2_musc_e41</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e28</wheelName>
+        <wheelVariation>wheel2_musc_e28w</wheelVariation>
+        <modShopLabel>wheel2_musc_e28</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e30</wheelName>
+        <wheelVariation>wheel2_musc_e30w</wheelVariation>
+        <modShopLabel>wheel2_musc_e30</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e31</wheelName>
+        <wheelVariation>wheel2_musc_e31w</wheelVariation>
+        <modShopLabel>wheel2_musc_e31</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e32</wheelName>
+        <wheelVariation>wheel2_musc_e32w</wheelVariation>
+        <modShopLabel>wheel2_musc_e32</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e33</wheelName>
+        <wheelVariation>wheel2_musc_e33w</wheelVariation>
+        <modShopLabel>wheel2_musc_e33</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e43</wheelName>
+        <wheelVariation>wheel2_musc_e43w</wheelVariation>
+        <modShopLabel>wheel2_musc_e43</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e34</wheelName>
+        <wheelVariation>wheel2_musc_e34w</wheelVariation>
+        <modShopLabel>wheel2_musc_e34</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	<Item>
+        <wheelName>wheel2_musc_e38</wheelName>
+        <wheelVariation>wheel2_musc_e38w</wheelVariation>
+        <modShopLabel>wheel2_musc_e38</modShopLabel>
+        <rimRadius value="0.31652"/>
+        <rear value="false"/>
+      </Item>
+	</Item>  
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->    
+    <Item/> <!-- VWT_TUNER -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

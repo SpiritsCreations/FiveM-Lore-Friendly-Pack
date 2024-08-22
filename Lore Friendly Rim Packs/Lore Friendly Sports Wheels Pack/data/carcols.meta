@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item> <!-- VWT_SPORT -->
+	  <Item>
+        <wheelName>wheel_spt_e1</wheelName>
+        <wheelVariation>wheel_spt_e1w</wheelVariation>
+        <modShopLabel>wheel_spt_e1</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e1a</wheelName>
+        <wheelVariation>wheel_spt_e1aw</wheelVariation>
+        <modShopLabel>wheel_spt_e1a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e2</wheelName>
+        <wheelVariation>wheel_spt_e2w</wheelVariation>
+        <modShopLabel>wheel_spt_e2</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e2a</wheelName>
+        <wheelVariation>wheel_spt_e2aw</wheelVariation>
+        <modShopLabel>wheel_spt_e2a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e2b</wheelName>
+        <wheelVariation>wheel_spt_e2bw</wheelVariation>
+        <modShopLabel>wheel_spt_e2b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e3</wheelName>
+        <wheelVariation>wheel_spt_e3w</wheelVariation>
+        <modShopLabel>wheel_spt_e3</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e3a</wheelName>
+        <wheelVariation>wheel_spt_e3aw</wheelVariation>
+        <modShopLabel>wheel_spt_e3a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e3b</wheelName>
+        <wheelVariation>wheel_spt_e3bw</wheelVariation>
+        <modShopLabel>wheel_spt_e3b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e3c</wheelName>
+        <wheelVariation>wheel_spt_e3cw</wheelVariation>
+        <modShopLabel>wheel_spt_e3c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e4</wheelName>
+        <wheelVariation>wheel_spt_e4w</wheelVariation>
+        <modShopLabel>wheel_spt_e4</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e4a</wheelName>
+        <wheelVariation>wheel_spt_e4aw</wheelVariation>
+        <modShopLabel>wheel_spt_e4a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e4b</wheelName>
+        <wheelVariation>wheel_spt_e4bw</wheelVariation>
+        <modShopLabel>wheel_spt_e4b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e5</wheelName>
+        <wheelVariation>wheel_spt_e5w</wheelVariation>
+        <modShopLabel>wheel_spt_e5</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e5a</wheelName>
+        <wheelVariation>wheel_spt_e5aw</wheelVariation>
+        <modShopLabel>wheel_spt_e5a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e6</wheelName>
+        <wheelVariation>wheel_spt_e6w</wheelVariation>
+        <modShopLabel>wheel_spt_e6</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e6a</wheelName>
+        <wheelVariation>wheel_spt_e6aw</wheelVariation>
+        <modShopLabel>wheel_spt_e6a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e7</wheelName>
+        <wheelVariation>wheel_spt_e7w</wheelVariation>
+        <modShopLabel>wheel_spt_e7</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e7a</wheelName>
+        <wheelVariation>wheel_spt_e7aw</wheelVariation>
+        <modShopLabel>wheel_spt_e7a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e8</wheelName>
+        <wheelVariation>wheel_spt_e8w</wheelVariation>
+        <modShopLabel>wheel_spt_e8</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e8a</wheelName>
+        <wheelVariation>wheel_spt_e8aw</wheelVariation>
+        <modShopLabel>wheel_spt_e8a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e8b</wheelName>
+        <wheelVariation>wheel_spt_e8bw</wheelVariation>
+        <modShopLabel>wheel_spt_e8b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e8c</wheelName>
+        <wheelVariation>wheel_spt_e8cw</wheelVariation>
+        <modShopLabel>wheel_spt_e8c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e9</wheelName>
+        <wheelVariation>wheel_spt_e9w</wheelVariation>
+        <modShopLabel>wheel_spt_e9</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e9a</wheelName>
+        <wheelVariation>wheel_spt_e9aw</wheelVariation>
+        <modShopLabel>wheel_spt_e9a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e9b</wheelName>
+        <wheelVariation>wheel_spt_e9bw</wheelVariation>
+        <modShopLabel>wheel_spt_e9b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e9c</wheelName>
+        <wheelVariation>wheel_spt_e9cw</wheelVariation>
+        <modShopLabel>wheel_spt_e9c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e10</wheelName>
+        <wheelVariation>wheel_spt_e10w</wheelVariation>
+        <modShopLabel>wheel_spt_e10</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e10a</wheelName>
+        <wheelVariation>wheel_spt_e10aw</wheelVariation>
+        <modShopLabel>wheel_spt_e10a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e10b</wheelName>
+        <wheelVariation>wheel_spt_e10bw</wheelVariation>
+        <modShopLabel>wheel_spt_e10b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e11</wheelName>
+        <wheelVariation>wheel_spt_e11w</wheelVariation>
+        <modShopLabel>wheel_spt_e11</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e11a</wheelName>
+        <wheelVariation>wheel_spt_e11aw</wheelVariation>
+        <modShopLabel>wheel_spt_e11a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e11b</wheelName>
+        <wheelVariation>wheel_spt_e11bw</wheelVariation>
+        <modShopLabel>wheel_spt_e11b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e11c</wheelName>
+        <wheelVariation>wheel_spt_e11cw</wheelVariation>
+        <modShopLabel>wheel_spt_e11c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e12</wheelName>
+        <wheelVariation>wheel_spt_e12w</wheelVariation>
+        <modShopLabel>wheel_spt_e12</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e12a</wheelName>
+        <wheelVariation>wheel_spt_e12aw</wheelVariation>
+        <modShopLabel>wheel_spt_e12a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e13</wheelName>
+        <wheelVariation>wheel_spt_e13w</wheelVariation>
+        <modShopLabel>wheel_spt_e13</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e13a</wheelName>
+        <wheelVariation>wheel_spt_e13aw</wheelVariation>
+        <modShopLabel>wheel_spt_e13a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e14</wheelName>
+        <wheelVariation>wheel_spt_e14w</wheelVariation>
+        <modShopLabel>wheel_spt_e14</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e14a</wheelName>
+        <wheelVariation>wheel_spt_e14aw</wheelVariation>
+        <modShopLabel>wheel_spt_e14a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e15</wheelName>
+        <wheelVariation>wheel_spt_e15w</wheelVariation>
+        <modShopLabel>wheel_spt_e15</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e15a</wheelName>
+        <wheelVariation>wheel_spt_e15aw</wheelVariation>
+        <modShopLabel>wheel_spt_e15a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e16</wheelName>
+        <wheelVariation>wheel_spt_e16w</wheelVariation>
+        <modShopLabel>wheel_spt_e16</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e16a</wheelName>
+        <wheelVariation>wheel_spt_e16aw</wheelVariation>
+        <modShopLabel>wheel_spt_e16a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e17</wheelName>
+        <wheelVariation>wheel_spt_e17w</wheelVariation>
+        <modShopLabel>wheel_spt_e17</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e17a</wheelName>
+        <wheelVariation>wheel_spt_e17aw</wheelVariation>
+        <modShopLabel>wheel_spt_e17a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e18</wheelName>
+        <wheelVariation>wheel_spt_e18w</wheelVariation>
+        <modShopLabel>wheel_spt_e18</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e18a</wheelName>
+        <wheelVariation>wheel_spt_e18aw</wheelVariation>
+        <modShopLabel>wheel_spt_e18a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e18b</wheelName>
+        <wheelVariation>wheel_spt_e18bw</wheelVariation>
+        <modShopLabel>wheel_spt_e18b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e18c</wheelName>
+        <wheelVariation>wheel_spt_e18cw</wheelVariation>
+        <modShopLabel>wheel_spt_e18c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e30</wheelName>
+        <wheelVariation>wheel_spt_e30w</wheelVariation>
+        <modShopLabel>wheel_spt_e30</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e30a</wheelName>
+        <wheelVariation>wheel_spt_e30aw</wheelVariation>
+        <modShopLabel>wheel_spt_e30a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e30b</wheelName>
+        <wheelVariation>wheel_spt_e30bw</wheelVariation>
+        <modShopLabel>wheel_spt_e30b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e30c</wheelName>
+        <wheelVariation>wheel_spt_e30cw</wheelVariation>
+        <modShopLabel>wheel_spt_e30c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e19</wheelName>
+        <wheelVariation>wheel_spt_e19w</wheelVariation>
+        <modShopLabel>wheel_spt_e19</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e19a</wheelName>
+        <wheelVariation>wheel_spt_e19aw</wheelVariation>
+        <modShopLabel>wheel_spt_e19a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e20</wheelName>
+        <wheelVariation>wheel_spt_e20w</wheelVariation>
+        <modShopLabel>wheel_spt_e20</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e20a</wheelName>
+        <wheelVariation>wheel_spt_e20aw</wheelVariation>
+        <modShopLabel>wheel_spt_e20a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e21</wheelName>
+        <wheelVariation>wheel_spt_e21w</wheelVariation>
+        <modShopLabel>wheel_spt_e21</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e21a</wheelName>
+        <wheelVariation>wheel_spt_e21aw</wheelVariation>
+        <modShopLabel>wheel_spt_e21a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e21b</wheelName>
+        <wheelVariation>wheel_spt_e21bw</wheelVariation>
+        <modShopLabel>wheel_spt_e21b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e28</wheelName>
+        <wheelVariation>wheel_spt_e28w</wheelVariation>
+        <modShopLabel>wheel_spt_e28</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e28a</wheelName>
+        <wheelVariation>wheel_spt_e28aw</wheelVariation>
+        <modShopLabel>wheel_spt_e28a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e28b</wheelName>
+        <wheelVariation>wheel_spt_e28bw</wheelVariation>
+        <modShopLabel>wheel_spt_e28b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e22</wheelName>
+        <wheelVariation>wheel_spt_e22w</wheelVariation>
+        <modShopLabel>wheel_spt_e22</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e22a</wheelName>
+        <wheelVariation>wheel_spt_e22aw</wheelVariation>
+        <modShopLabel>wheel_spt_e22a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e23</wheelName>
+        <wheelVariation>wheel_spt_e23w</wheelVariation>
+        <modShopLabel>wheel_spt_e23</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e23a</wheelName>
+        <wheelVariation>wheel_spt_e23aw</wheelVariation>
+        <modShopLabel>wheel_spt_e23a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e24</wheelName>
+        <wheelVariation>wheel_spt_e24w</wheelVariation>
+        <modShopLabel>wheel_spt_e24</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e24a</wheelName>
+        <wheelVariation>wheel_spt_e24aw</wheelVariation>
+        <modShopLabel>wheel_spt_e24a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e24b</wheelName>
+        <wheelVariation>wheel_spt_e24bw</wheelVariation>
+        <modShopLabel>wheel_spt_e24b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e24c</wheelName>
+        <wheelVariation>wheel_spt_e24cw</wheelVariation>
+        <modShopLabel>wheel_spt_e24c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e25</wheelName>
+        <wheelVariation>wheel_spt_e25w</wheelVariation>
+        <modShopLabel>wheel_spt_e25</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e25a</wheelName>
+        <wheelVariation>wheel_spt_e25aw</wheelVariation>
+        <modShopLabel>wheel_spt_e25a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e26</wheelName>
+        <wheelVariation>wheel_spt_e26w</wheelVariation>
+        <modShopLabel>wheel_spt_e26</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e26a</wheelName>
+        <wheelVariation>wheel_spt_e26aw</wheelVariation>
+        <modShopLabel>wheel_spt_e26a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e26b</wheelName>
+        <wheelVariation>wheel_spt_e26bw</wheelVariation>
+        <modShopLabel>wheel_spt_e26b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e27</wheelName>
+        <wheelVariation>wheel_spt_e27w</wheelVariation>
+        <modShopLabel>wheel_spt_e27</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e27a</wheelName>
+        <wheelVariation>wheel_spt_e27aw</wheelVariation>
+        <modShopLabel>wheel_spt_e27a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e29</wheelName>
+        <wheelVariation>wheel_spt_e29w</wheelVariation>
+        <modShopLabel>wheel_spt_e29</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e29a</wheelName>
+        <wheelVariation>wheel_spt_e29aw</wheelVariation>
+        <modShopLabel>wheel_spt_e29a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e29b</wheelName>
+        <wheelVariation>wheel_spt_e29bw</wheelVariation>
+        <modShopLabel>wheel_spt_e29b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e31</wheelName>
+        <wheelVariation>wheel_spt_e31w</wheelVariation>
+        <modShopLabel>wheel_spt_e31</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e31a</wheelName>
+        <wheelVariation>wheel_spt_e31aw</wheelVariation>
+        <modShopLabel>wheel_spt_e31a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e32</wheelName>
+        <wheelVariation>wheel_spt_e32w</wheelVariation>
+        <modShopLabel>wheel_spt_e32</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e32a</wheelName>
+        <wheelVariation>wheel_spt_e32aw</wheelVariation>
+        <modShopLabel>wheel_spt_e32a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e32b</wheelName>
+        <wheelVariation>wheel_spt_e32bw</wheelVariation>
+        <modShopLabel>wheel_spt_e32b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e33</wheelName>
+        <wheelVariation>wheel_spt_e33w</wheelVariation>
+        <modShopLabel>wheel_spt_e33</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e33a</wheelName>
+        <wheelVariation>wheel_spt_e33aw</wheelVariation>
+        <modShopLabel>wheel_spt_e33a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e34</wheelName>
+        <wheelVariation>wheel_spt_e34w</wheelVariation>
+        <modShopLabel>wheel_spt_e34</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e34a</wheelName>
+        <wheelVariation>wheel_spt_e34aw</wheelVariation>
+        <modShopLabel>wheel_spt_e34a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e34b</wheelName>
+        <wheelVariation>wheel_spt_e34bw</wheelVariation>
+        <modShopLabel>wheel_spt_e34b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e35</wheelName>
+        <wheelVariation>wheel_spt_e35w</wheelVariation>
+        <modShopLabel>wheel_spt_e35</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e35a</wheelName>
+        <wheelVariation>wheel_spt_e35aw</wheelVariation>
+        <modShopLabel>wheel_spt_e35a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e36</wheelName>
+        <wheelVariation>wheel_spt_e36w</wheelVariation>
+        <modShopLabel>wheel_spt_e36</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e36a</wheelName>
+        <wheelVariation>wheel_spt_e36aw</wheelVariation>
+        <modShopLabel>wheel_spt_e36a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e37</wheelName>
+        <wheelVariation>wheel_spt_e37w</wheelVariation>
+        <modShopLabel>wheel_spt_e37</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e37a</wheelName>
+        <wheelVariation>wheel_spt_e37aw</wheelVariation>
+        <modShopLabel>wheel_spt_e37a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e37b</wheelName>
+        <wheelVariation>wheel_spt_e37bw</wheelVariation>
+        <modShopLabel>wheel_spt_e37b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e38</wheelName>
+        <wheelVariation>wheel_spt_e38w</wheelVariation>
+        <modShopLabel>wheel_spt_e38</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e38a</wheelName>
+        <wheelVariation>wheel_spt_e38aw</wheelVariation>
+        <modShopLabel>wheel_spt_e38a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e39</wheelName>
+        <wheelVariation>wheel_spt_e39w</wheelVariation>
+        <modShopLabel>wheel_spt_e39</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e39a</wheelName>
+        <wheelVariation>wheel_spt_e39aw</wheelVariation>
+        <modShopLabel>wheel_spt_e39a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e39b</wheelName>
+        <wheelVariation>wheel_spt_e39bw</wheelVariation>
+        <modShopLabel>wheel_spt_e39b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e39c</wheelName>
+        <wheelVariation>wheel_spt_e39cw</wheelVariation>
+        <modShopLabel>wheel_spt_e39c</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e40</wheelName>
+        <wheelVariation>wheel_spt_e40w</wheelVariation>
+        <modShopLabel>wheel_spt_e40</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e40a</wheelName>
+        <wheelVariation>wheel_spt_e40aw</wheelVariation>
+        <modShopLabel>wheel_spt_e40a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e40b</wheelName>
+        <wheelVariation>wheel_spt_e40bw</wheelVariation>
+        <modShopLabel>wheel_spt_e40b</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e41</wheelName>
+        <wheelVariation>wheel_spt_e41w</wheelVariation>
+        <modShopLabel>wheel_spt_e41</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e41a</wheelName>
+        <wheelVariation>wheel_spt_e41aw</wheelVariation>
+        <modShopLabel>wheel_spt_e41a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e42</wheelName>
+        <wheelVariation>wheel_spt_e42w</wheelVariation>
+        <modShopLabel>wheel_spt_e42</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_spt_e42a</wheelName>
+        <wheelVariation>wheel_spt_e42aw</wheelVariation>
+        <modShopLabel>wheel_spt_e42a</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item><!-- 
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  
+	  PAINTED END  /  CHROME BEGINNING
+	  
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+	  <Item>
+        <wheelName>wheel2_spt_e1</wheelName>
+        <wheelVariation>wheel2_spt_e1w</wheelVariation>
+        <modShopLabel>wheel2_spt_e1</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e2</wheelName>
+        <wheelVariation>wheel2_spt_e2w</wheelVariation>
+        <modShopLabel>wheel2_spt_e2</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e3</wheelName>
+        <wheelVariation>wheel2_spt_e3w</wheelVariation>
+        <modShopLabel>wheel2_spt_e3</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e4</wheelName>
+        <wheelVariation>wheel2_spt_e4w</wheelVariation>
+        <modShopLabel>wheel2_spt_e4</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e5</wheelName>
+        <wheelVariation>wheel2_spt_e5w</wheelVariation>
+        <modShopLabel>wheel2_spt_e5</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e6</wheelName>
+        <wheelVariation>wheel2_spt_e6w</wheelVariation>
+        <modShopLabel>wheel2_spt_e6</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e7</wheelName>
+        <wheelVariation>wheel2_spt_e7w</wheelVariation>
+        <modShopLabel>wheel2_spt_e7</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e8</wheelName>
+        <wheelVariation>wheel2_spt_e8w</wheelVariation>
+        <modShopLabel>wheel2_spt_e8</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e9</wheelName>
+        <wheelVariation>wheel2_spt_e9w</wheelVariation>
+        <modShopLabel>wheel2_spt_e9</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e10</wheelName>
+        <wheelVariation>wheel2_spt_e10w</wheelVariation>
+        <modShopLabel>wheel2_spt_e10</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e11</wheelName>
+        <wheelVariation>wheel2_spt_e11w</wheelVariation>
+        <modShopLabel>wheel2_spt_e11</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e12</wheelName>
+        <wheelVariation>wheel2_spt_e12w</wheelVariation>
+        <modShopLabel>wheel2_spt_e12</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e13</wheelName>
+        <wheelVariation>wheel2_spt_e13w</wheelVariation>
+        <modShopLabel>wheel2_spt_e13</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e14</wheelName>
+        <wheelVariation>wheel2_spt_e14w</wheelVariation>
+        <modShopLabel>wheel2_spt_e14</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e15</wheelName>
+        <wheelVariation>wheel2_spt_e15w</wheelVariation>
+        <modShopLabel>wheel2_spt_e15</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e16</wheelName>
+        <wheelVariation>wheel2_spt_e16w</wheelVariation>
+        <modShopLabel>wheel2_spt_e16</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e17</wheelName>
+        <wheelVariation>wheel2_spt_e17w</wheelVariation>
+        <modShopLabel>wheel2_spt_e17</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e18</wheelName>
+        <wheelVariation>wheel2_spt_e18w</wheelVariation>
+        <modShopLabel>wheel2_spt_e18</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e30</wheelName>
+        <wheelVariation>wheel2_spt_e30w</wheelVariation>
+        <modShopLabel>wheel2_spt_e30</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e19</wheelName>
+        <wheelVariation>wheel2_spt_e19w</wheelVariation>
+        <modShopLabel>wheel2_spt_e19</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e20</wheelName>
+        <wheelVariation>wheel2_spt_e20w</wheelVariation>
+        <modShopLabel>wheel2_spt_e20</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e21</wheelName>
+        <wheelVariation>wheel2_spt_e21w</wheelVariation>
+        <modShopLabel>wheel2_spt_e21</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e28</wheelName>
+        <wheelVariation>wheel2_spt_e28w</wheelVariation>
+        <modShopLabel>wheel2_spt_e28</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e22</wheelName>
+        <wheelVariation>wheel2_spt_e22w</wheelVariation>
+        <modShopLabel>wheel2_spt_e22</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e23</wheelName>
+        <wheelVariation>wheel2_spt_e23w</wheelVariation>
+        <modShopLabel>wheel2_spt_e23</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e24</wheelName>
+        <wheelVariation>wheel2_spt_e24w</wheelVariation>
+        <modShopLabel>wheel2_spt_e24</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e25</wheelName>
+        <wheelVariation>wheel2_spt_e25w</wheelVariation>
+        <modShopLabel>wheel2_spt_e25</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e26</wheelName>
+        <wheelVariation>wheel2_spt_e26w</wheelVariation>
+        <modShopLabel>wheel2_spt_e26</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e27</wheelName>
+        <wheelVariation>wheel2_spt_e27w</wheelVariation>
+        <modShopLabel>wheel2_spt_e27</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e29</wheelName>
+        <wheelVariation>wheel2_spt_e29w</wheelVariation>
+        <modShopLabel>wheel2_spt_e29</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e31</wheelName>
+        <wheelVariation>wheel2_spt_e31w</wheelVariation>
+        <modShopLabel>wheel2_spt_e31</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e32</wheelName>
+        <wheelVariation>wheel2_spt_e32w</wheelVariation>
+        <modShopLabel>wheel2_spt_e32</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e33</wheelName>
+        <wheelVariation>wheel2_spt_e33w</wheelVariation>
+        <modShopLabel>wheel2_spt_e33</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e34</wheelName>
+        <wheelVariation>wheel2_spt_e34w</wheelVariation>
+        <modShopLabel>wheel2_spt_e34</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e35</wheelName>
+        <wheelVariation>wheel2_spt_e35w</wheelVariation>
+        <modShopLabel>wheel2_spt_e35</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e36</wheelName>
+        <wheelVariation>wheel2_spt_e36w</wheelVariation>
+        <modShopLabel>wheel2_spt_e36</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e37</wheelName>
+        <wheelVariation>wheel2_spt_e37w</wheelVariation>
+        <modShopLabel>wheel2_spt_e37</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e38</wheelName>
+        <wheelVariation>wheel2_spt_e38w</wheelVariation>
+        <modShopLabel>wheel2_spt_e38</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e39</wheelName>
+        <wheelVariation>wheel2_spt_e39w</wheelVariation>
+        <modShopLabel>wheel2_spt_e39</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e40</wheelName>
+        <wheelVariation>wheel2_spt_e40w</wheelVariation>
+        <modShopLabel>wheel2_spt_e40</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e41</wheelName>
+        <wheelVariation>wheel2_spt_e41w</wheelVariation>
+        <modShopLabel>wheel2_spt_e41</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_spt_e42</wheelName>
+        <wheelVariation>wheel2_spt_e42w</wheelVariation>
+        <modShopLabel>wheel2_spt_e42</modShopLabel>
+        <rimRadius value="0.3755"/>
+        <rear value="false"/>
+      </Item>
+	</Item>
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item/> <!-- VWT_TUNER -->  
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

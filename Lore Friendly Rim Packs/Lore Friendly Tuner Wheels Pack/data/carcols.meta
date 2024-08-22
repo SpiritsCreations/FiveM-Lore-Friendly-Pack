@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item> <!-- VWT_TUNER -->
+	  <Item>
+        <wheelName>wheel_drft_e1</wheelName>
+        <wheelVariation>wheel_drft_e1w</wheelVariation>
+        <modShopLabel>wheel_drft_e1</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e1a</wheelName>
+        <wheelVariation>wheel_drft_e1aw</wheelVariation>
+        <modShopLabel>wheel_drft_e1a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e1b</wheelName>
+        <wheelVariation>wheel_drft_e1bw</wheelVariation>
+        <modShopLabel>wheel_drft_e1b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e1c</wheelName>
+        <wheelVariation>wheel_drft_e1cw</wheelVariation>
+        <modShopLabel>wheel_drft_e1c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e30</wheelName>
+        <wheelVariation>wheel_drft_e30w</wheelVariation>
+        <modShopLabel>wheel_drft_e30</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e30a</wheelName>
+        <wheelVariation>wheel_drft_e30aw</wheelVariation>
+        <modShopLabel>wheel_drft_e30a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e2</wheelName>
+        <wheelVariation>wheel_drft_e2w</wheelVariation>
+        <modShopLabel>wheel_drft_e2</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e2a</wheelName>
+        <wheelVariation>wheel_drft_e2aw</wheelVariation>
+        <modShopLabel>wheel_drft_e2a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e2b</wheelName>
+        <wheelVariation>wheel_drft_e2bw</wheelVariation>
+        <modShopLabel>wheel_drft_e2b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e2c</wheelName>
+        <wheelVariation>wheel_drft_e2cw</wheelVariation>
+        <modShopLabel>wheel_drft_e2c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e3</wheelName>
+        <wheelVariation>wheel_drft_e3w</wheelVariation>
+        <modShopLabel>wheel_drft_e3</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e3a</wheelName>
+        <wheelVariation>wheel_drft_e3aw</wheelVariation>
+        <modShopLabel>wheel_drft_e3a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e3b</wheelName>
+        <wheelVariation>wheel_drft_e3bw</wheelVariation>
+        <modShopLabel>wheel_drft_e3b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e3c</wheelName>
+        <wheelVariation>wheel_drft_e3cw</wheelVariation>
+        <modShopLabel>wheel_drft_e3c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e4</wheelName>
+        <wheelVariation>wheel_drft_e4w</wheelVariation>
+        <modShopLabel>wheel_drft_e4</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e4a</wheelName>
+        <wheelVariation>wheel_drft_e4aw</wheelVariation>
+        <modShopLabel>wheel_drft_e4a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e5</wheelName>
+        <wheelVariation>wheel_drft_e5w</wheelVariation>
+        <modShopLabel>wheel_drft_e5</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e5a</wheelName>
+        <wheelVariation>wheel_drft_e5aw</wheelVariation>
+        <modShopLabel>wheel_drft_e5a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e5b</wheelName>
+        <wheelVariation>wheel_drft_e5bw</wheelVariation>
+        <modShopLabel>wheel_drft_e5b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e6</wheelName>
+        <wheelVariation>wheel_drft_e6w</wheelVariation>
+        <modShopLabel>wheel_drft_e6</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e6a</wheelName>
+        <wheelVariation>wheel_drft_e6aw</wheelVariation>
+        <modShopLabel>wheel_drft_e6a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e28</wheelName>
+        <wheelVariation>wheel_drft_e28w</wheelVariation>
+        <modShopLabel>wheel_drft_e28</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e28a</wheelName>
+        <wheelVariation>wheel_drft_e28aw</wheelVariation>
+        <modShopLabel>wheel_drft_e28a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e28b</wheelName>
+        <wheelVariation>wheel_drft_e28bw</wheelVariation>
+        <modShopLabel>wheel_drft_e28b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e28c</wheelName>
+        <wheelVariation>wheel_drft_e28cw</wheelVariation>
+        <modShopLabel>wheel_drft_e28c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e7</wheelName>
+        <wheelVariation>wheel_drft_e7w</wheelVariation>
+        <modShopLabel>wheel_drft_e7</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e7a</wheelName>
+        <wheelVariation>wheel_drft_e7aw</wheelVariation>
+        <modShopLabel>wheel_drft_e7a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e8</wheelName>
+        <wheelVariation>wheel_drft_e8w</wheelVariation>
+        <modShopLabel>wheel_drft_e8</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e8a</wheelName>
+        <wheelVariation>wheel_drft_e8aw</wheelVariation>
+        <modShopLabel>wheel_drft_e8a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e8b</wheelName>
+        <wheelVariation>wheel_drft_e8bw</wheelVariation>
+        <modShopLabel>wheel_drft_e8b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e9</wheelName>
+        <wheelVariation>wheel_drft_e9w</wheelVariation>
+        <modShopLabel>wheel_drft_e9</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e9a</wheelName>
+        <wheelVariation>wheel_drft_e9aw</wheelVariation>
+        <modShopLabel>wheel_drft_e9a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e10</wheelName>
+        <wheelVariation>wheel_drft_e10w</wheelVariation>
+        <modShopLabel>wheel_drft_e10</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e10a</wheelName>
+        <wheelVariation>wheel_drft_e10aw</wheelVariation>
+        <modShopLabel>wheel_drft_e10a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e10b</wheelName>
+        <wheelVariation>wheel_drft_e10bw</wheelVariation>
+        <modShopLabel>wheel_drft_e10b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e11</wheelName>
+        <wheelVariation>wheel_drft_e11w</wheelVariation>
+        <modShopLabel>wheel_drft_e11</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e11a</wheelName>
+        <wheelVariation>wheel_drft_e11aw</wheelVariation>
+        <modShopLabel>wheel_drft_e11a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e11b</wheelName>
+        <wheelVariation>wheel_drft_e11bw</wheelVariation>
+        <modShopLabel>wheel_drft_e11b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e12</wheelName>
+        <wheelVariation>wheel_drft_e12w</wheelVariation>
+        <modShopLabel>wheel_drft_e12</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e12a</wheelName>
+        <wheelVariation>wheel_drft_e12aw</wheelVariation>
+        <modShopLabel>wheel_drft_e12a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e13</wheelName>
+        <wheelVariation>wheel_drft_e13w</wheelVariation>
+        <modShopLabel>wheel_drft_e13</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e13a</wheelName>
+        <wheelVariation>wheel_drft_e13aw</wheelVariation>
+        <modShopLabel>wheel_drft_e13a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e13b</wheelName>
+        <wheelVariation>wheel_drft_e13bw</wheelVariation>
+        <modShopLabel>wheel_drft_e13b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e13c</wheelName>
+        <wheelVariation>wheel_drft_e13cw</wheelVariation>
+        <modShopLabel>wheel_drft_e13c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e29</wheelName>
+        <wheelVariation>wheel_drft_e29w</wheelVariation>
+        <modShopLabel>wheel_drft_e29</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e29a</wheelName>
+        <wheelVariation>wheel_drft_e29aw</wheelVariation>
+        <modShopLabel>wheel_drft_e29a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e29b</wheelName>
+        <wheelVariation>wheel_drft_e29bw</wheelVariation>
+        <modShopLabel>wheel_drft_e29b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e29c</wheelName>
+        <wheelVariation>wheel_drft_e29cw</wheelVariation>
+        <modShopLabel>wheel_drft_e29c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e14</wheelName>
+        <wheelVariation>wheel_drft_e14w</wheelVariation>
+        <modShopLabel>wheel_drft_e14</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e14a</wheelName>
+        <wheelVariation>wheel_drft_e14aw</wheelVariation>
+        <modShopLabel>wheel_drft_e14a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e15</wheelName>
+        <wheelVariation>wheel_drft_e15w</wheelVariation>
+        <modShopLabel>wheel_drft_e15</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e15a</wheelName>
+        <wheelVariation>wheel_drft_e15aw</wheelVariation>
+        <modShopLabel>wheel_drft_e15a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e36</wheelName>
+        <wheelVariation>wheel_drft_e36w</wheelVariation>
+        <modShopLabel>wheel_drft_e36</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e36a</wheelName>
+        <wheelVariation>wheel_drft_e36aw</wheelVariation>
+        <modShopLabel>wheel_drft_e36a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e16</wheelName>
+        <wheelVariation>wheel_drft_e16w</wheelVariation>
+        <modShopLabel>wheel_drft_e16</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e16a</wheelName>
+        <wheelVariation>wheel_drft_e16aw</wheelVariation>
+        <modShopLabel>wheel_drft_e16a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e17</wheelName>
+        <wheelVariation>wheel_drft_e17w</wheelVariation>
+        <modShopLabel>wheel_drft_e17</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e17a</wheelName>
+        <wheelVariation>wheel_drft_e17aw</wheelVariation>
+        <modShopLabel>wheel_drft_e17a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e17b</wheelName>
+        <wheelVariation>wheel_drft_e17bw</wheelVariation>
+        <modShopLabel>wheel_drft_e17b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e17c</wheelName>
+        <wheelVariation>wheel_drft_e17cw</wheelVariation>
+        <modShopLabel>wheel_drft_e17c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e18</wheelName>
+        <wheelVariation>wheel_drft_e18w</wheelVariation>
+        <modShopLabel>wheel_drft_e18</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e18a</wheelName>
+        <wheelVariation>wheel_drft_e18aw</wheelVariation>
+        <modShopLabel>wheel_drft_e18a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e19</wheelName>
+        <wheelVariation>wheel_drft_e19w</wheelVariation>
+        <modShopLabel>wheel_drft_e19</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e19a</wheelName>
+        <wheelVariation>wheel_drft_e19aw</wheelVariation>
+        <modShopLabel>wheel_drft_e19a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e19b</wheelName>
+        <wheelVariation>wheel_drft_e19bw</wheelVariation>
+        <modShopLabel>wheel_drft_e19b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e20</wheelName>
+        <wheelVariation>wheel_drft_e20w</wheelVariation>
+        <modShopLabel>wheel_drft_e21</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e21</wheelName>
+        <wheelVariation>wheel_drft_e21w</wheelVariation>
+        <modShopLabel>wheel_drft_e20</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e25</wheelName>
+        <wheelVariation>wheel_drft_e25w</wheelVariation>
+        <modShopLabel>wheel_drft_e25</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e25a</wheelName>
+        <wheelVariation>wheel_drft_e25aw</wheelVariation>
+        <modShopLabel>wheel_drft_e25a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e22</wheelName>
+        <wheelVariation>wheel_drft_e22w</wheelVariation>
+        <modShopLabel>wheel_drft_e22</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e22a</wheelName>
+        <wheelVariation>wheel_drft_e22aw</wheelVariation>
+        <modShopLabel>wheel_drft_e22a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e22b</wheelName>
+        <wheelVariation>wheel_drft_e22bw</wheelVariation>
+        <modShopLabel>wheel_drft_e22b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e23</wheelName>
+        <wheelVariation>wheel_drft_e23w</wheelVariation>
+        <modShopLabel>wheel_drft_e23</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e23a</wheelName>
+        <wheelVariation>wheel_drft_e23aw</wheelVariation>
+        <modShopLabel>wheel_drft_e23a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e23b</wheelName>
+        <wheelVariation>wheel_drft_e23bw</wheelVariation>
+        <modShopLabel>wheel_drft_e23b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e23c</wheelName>
+        <wheelVariation>wheel_drft_e23cw</wheelVariation>
+        <modShopLabel>wheel_drft_e23c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e24</wheelName>
+        <wheelVariation>wheel_drft_e24w</wheelVariation>
+        <modShopLabel>wheel_drft_e24</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e24a</wheelName>
+        <wheelVariation>wheel_drft_e24aw</wheelVariation>
+        <modShopLabel>wheel_drft_e24a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e54</wheelName>
+        <wheelVariation>wheel_drft_e54w</wheelVariation>
+        <modShopLabel>wheel_drft_e54</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e54a</wheelName>
+        <wheelVariation>wheel_drft_e54aw</wheelVariation>
+        <modShopLabel>wheel_drft_e54a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e31</wheelName>
+        <wheelVariation>wheel_drft_e31w</wheelVariation>
+        <modShopLabel>wheel_drft_e31</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e31a</wheelName>
+        <wheelVariation>wheel_drft_e31aw</wheelVariation>
+        <modShopLabel>wheel_drft_e31a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e26</wheelName>
+        <wheelVariation>wheel_drft_e26w</wheelVariation>
+        <modShopLabel>wheel_drft_e26</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e26a</wheelName>
+        <wheelVariation>wheel_drft_e26aw</wheelVariation>
+        <modShopLabel>wheel_drft_e26a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e27</wheelName>
+        <wheelVariation>wheel_drft_e27w</wheelVariation>
+        <modShopLabel>wheel_drft_e27</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e27a</wheelName>
+        <wheelVariation>wheel_drft_e27aw</wheelVariation>
+        <modShopLabel>wheel_drft_e27a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e32</wheelName>
+        <wheelVariation>wheel_drft_e32w</wheelVariation>
+        <modShopLabel>wheel_drft_e32</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e32a</wheelName>
+        <wheelVariation>wheel_drft_e32aw</wheelVariation>
+        <modShopLabel>wheel_drft_e32a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e33</wheelName>
+        <wheelVariation>wheel_drft_e33w</wheelVariation>
+        <modShopLabel>wheel_drft_e33</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e33a</wheelName>
+        <wheelVariation>wheel_drft_e33aw</wheelVariation>
+        <modShopLabel>wheel_drft_e33a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e33b</wheelName>
+        <wheelVariation>wheel_drft_e33bw</wheelVariation>
+        <modShopLabel>wheel_drft_e33b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e33c</wheelName>
+        <wheelVariation>wheel_drft_e33cw</wheelVariation>
+        <modShopLabel>wheel_drft_e33c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e34</wheelName>
+        <wheelVariation>wheel_drft_e34w</wheelVariation>
+        <modShopLabel>wheel_drft_e34</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e34a</wheelName>
+        <wheelVariation>wheel_drft_e34aw</wheelVariation>
+        <modShopLabel>wheel_drft_e34a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e35</wheelName>
+        <wheelVariation>wheel_drft_e35w</wheelVariation>
+        <modShopLabel>wheel_drft_e35</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e35a</wheelName>
+        <wheelVariation>wheel_drft_e35aw</wheelVariation>
+        <modShopLabel>wheel_drft_e35a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e37</wheelName>
+        <wheelVariation>wheel_drft_e37w</wheelVariation>
+        <modShopLabel>wheel_drft_e37</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e37a</wheelName>
+        <wheelVariation>wheel_drft_e37aw</wheelVariation>
+        <modShopLabel>wheel_drft_e37a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e37b</wheelName>
+        <wheelVariation>wheel_drft_e37bw</wheelVariation>
+        <modShopLabel>wheel_drft_e37b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e38</wheelName>
+        <wheelVariation>wheel_drft_e38w</wheelVariation>
+        <modShopLabel>wheel_drft_e38</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e38a</wheelName>
+        <wheelVariation>wheel_drft_e38aw</wheelVariation>
+        <modShopLabel>wheel_drft_e38a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e38b</wheelName>
+        <wheelVariation>wheel_drft_e38bw</wheelVariation>
+        <modShopLabel>wheel_drft_e38b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e39</wheelName>
+        <wheelVariation>wheel_drft_e39w</wheelVariation>
+        <modShopLabel>wheel_drft_e39</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e39a</wheelName>
+        <wheelVariation>wheel_drft_e39aw</wheelVariation>
+        <modShopLabel>wheel_drft_e39a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e40</wheelName>
+        <wheelVariation>wheel_drft_e40w</wheelVariation>
+        <modShopLabel>wheel_drft_e40</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e40a</wheelName>
+        <wheelVariation>wheel_drft_e40aw</wheelVariation>
+        <modShopLabel>wheel_drft_e40a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e40b</wheelName>
+        <wheelVariation>wheel_drft_e40bw</wheelVariation>
+        <modShopLabel>wheel_drft_e40b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e40c</wheelName>
+        <wheelVariation>wheel_drft_e40cw</wheelVariation>
+        <modShopLabel>wheel_drft_e40c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e41</wheelName>
+        <wheelVariation>wheel_drft_e41w</wheelVariation>
+        <modShopLabel>wheel_drft_e41</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e41a</wheelName>
+        <wheelVariation>wheel_drft_e41aw</wheelVariation>
+        <modShopLabel>wheel_drft_e41a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e42</wheelName>
+        <wheelVariation>wheel_drft_e42w</wheelVariation>
+        <modShopLabel>wheel_drft_e42</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e42a</wheelName>
+        <wheelVariation>wheel_drft_e42aw</wheelVariation>
+        <modShopLabel>wheel_drft_e42a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e46</wheelName>
+        <wheelVariation>wheel_drft_e46w</wheelVariation>
+        <modShopLabel>wheel_drft_e46</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e46a</wheelName>
+        <wheelVariation>wheel_drft_e46aw</wheelVariation>
+        <modShopLabel>wheel_drft_e46a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e44</wheelName>
+        <wheelVariation>wheel_drft_e44w</wheelVariation>
+        <modShopLabel>wheel_drft_e44</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e44a</wheelName>
+        <wheelVariation>wheel_drft_e44aw</wheelVariation>
+        <modShopLabel>wheel_drft_e44a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e45</wheelName>
+        <wheelVariation>wheel_drft_e45w</wheelVariation>
+        <modShopLabel>wheel_drft_e45</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e45a</wheelName>
+        <wheelVariation>wheel_drft_e45aw</wheelVariation>
+        <modShopLabel>wheel_drft_e45a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e47</wheelName>
+        <wheelVariation>wheel_drft_e47w</wheelVariation>
+        <modShopLabel>wheel_drft_e47</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e47a</wheelName>
+        <wheelVariation>wheel_drft_e47aw</wheelVariation>
+        <modShopLabel>wheel_drft_e47a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e48</wheelName>
+        <wheelVariation>wheel_drft_e48w</wheelVariation>
+        <modShopLabel>wheel_drft_e48</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e48a</wheelName>
+        <wheelVariation>wheel_drft_e48aw</wheelVariation>
+        <modShopLabel>wheel_drft_e48a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e48b</wheelName>
+        <wheelVariation>wheel_drft_e48bw</wheelVariation>
+        <modShopLabel>wheel_drft_e48b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e49</wheelName>
+        <wheelVariation>wheel_drft_e49w</wheelVariation>
+        <modShopLabel>wheel_drft_e49</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e49a</wheelName>
+        <wheelVariation>wheel_drft_e49aw</wheelVariation>
+        <modShopLabel>wheel_drft_e49a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e50</wheelName>
+        <wheelVariation>wheel_drft_e50w</wheelVariation>
+        <modShopLabel>wheel_drft_e50</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e50a</wheelName>
+        <wheelVariation>wheel_drft_e50aw</wheelVariation>
+        <modShopLabel>wheel_drft_e50a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e50b</wheelName>
+        <wheelVariation>wheel_drft_e50bw</wheelVariation>
+        <modShopLabel>wheel_drft_e50b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e50c</wheelName>
+        <wheelVariation>wheel_drft_e50cw</wheelVariation>
+        <modShopLabel>wheel_drft_e50c</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e51</wheelName>
+        <wheelVariation>wheel_drft_e51w</wheelVariation>
+        <modShopLabel>wheel_drft_e51</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e51a</wheelName>
+        <wheelVariation>wheel_drft_e51aw</wheelVariation>
+        <modShopLabel>wheel_drft_e51a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e52</wheelName>
+        <wheelVariation>wheel_drft_e52w</wheelVariation>
+        <modShopLabel>wheel_drft_e52</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e52a</wheelName>
+        <wheelVariation>wheel_drft_e52aw</wheelVariation>
+        <modShopLabel>wheel_drft_e52a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e53</wheelName>
+        <wheelVariation>wheel_drft_e53w</wheelVariation>
+        <modShopLabel>wheel_drft_e53</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_drft_e53a</wheelName>
+        <wheelVariation>wheel_drft_e53aw</wheelVariation>
+        <modShopLabel>wheel_drft_e53a</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e1</wheelName>
+        <wheelVariation>wheel2_drft_e1w</wheelVariation>
+        <modShopLabel>wheel2_drft_e1</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e1b</wheelName>
+        <wheelVariation>wheel2_drft_e1bw</wheelVariation>
+        <modShopLabel>wheel2_drft_e1b</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e30</wheelName>
+        <wheelVariation>wheel2_drft_e30w</wheelVariation>
+        <modShopLabel>wheel2_drft_e30</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e2</wheelName>
+        <wheelVariation>wheel2_drft_e2w</wheelVariation>
+        <modShopLabel>wheel2_drft_e2</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e3</wheelName>
+        <wheelVariation>wheel2_drft_e3w</wheelVariation>
+        <modShopLabel>wheel2_drft_e3</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e4</wheelName>
+        <wheelVariation>wheel2_drft_e4w</wheelVariation>
+        <modShopLabel>wheel2_drft_e4</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e5</wheelName>
+        <wheelVariation>wheel2_drft_e5w</wheelVariation>
+        <modShopLabel>wheel2_drft_e5</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e6</wheelName>
+        <wheelVariation>wheel2_drft_e6w</wheelVariation>
+        <modShopLabel>wheel2_drft_e6</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e28</wheelName>
+        <wheelVariation>wheel2_drft_e28w</wheelVariation>
+        <modShopLabel>wheel2_drft_e28</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e7</wheelName>
+        <wheelVariation>wheel2_drft_e7w</wheelVariation>
+        <modShopLabel>wheel2_drft_e7</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e8</wheelName>
+        <wheelVariation>wheel2_drft_e8w</wheelVariation>
+        <modShopLabel>wheel2_drft_e8</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e9</wheelName>
+        <wheelVariation>wheel2_drft_e9w</wheelVariation>
+        <modShopLabel>wheel2_drft_e9</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e10</wheelName>
+        <wheelVariation>wheel2_drft_e10w</wheelVariation>
+        <modShopLabel>wheel2_drft_e10</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e11</wheelName>
+        <wheelVariation>wheel2_drft_e11w</wheelVariation>
+        <modShopLabel>wheel2_drft_e11</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e12</wheelName>
+        <wheelVariation>wheel2_drft_e12w</wheelVariation>
+        <modShopLabel>wheel2_drft_e12</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e13</wheelName>
+        <wheelVariation>wheel2_drft_e13w</wheelVariation>
+        <modShopLabel>wheel2_drft_e13</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e29</wheelName>
+        <wheelVariation>wheel2_drft_e29w</wheelVariation>
+        <modShopLabel>wheel2_drft_e29</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e14</wheelName>
+        <wheelVariation>wheel2_drft_e14w</wheelVariation>
+        <modShopLabel>wheel2_drft_e14</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e15</wheelName>
+        <wheelVariation>wheel2_drft_e15w</wheelVariation>
+        <modShopLabel>wheel2_drft_e15</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e36</wheelName>
+        <wheelVariation>wheel2_drft_e36w</wheelVariation>
+        <modShopLabel>wheel2_drft_e36</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e16</wheelName>
+        <wheelVariation>wheel2_drft_e16w</wheelVariation>
+        <modShopLabel>wheel2_drft_e16</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e17</wheelName>
+        <wheelVariation>wheel2_drft_e17w</wheelVariation>
+        <modShopLabel>wheel2_drft_e17</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e18</wheelName>
+        <wheelVariation>wheel2_drft_e18w</wheelVariation>
+        <modShopLabel>wheel2_drft_e18</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e19</wheelName>
+        <wheelVariation>wheel2_drft_e19w</wheelVariation>
+        <modShopLabel>wheel2_drft_e19</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e21</wheelName>
+        <wheelVariation>wheel2_drft_e21w</wheelVariation>
+        <modShopLabel>wheel2_drft_e21</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e25</wheelName>
+        <wheelVariation>wheel2_drft_e25w</wheelVariation>
+        <modShopLabel>wheel2_drft_e25</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e22</wheelName>
+        <wheelVariation>wheel2_drft_e22w</wheelVariation>
+        <modShopLabel>wheel2_drft_e22</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e23</wheelName>
+        <wheelVariation>wheel2_drft_e23w</wheelVariation>
+        <modShopLabel>wheel2_drft_e23</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e24</wheelName>
+        <wheelVariation>wheel2_drft_e24w</wheelVariation>
+        <modShopLabel>wheel2_drft_e24</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e54</wheelName>
+        <wheelVariation>wheel2_drft_e54w</wheelVariation>
+        <modShopLabel>wheel2_drft_e54</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e31</wheelName>
+        <wheelVariation>wheel2_drft_e31w</wheelVariation>
+        <modShopLabel>wheel2_drft_e31</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e26</wheelName>
+        <wheelVariation>wheel2_drft_e26w</wheelVariation>
+        <modShopLabel>wheel2_drft_e26</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e27</wheelName>
+        <wheelVariation>wheel2_drft_e27w</wheelVariation>
+        <modShopLabel>wheel2_drft_e27</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e32</wheelName>
+        <wheelVariation>wheel2_drft_e32w</wheelVariation>
+        <modShopLabel>wheel2_drft_e32</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e33</wheelName>
+        <wheelVariation>wheel2_drft_e33w</wheelVariation>
+        <modShopLabel>wheel2_drft_e33</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e34</wheelName>
+        <wheelVariation>wheel2_drft_e34w</wheelVariation>
+        <modShopLabel>wheel2_drft_e34</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e35</wheelName>
+        <wheelVariation>wheel2_drft_e35w</wheelVariation>
+        <modShopLabel>wheel2_drft_e35</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e37</wheelName>
+        <wheelVariation>wheel2_drft_e37w</wheelVariation>
+        <modShopLabel>wheel2_drft_e37</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e38</wheelName>
+        <wheelVariation>wheel2_drft_e38w</wheelVariation>
+        <modShopLabel>wheel2_drft_e38</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e39</wheelName>
+        <wheelVariation>wheel2_drft_e39w</wheelVariation>
+        <modShopLabel>wheel2_drft_e39</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e40</wheelName>
+        <wheelVariation>wheel2_drft_e40w</wheelVariation>
+        <modShopLabel>wheel2_drft_e40</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e41</wheelName>
+        <wheelVariation>wheel2_drft_e41w</wheelVariation>
+        <modShopLabel>wheel2_drft_e41</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e42</wheelName>
+        <wheelVariation>wheel2_drft_e42w</wheelVariation>
+        <modShopLabel>wheel2_drft_e42</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e46</wheelName>
+        <wheelVariation>wheel2_drft_e46w</wheelVariation>
+        <modShopLabel>wheel2_drft_e46</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e44</wheelName>
+        <wheelVariation>wheel2_drft_e44w</wheelVariation>
+        <modShopLabel>wheel2_drft_e44</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e45</wheelName>
+        <wheelVariation>wheel2_drft_e45w</wheelVariation>
+        <modShopLabel>wheel2_drft_e45</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e47</wheelName>
+        <wheelVariation>wheel2_drft_e47w</wheelVariation>
+        <modShopLabel>wheel2_drft_e47</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e48</wheelName>
+        <wheelVariation>wheel2_drft_e48w</wheelVariation>
+        <modShopLabel>wheel2_drft_e48</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e49</wheelName>
+        <wheelVariation>wheel2_drft_e49w</wheelVariation>
+        <modShopLabel>wheel2_drft_e49</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e50</wheelName>
+        <wheelVariation>wheel2_drft_e50w</wheelVariation>
+        <modShopLabel>wheel2_drft_e50</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e51</wheelName>
+        <wheelVariation>wheel2_drft_e51w</wheelVariation>
+        <modShopLabel>wheel2_drft_e51</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e52</wheelName>
+        <wheelVariation>wheel2_drft_e52w</wheelVariation>
+        <modShopLabel>wheel2_drft_e52</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel2_drft_e53</wheelName>
+        <wheelVariation>wheel2_drft_e53w</wheelVariation>
+        <modShopLabel>wheel2_drft_e53</modShopLabel>
+        <rimRadius value="0.348142"/>
+        <rear value="false"/>
+      </Item>
+	</Item>  
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

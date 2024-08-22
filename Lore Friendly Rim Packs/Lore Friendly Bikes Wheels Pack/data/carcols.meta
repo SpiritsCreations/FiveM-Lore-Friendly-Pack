@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item/> <!-- VWT_TUNER -->  
+    <Item> <!-- VWT_BIKE -->
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701a1</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701a1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701a1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701a1</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701a1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701a1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701b1</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701b1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701b1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701b1</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701b1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701b1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701c1</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701c1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701c1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701c1</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701c1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701c1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701a2</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701a2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701a2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701a2</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701a2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701a2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701b2</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701b2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701b2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701b2</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701b2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701b2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701c2</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701c2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701c2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701c2</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701c2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701c2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701a3</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701a3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701a3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701a3</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701a3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701a3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701b3</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701b3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701b3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701b3</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701b3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701b3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701c3</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701c3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701c3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701c3</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701c3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701c3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sa1</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sa1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sa1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sa1</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sa1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sa1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sb1</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sb1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sb1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sb1</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sb1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sb1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sc1</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sc1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sc1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sc1</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sc1_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sc1</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sa2</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sa2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sa2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sa2</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sa2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sa2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sb2</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sb2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sb2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sb2</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sb2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sb2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sc2</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sc2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sc2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sc2</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sc2_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sc2</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sa3</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sa3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sa3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sa3</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sa3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sa3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sb3</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sb3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sb3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sb3</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sb3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sb3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb701sc3</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb701sc3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sc3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb701sc3</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb701sc3_w</wheelVariation>
+        <modShopLabel>wheeldroppb701sc3</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb7011c</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb7011c_w</wheelVariation>
+        <modShopLabel>wheeldroppb7011c</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb7011c</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb7011c_w</wheelVariation>
+        <modShopLabel>wheeldroppb7011c</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb7011cs</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb7011cs_w</wheelVariation>
+        <modShopLabel>wheeldroppb7011cs</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb7011cs</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb7011cs_w</wheelVariation>
+        <modShopLabel>wheeldroppb7011cs</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb7012c</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb7012c_w</wheelVariation>
+        <modShopLabel>wheeldroppb7012c</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb7012c</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb7012c_w</wheelVariation>
+        <modShopLabel>wheeldroppb7012c</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb7012cs</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb7012cs_w</wheelVariation>
+        <modShopLabel>wheeldroppb7012cs</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb7012cs</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb7012cs_w</wheelVariation>
+        <modShopLabel>wheeldroppb7012cs</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb7013c</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb7013c_w</wheelVariation>
+        <modShopLabel>wheeldroppb7013c</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb7013c</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb7013c_w</wheelVariation>
+        <modShopLabel>wheeldroppb7013c</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkf_pb7013cs</wheelName>
+        <wheelVariation>wheeldrop_bkf_pb7013cs_w</wheelVariation>
+        <modShopLabel>wheeldroppb7013cs</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheeldrop_bkr_pb7013cs</wheelName>
+        <wheelVariation>wheeldrop_bkr_pb7013cs_w</wheelVariation>
+        <modShopLabel>wheeldroppb7013cs</modShopLabel>
+        <rimRadius value="0.3945"/>
+        <rear value="true"/>
+      </Item>
+	</Item>
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

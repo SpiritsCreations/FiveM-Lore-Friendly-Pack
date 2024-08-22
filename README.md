@@ -1,4 +1,4 @@
-# FiveM Lore Friendly Car Pack
+# FiveM Lore Friendly Pack
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-5-brightgreen?style=for-the-badge)
@@ -34,3 +34,21 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Progen T20 GTR** | t20gtr | ![Picture](./image/t20gtr.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
 | **Truffade Adder Sport** | adders | ![Picture](./image/adders.webp) | [Murciélago](https://www.gta5-mods.com/users/Murci%C3%A9lago) | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
 | **Vapid Dominator GT Coupe** | domgtcoupe | ![Picture](./image/domgtcoupe.webp) | [Dayashii](https://www.gta5-mods.com/users/Dayashii) | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-dominator-gt-coupe-add-on-tuning) | ✔️ |
+
+
+
+
+
+
+
+
+
+# Lore Friendly Rim Pack
+| Rim Set | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status | Extra Notes |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| **Lore Friendly + Neon Wheels Pack** | ![Picture](./image/LoreFriendlyNeonWheelsPack.webp) | [microoowave](https://www.gta5-mods.com/users/microoowave) | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
+| **Lore Friendly Bikes Wheels Pack** | ![Picture](./image/LoreFriendlyBikesWheelsPack.webp) | [Ydrop](https://www.gta5-mods.com/users/Ydrop) | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
+| **Lore Friendly Muscle Wheels Pack** | ![Picture](./image/LoreFriendlyMuscleWheelsPack.webp) | [RooST4R](https://www.gta5-mods.com/users/RooST4R) | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-muscle-wheels-pack-roosterthegamer) | ✔️ |
+| **Lore Friendly Sports Wheels Pack** | ![Picture](./image/LoreFriendlySportsWheelsPack.webp) | [RooST4R](https://www.gta5-mods.com/users/RooST4R) | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-sports-wheels-pack-lfswp-add-on-lods) | ✔️ |
+| **Lore Friendly Tuner Wheels Pack** | ![Picture](./image/LoreFriendlyTunerWheelsPack.webp) | [RooST4R](https://www.gta5-mods.com/users/RooST4R) | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-tuner-wheels-pack) | ✔️ |
+| **Lore Friendly Wheels Pack** | ![Picture](./image/LoreFriendlyWheelsPack.webp) | [MGgames100](https://www.gta5-mods.com/users/MGgames100) | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-wheels-wheel-pack-over-150-wheels-add-on) | ✔️ |
