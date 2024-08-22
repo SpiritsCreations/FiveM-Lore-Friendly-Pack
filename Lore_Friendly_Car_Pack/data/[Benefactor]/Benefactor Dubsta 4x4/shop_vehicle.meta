@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_DUBSTA4X4</lockHash>
+			<modelNameHash>Dubsta 4x4</modelNameHash>
+			<cost value="100"/>
+			<textLabel>DUBSTA4X4</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
