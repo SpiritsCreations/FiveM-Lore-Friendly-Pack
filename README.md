@@ -29,41 +29,41 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Annis Elegy RH4** | elegyrh4 | ![Picture](./image/elegyrh4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh4-add-on-tuning-liveries-sounds) | ✔️ |
-| **Annis Elegy RH6** | elegyrh6 | ![Picture](./image/elegyrh6.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh6-add-on-tuning-liveries-sounds) | ✔️ |
-| **Annis ZR-250 "Savestra"** | zr250 | ![Picture](./image/zr250.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr-250-savestra-add-on-tuning-liveries-sounds) | ✔️ |
-| **Benefactor Dubsta 4x4** | dubsta4x4 | ![Picture](./image/dubsta4x4.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-dubsta-4x4) | ✔️ |
-| **Benefactor Krieger BPX-32B** | kriegerc | ![Picture](./image/kriegerc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-krieger-bpx-32b-add-on-tuning-liveries-sounds) | ✔️ |
-| **Bordeaux Sancy B4** | sancyb4 | ![Picture](./image/sancyb4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bordeaux-sancy-b4-add-on-tuning-liveries-sounds) | ✔️ |
-| **Bravado Verlierer GT** | verlierergt | ![Picture](./image/verlierergt.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-verlierer-gt-add-on-liveries) | ✔️ |
-| **Bravado Vulture** | vulture | ![Picture](./image/vulture.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds) | ✔️ |
-| **Dinka Serena** | serena | ![Picture](./image/serena.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/dinka-serena-add-on-tuning-liveries-sounds) | ✔️ |
-| **Hijak Tachyon** | tachyon | ![Picture](./image/tachyon.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/hijak-tachyon-add-on-sounds) | ✔️ |
-| **Karin 98S/1** | s98 | ![Picture](./image/s98.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-98s-1-add-on-tuning-liveries-sounds) | ✔️ |
-| **Maibatsu Sunrise R** | sunrise1 | ![Picture](./image/sunrise1.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) | ✔️ |
-| **Ocelot Mantis** | mantis | ![Picture](./image/mantis.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/ocelot-mantis-add-on-sounds) | ✔️ |
-| **Pfister 711** | p711 | ![Picture](./image/p711.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-711-add-on-liveries-sounds) | ✔️ |
-| **Pfister Comet Callista** | callista | ![Picture](./image/callista.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-comet-callista-add-on-tuning-liveries-sounds) | ✔️ |
-| **Pfister Comet R** | cometr | ![Picture](./image/cometr.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-comet-r-add-on-replace) | ✔️ |
-| **Progen T20 GTR** | t20gtr | ![Picture](./image/t20gtr.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
-| **Shitzu Castella** | castella | ![Picture](./image/castella.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
-| **Shitzu Castella** | castellajp | ![Picture](./image/castellajp.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
-| **Truffade Adder Sport** | adders | ![Picture](./image/adders.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
-| **Ubermacht Vorstand** | vorstand | ![Picture](./image/vorstand.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-vorstand-add-on-tuning-sounds) | ✔️ |
-| **Vapid Dominator GT Coupe** | domgtcoupe | ![Picture](./image/domgtcoupe.webp) | Dayashii | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-dominator-gt-coupe-add-on-tuning) | ✔️ |
-| **Vapid Sabot** | sabot | ![Picture](./image/sabot.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-sabot-add-on-liveries-sound) | ✔️ |
-| **Vulcar Hachura R** | hachura | ![Picture](./image/hachura.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-r-add-on-tuning-liveries-sounds) | ✔️ |
-| **Vulcar Ingot R255** | r255 | ![Picture](./image/r255.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-ingot-r255-add-on-liveries) | ✔️ |
-| **Vulcar Zodiac** | zodiac | ![Picture](./image/zodiac.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
-| **Vulcar Zodiac** | zodiacc | ![Picture](./image/zodiacc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
-| **Vulcar Zodiac** | zodiacr | ![Picture](./image/zodiacr.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
+| **Annis Elegy RH4** | elegyrh4 | ![Picture](./Image/elegyrh4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh4-add-on-tuning-liveries-sounds) | ✔️ |
+| **Annis Elegy RH6** | elegyrh6 | ![Picture](./Image/elegyrh6.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh6-add-on-tuning-liveries-sounds) | ✔️ |
+| **Annis ZR-250 "Savestra"** | zr250 | ![Picture](./Image/zr250.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr-250-savestra-add-on-tuning-liveries-sounds) | ✔️ |
+| **Benefactor Dubsta 4x4** | dubsta4x4 | ![Picture](./Image/dubsta4x4.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-dubsta-4x4) | ✔️ |
+| **Benefactor Krieger BPX-32B** | kriegerc | ![Picture](./Image/kriegerc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-krieger-bpx-32b-add-on-tuning-liveries-sounds) | ✔️ |
+| **Bordeaux Sancy B4** | sancyb4 | ![Picture](./Image/sancyb4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bordeaux-sancy-b4-add-on-tuning-liveries-sounds) | ✔️ |
+| **Bravado Verlierer GT** | verlierergt | ![Picture](./Image/verlierergt.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-verlierer-gt-add-on-liveries) | ✔️ |
+| **Bravado Vulture** | vulture | ![Picture](./Image/vulture.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds) | ✔️ |
+| **Dinka Serena** | serena | ![Picture](./Image/serena.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/dinka-serena-add-on-tuning-liveries-sounds) | ✔️ |
+| **Hijak Tachyon** | tachyon | ![Picture](./Image/tachyon.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/hijak-tachyon-add-on-sounds) | ✔️ |
+| **Karin 98S/1** | s98 | ![Picture](./Image/s98.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-98s-1-add-on-tuning-liveries-sounds) | ✔️ |
+| **Maibatsu Sunrise R** | sunrise1 | ![Picture](./Image/sunrise1.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) | ✔️ |
+| **Ocelot Mantis** | mantis | ![Picture](./Image/mantis.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/ocelot-mantis-add-on-sounds) | ✔️ |
+| **Pfister 711** | p711 | ![Picture](./Image/p711.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-711-add-on-liveries-sounds) | ✔️ |
+| **Pfister Comet Callista** | callista | ![Picture](./Image/callista.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-comet-callista-add-on-tuning-liveries-sounds) | ✔️ |
+| **Pfister Comet R** | cometr | ![Picture](./Image/cometr.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-comet-r-add-on-replace) | ✔️ |
+| **Progen T20 GTR** | t20gtr | ![Picture](./Image/t20gtr.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
+| **Shitzu Castella** | castella | ![Picture](./Image/castella.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
+| **Shitzu Castella** | castellajp | ![Picture](./Image/castellajp.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
+| **Truffade Adder Sport** | adders | ![Picture](./Image/adders.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
+| **Ubermacht Vorstand** | vorstand | ![Picture](./Image/vorstand.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-vorstand-add-on-tuning-sounds) | ✔️ |
+| **Vapid Dominator GT Coupe** | domgtcoupe | ![Picture](./Image/domgtcoupe.webp) | Dayashii | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-dominator-gt-coupe-add-on-tuning) | ✔️ |
+| **Vapid Sabot** | sabot | ![Picture](./Image/sabot.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-sabot-add-on-liveries-sound) | ✔️ |
+| **Vulcar Hachura R** | hachura | ![Picture](./Image/hachura.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-r-add-on-tuning-liveries-sounds) | ✔️ |
+| **Vulcar Ingot R255** | r255 | ![Picture](./Image/r255.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-ingot-r255-add-on-liveries) | ✔️ |
+| **Vulcar Zodiac** | zodiac | ![Picture](./Image/zodiac.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
+| **Vulcar Zodiac** | zodiacc | ![Picture](./Image/zodiacc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
+| **Vulcar Zodiac** | zodiacr | ![Picture](./Image/zodiacr.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
 
 # Lore Friendly Rim Pack
 | Rim Set | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Lore Friendly + Neon Wheels Pack** | ![Picture](./image/LoreFriendlyNeonWheelsPack.webp) | microoowave | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
-| **Lore Friendly Bikes Wheels Pack** | ![Picture](./image/LoreFriendlyBikesWheelsPack.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
-| **Lore Friendly Muscle Wheels Pack** | ![Picture](./image/LoreFriendlyMuscleWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-muscle-wheels-pack-roosterthegamer) | ✔️ |
-| **Lore Friendly Sports Wheels Pack** | ![Picture](./image/LoreFriendlySportsWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-sports-wheels-pack-lfswp-add-on-lods) | ✔️ |
-| **Lore Friendly Tuner Wheels Pack** | ![Picture](./image/LoreFriendlyTunerWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-tuner-wheels-pack) | ✔️ |
-| **Lore Friendly Wheels Pack** | ![Picture](./image/LoreFriendlyWheelsPack.webp) | MGgames100 | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-wheels-wheel-pack-over-150-wheels-add-on) | ✔️ |
+| **Lore Friendly + Neon Wheels Pack** | ![Picture](./Image/LoreFriendlyNeonWheelsPack.webp) | microoowave | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
+| **Lore Friendly Bikes Wheels Pack** | ![Picture](./Image/LoreFriendlyBikesWheelsPack.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
+| **Lore Friendly Muscle Wheels Pack** | ![Picture](./Image/LoreFriendlyMuscleWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-muscle-wheels-pack-roosterthegamer) | ✔️ |
+| **Lore Friendly Sports Wheels Pack** | ![Picture](./Image/LoreFriendlySportsWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-sports-wheels-pack-lfswp-add-on-lods) | ✔️ |
+| **Lore Friendly Tuner Wheels Pack** | ![Picture](./Image/LoreFriendlyTunerWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-tuner-wheels-pack) | ✔️ |
+| **Lore Friendly Wheels Pack** | ![Picture](./Image/LoreFriendlyWheelsPack.webp) | MGgames100 | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-wheels-wheel-pack-over-150-wheels-add-on) | ✔️ |
