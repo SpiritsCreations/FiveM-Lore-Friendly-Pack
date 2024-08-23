@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>monroec</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            36
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            89
+            8
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            64
+            90
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            8
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            89
+            88
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            32
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            105
+            105
+            106
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            67
+            67
+            68
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            49
+            50
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

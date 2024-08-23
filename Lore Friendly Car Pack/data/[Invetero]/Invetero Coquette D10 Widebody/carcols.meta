@@ -1,0 +1,5350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+	<Item>
+      <kitName>854_coquette4c_modkit</kitName>
+      <id value="854" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+<!-- Nitrous -->
+		<Item>
+          <modelName>coquette4c_nitrous</modelName>
+          <modShopLabel>CMOD_BOS_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_nitrous</modelName>
+          <modShopLabel>CMOD_BOS_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_nitrous</modelName>
+          <modShopLabel>CMOD_BOS_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- HSW Turbos -->
+		<Item>
+          <modelName>coquette4c_null</modelName>
+          <modShopLabel>HSW_VEHMODT1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />  
+          <type>VMT_KNOB</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_hsw_discopotatoes</modelName>
+          <modShopLabel>HSW_VEHMODT2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_x</Item>
+		  </turnOffBones>  
+          <type>VMT_KNOB</type>
+          <bone>engineblock</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_hsw_discopotatoes</modelName>
+          <modShopLabel>HSW_VEHMODT3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_x</Item>
+		  </turnOffBones>  
+          <type>VMT_KNOB</type>
+          <bone>engineblock</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_hsw_discopotatoes</modelName>
+          <modShopLabel>HSW_VEHMODT4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_x</Item>
+		  </turnOffBones>  
+          <type>VMT_KNOB</type>
+          <bone>engineblock</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- HSW Upgrade -->
+		<Item>
+          <modelName>coquette4c_hsw</modelName>
+          <modShopLabel>HSW_VEHMOD</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Slap Stickers -->
+        <Item>
+          <modelName>coquette4c_slap_1</modelName>
+          <modShopLabel>COQ4C_SLP1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>coquette4c_slap_2</modelName>
+          <modShopLabel>COQ4C_SLP2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>coquette4c_slap_3</modelName>
+          <modShopLabel>COQ4C_SLP3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Spoilers -->
+		 <Item>
+          <modelName>coquette4c_null</modelName>
+          <modShopLabel>COQ4C_WING_0</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_null</modelName>
+          <modShopLabel>COQ4C_WING_NULL</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones>  
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_1</modelName>
+          <modShopLabel>COQ4C_WING_1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_2</modelName>
+          <modShopLabel>COQ4C_WING_2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_3</modelName>
+          <modShopLabel>COQ4C_WING_3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_4</modelName>
+          <modShopLabel>COQ4C_WING_4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_5</modelName>
+          <modShopLabel>COQ4C_WING_5</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_6</modelName>
+          <modShopLabel>COQ4C_WING_6</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_7</modelName>
+          <modShopLabel>COQ4C_WING_7</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_8</modelName>
+          <modShopLabel>COQ4C_WING_8</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_9</modelName>
+          <modShopLabel>COQ4C_WING_9</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_10</modelName>
+          <modShopLabel>COQ4C_WING_10</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_11</modelName>
+          <modShopLabel>COQ4C_WING_11</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_12</modelName>
+          <modShopLabel>COQ4C_WING_12</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_13</modelName>
+          <modShopLabel>COQ4C_WING_13</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_14</modelName>
+          <modShopLabel>COQ4C_WING_14</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_15</modelName>
+          <modShopLabel>COQ4C_WING_15</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_16</modelName>
+          <modShopLabel>COQ4C_WING_16</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_17</modelName>
+          <modShopLabel>COQ4C_WING_17</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_18</modelName>
+          <modShopLabel>COQ4C_WING_18</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_19</modelName>
+          <modShopLabel>COQ4C_WING_19</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_20</modelName>
+          <modShopLabel>COQ4C_WING_20</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_21</modelName>
+          <modShopLabel>COQ4C_WING_21</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_22</modelName>
+          <modShopLabel>COQ4C_WING_22</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_23</modelName>
+          <modShopLabel>COQ4C_WING_23</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_24</modelName>
+          <modShopLabel>COQ4C_WING_24</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_25</modelName>
+          <modShopLabel>COQ4C_WING_25</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_26</modelName>
+          <modShopLabel>COQ4C_WING_26</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_27</modelName>
+          <modShopLabel>COQ4C_WING_27</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_28</modelName>
+          <modShopLabel>COQ4C_WING_28</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_29</modelName>
+          <modShopLabel>COQ4C_WING_29</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_30</modelName>
+          <modShopLabel>COQ4C_WING_30</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_31</modelName>
+          <modShopLabel>COQ4C_WING_31</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_32</modelName>
+          <modShopLabel>COQ4C_WING_32</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_33</modelName>
+          <modShopLabel>COQ4C_WING_33</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_34</modelName>
+          <modShopLabel>COQ4C_WING_34</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_35</modelName>
+          <modShopLabel>COQ4C_WING_35</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_36</modelName>
+          <modShopLabel>COQ4C_WING_36</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_37</modelName>
+          <modShopLabel>COQ4C_WING_37</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_38</modelName>
+          <modShopLabel>COQ4C_WING_38</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_39</modelName>
+          <modShopLabel>COQ4C_WING_39</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_40</modelName>
+          <modShopLabel>COQ4C_WING_40</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_41</modelName>
+          <modShopLabel>COQ4C_WING_41</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_42</modelName>
+          <modShopLabel>COQ4C_WING_42</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_43</modelName>
+          <modShopLabel>COQ4C_WING_43</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_44</modelName>
+          <modShopLabel>COQ4C_WING_44</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_45</modelName>
+          <modShopLabel>COQ4C_WING_45</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_46</modelName>
+          <modShopLabel>COQ4C_WING_46</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_47</modelName>
+          <modShopLabel>COQ4C_WING_47</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_44</modelName>
+          <modShopLabel>COQ4C_WING_48</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_wing_roofbox</Item>		  
+		  </linkedModels> 
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_45</modelName>
+          <modShopLabel>COQ4C_WING_49</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_wing_roofbox</Item>		  
+		  </linkedModels> 
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_46</modelName>
+          <modShopLabel>COQ4C_WING_50</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_wing_roofbox</Item>		  
+		  </linkedModels> 
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_wing_47</modelName>
+          <modShopLabel>COQ4C_WING_51</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_wing_roofbox</Item>		  
+		  </linkedModels> 
+		  <turnOffBones> 
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Roof -->
+		 <Item>
+          <modelName>coquette4c_null</modelName>
+          <modShopLabel>COQ4_NOMOD</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones> 
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_1</modelName>
+          <modShopLabel>COQ4C_ROOF1</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_1a</Item>
+         	<Item>coquette4c_roof_1b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_1a</modelName>
+          <modShopLabel>COQ4C_ROOF1R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_1b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_2</modelName>
+          <modShopLabel>COQ4C_ROOF2</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_2a</Item>
+         	<Item>coquette4c_roof_2b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_2a</modelName>
+          <modShopLabel>COQ4C_ROOF2R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_2b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_3</modelName>
+          <modShopLabel>COQ4C_ROOF3</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_3a</Item>
+         	<Item>coquette4c_roof_3b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_3a</modelName>
+          <modShopLabel>COQ4C_ROOF3R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_3b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_4</modelName>
+          <modShopLabel>COQ4C_ROOF4</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_4a</Item>
+         	<Item>coquette4c_roof_4b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_4a</modelName>
+          <modShopLabel>COQ4C_ROOF4R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_4b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_5</modelName>
+          <modShopLabel>COQ4C_ROOF5</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_5a</Item>
+         	<Item>coquette4c_roof_5b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_5a</modelName>
+          <modShopLabel>COQ4C_ROOF5R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_5b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_6</modelName>
+          <modShopLabel>COQ4C_ROOF6</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_6a</Item>
+         	<Item>coquette4c_roof_6b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_6a</modelName>
+          <modShopLabel>COQ4C_ROOF6R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_6b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_7</modelName>
+          <modShopLabel>COQ4C_ROOF7</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_7a</Item>
+         	<Item>coquette4c_roof_7b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_7a</modelName>
+          <modShopLabel>COQ4C_ROOF7R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_7b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_8</modelName>
+          <modShopLabel>COQ4C_ROOF8</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_8a</Item>
+         	<Item>coquette4c_roof_8b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_8a</modelName>
+          <modShopLabel>COQ4C_ROOF8R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_8b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_9</modelName>
+          <modShopLabel>COQ4C_ROOF9</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_9a</Item>
+         	<Item>coquette4c_roof_9b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_9a</modelName>
+          <modShopLabel>COQ4C_ROOF9R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_9b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_10</modelName>
+          <modShopLabel>COQ4C_ROOF10</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_10a</Item>
+         	<Item>coquette4c_roof_10b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_10a</modelName>
+          <modShopLabel>COQ4C_ROOF10R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_10b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_11</modelName>
+          <modShopLabel>COQ4C_ROOF11</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_11a</Item>
+         	<Item>coquette4c_roof_11b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_11a</modelName>
+          <modShopLabel>COQ4C_ROOF11R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_11b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_12</modelName>
+          <modShopLabel>COQ4C_ROOF12</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_12a</Item>
+         	<Item>coquette4c_roof_12b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_12a</modelName>
+          <modShopLabel>COQ4C_ROOF12R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_12b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_13</modelName>
+          <modShopLabel>COQ4C_ROOF13</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_13a</Item>
+         	<Item>coquette4c_roof_13b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_1</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>extra_2</bone>
+          <collisionBone>extra_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_roof_13a</modelName>
+          <modShopLabel>COQ4C_ROOF13R</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_roof_13b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>misc_e</Item>
+         	<Item>extra_2</Item>
+         	<Item>window_lf</Item>
+         	<Item>window_rf</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Sunstrips -->
+		 <Item>
+          <modelName>coquette4c_sun_1</modelName>
+          <modShopLabel>TENF2_SUN_A1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_2</modelName>
+          <modShopLabel>COQ4C_SUN_2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_3</modelName>
+          <modShopLabel>COQ4C_SUN_3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_4</modelName>
+          <modShopLabel>COQ4C_SUN_4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_5</modelName>
+          <modShopLabel>COQ4C_SUN_5</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_6</modelName>
+          <modShopLabel>COQ4C_SUN_6</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_7</modelName>
+          <modShopLabel>COQ4C_SUN_7</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_8</modelName>
+          <modShopLabel>COQ4C_SUN_8</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_9</modelName>
+          <modShopLabel>COQ4C_SUN_9</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_10</modelName>
+          <modShopLabel>COQ4C_SUN_10</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_11</modelName>
+          <modShopLabel>COQ4C_SUN_11</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_12</modelName>
+          <modShopLabel>COQ4C_SUN_12</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_13</modelName>
+          <modShopLabel>COQ4C_SUN_13</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_14</modelName>
+          <modShopLabel>COQ4C_SUN_14</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_15</modelName>
+          <modShopLabel>TENF2_SUN_BA</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_16</modelName>
+          <modShopLabel>TENF2_SUN_BB</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_17</modelName>
+          <modShopLabel>TENF2_SUN_BC</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_18</modelName>
+          <modShopLabel>TENF2_SUN_BD</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_19</modelName>
+          <modShopLabel>TENF2_SUN_BE</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_20</modelName>
+          <modShopLabel>TENF2_SUN_BF</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_21</modelName>
+          <modShopLabel>COQ4C_SUN_21</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_22</modelName>
+          <modShopLabel>COQ4C_SUN_22</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_23</modelName>
+          <modShopLabel>COQ4C_SUN_23</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_sun_24</modelName>
+          <modShopLabel>COQ4C_SUN_24</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Engine Cover Scoops -->
+		 <Item>
+          <modelName>coquette4c_scoop_1</modelName>
+          <modShopLabel>COQ4C_SCP1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_2</modelName>
+          <modShopLabel>COQ4_HOODB</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_3</modelName>
+          <modShopLabel>COQ4_HOODC</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_4</modelName>
+          <modShopLabel>COQ4C_SCP2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_5</modelName>
+          <modShopLabel>COQ4C_SCP3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_6</modelName>
+          <modShopLabel>COQ4_HOODE</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_7</modelName>
+          <modShopLabel>COQ4_HOODF</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_scoop_8</modelName>
+          <modShopLabel>COQ4C_SCP4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/> 
+          <type>VMT_CHASSIS5</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Frunks -->
+		 <Item>
+          <modelName>coquette4c_frunk_1</modelName>
+          <modShopLabel>COQ4C_FRNK1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_2</modelName>
+          <modShopLabel>COQ4C_FRNK2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_3</modelName>
+          <modShopLabel>COQ4C_FRNK3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_4</modelName>
+          <modShopLabel>COQ4C_FRNK4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_5</modelName>
+          <modShopLabel>COQ4C_FRNK5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_6</modelName>
+          <modShopLabel>COQ4C_FRNK6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_7</modelName>
+          <modShopLabel>COQ4C_FRNK7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_8</modelName>
+          <modShopLabel>COQ4C_FRNK8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_9</modelName>
+          <modShopLabel>COQ4C_FRNK9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_10</modelName>
+          <modShopLabel>COQ4C_FRNK10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_11</modelName>
+          <modShopLabel>COQ4C_FRNK11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_12</modelName>
+          <modShopLabel>COQ4C_FRNK12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_frunk_13</modelName>
+          <modShopLabel>COQ4C_FRNK13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>boot</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Front Bumpers -->
+		 <Item>
+          <modelName>coquette4c_bumpf_1</modelName>
+          <modShopLabel>COQ4C_BUMPF1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_2</modelName>
+          <modShopLabel>COQ4C_BUMPF2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_3</modelName>
+          <modShopLabel>COQ4C_BUMPF3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_4</modelName>
+          <modShopLabel>COQ4C_BUMPF4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_5</modelName>
+          <modShopLabel>COQ4C_BUMPF5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_6</modelName>
+          <modShopLabel>COQ4C_BUMPF6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_7</modelName>
+          <modShopLabel>COQ4C_BUMPF7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_8</modelName>
+          <modShopLabel>COQ4C_BUMPF8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_9</modelName>
+          <modShopLabel>COQ4C_BUMPF9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_10</modelName>
+          <modShopLabel>COQ4C_BUMPF10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_11</modelName>
+          <modShopLabel>COQ4C_BUMPF11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_12</modelName>
+          <modShopLabel>COQ4C_BUMPF12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_bumpf_13</modelName>
+          <modShopLabel>COQ4C_BUMPF13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Headlight Glass -->		 
+		<Item>
+          <modelName>coquette4c_hlight_1</modelName>
+          <modShopLabel>REMUS_HLIGHTA</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_hlight_1a</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_2</modelName>
+          <modShopLabel>REMUS_HLIGHTC</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_hlight_2a</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_3</modelName>
+          <modShopLabel>REMUS_HLIGHTB</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_hlight_3a</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_4</modelName>
+          <modShopLabel>REMUS_HLIGHTD</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_hlight_4a</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_5</modelName>
+          <modShopLabel>REMUS_HLIGHTE</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_hlight_5a</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_6</modelName>
+          <modShopLabel>COQ4C_HLIGHT6</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_hlight_6a</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		</Item>
+<!-- Headlight Housings -->
+       <Item>
+          <modelName>coquette4c_light_1</modelName>
+          <modShopLabel>COQ4C_LIGHT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_y</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>coquette4c_light_2</modelName>
+          <modShopLabel>ASBO_LIGHTB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_y</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>coquette4c_light_3</modelName>
+          <modShopLabel>ASBO_LIGHTC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_y</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>coquette4c_light_4</modelName>
+          <modShopLabel>ASBO_LIGHTD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_y</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>coquette4c_light_5</modelName>
+          <modShopLabel>COQ4C_LIGHT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_y</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Overfenders -->
+       <Item>
+          <modelName>coquette4c_arches_1</modelName>
+          <modShopLabel>COQ4C_ARCH1</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_arches_1a</Item>
+			<Item>coquette4c_arches_1b</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_k</Item>
+			<Item>misc_g</Item>
+			<Item>misc_l</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>coquette4c_arches_2</modelName>
+          <modShopLabel>COQ4C_ARCH2</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_arches_2a</Item>
+			<Item>coquette4c_arches_2b</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_k</Item>
+			<Item>misc_g</Item>
+			<Item>misc_l</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>coquette4c_arches_3</modelName>
+          <modShopLabel>COQ4C_ARCH3</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_arches_3a</Item>
+			<Item>coquette4c_arches_3b</Item>
+          </linkedModels>
+          <turnOffBones>
+			<Item>misc_k</Item>
+			<Item>misc_g</Item>
+			<Item>misc_l</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Canards -->
+		 <Item>
+          <modelName>coquette4c_can_1</modelName>
+          <modShopLabel>COQ4C_CAN1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_can_2</modelName>
+          <modShopLabel>COQ4C_CAN2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_can_3</modelName>
+          <modShopLabel>COQ4C_CAN3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_can_4</modelName>
+          <modShopLabel>COQ4C_CAN4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Rear Diffusers -->		 
+		 <Item>
+          <modelName>coquette4c_diff_1</modelName>
+          <modShopLabel>COQ4C_DIFF1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_2</modelName>
+          <modShopLabel>COQ4C_DIFF2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_3</modelName>
+          <modShopLabel>COQ4C_DIFF3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_4</modelName>
+          <modShopLabel>COQ4C_DIFF4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_5</modelName>
+          <modShopLabel>COQ4C_DIFF5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_6</modelName>
+          <modShopLabel>COQ4C_DIFF6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_7</modelName>
+          <modShopLabel>COQ4C_DIFF7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_8</modelName>
+          <modShopLabel>COQ4C_DIFF8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_9</modelName>
+          <modShopLabel>COQ4C_DIFF9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_10</modelName>
+          <modShopLabel>COQ4C_DIFF10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_diff_11</modelName>
+          <modShopLabel>COQ4C_DIFF11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_j</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Exhausts -->	
+		 <Item>
+          <modelName>coquette4c_exhausts_1</modelName>
+          <modShopLabel>COQ4C_EXH1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_i</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_exhausts_2</modelName>
+          <modShopLabel>COQ4C_EXH2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_i</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_exhausts_3</modelName>
+          <modShopLabel>COQ4C_EXH3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_i</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_exhausts_4</modelName>
+          <modShopLabel>COQ4C_EXH4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_i</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Sideskirts -->
+		 <Item>
+          <modelName>coquette4c_skirts_1</modelName>
+          <modShopLabel>COQ4C_SKRT1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_2</modelName>
+          <modShopLabel>COQ4C_SKRT2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_3</modelName>
+          <modShopLabel>COQ4C_SKRT3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_4</modelName>
+          <modShopLabel>COQ4C_SKRT4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_5</modelName>
+          <modShopLabel>COQ4C_SKRT5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_6</modelName>
+          <modShopLabel>COQ4C_SKRT6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_7</modelName>
+          <modShopLabel>COQ4C_SKRT7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_8</modelName>
+          <modShopLabel>COQ4C_SKRT8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_9</modelName>
+          <modShopLabel>COQ4C_SKRT9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_10</modelName>
+          <modShopLabel>COQ4C_SKRT10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_11</modelName>
+          <modShopLabel>COQ4C_SKRT11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_12</modelName>
+          <modShopLabel>COQ4C_SKRT12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_skirts_13</modelName>
+          <modShopLabel>COQ4C_SKRT13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+         	<Item>misc_h</Item>
+		  </turnOffBones> 
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Mirrors -->
+		 <Item>
+          <modelName>coquette4c_mirror_1</modelName>
+          <modShopLabel>COQ4C_MIR1</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_1a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_mirror_2</modelName>
+          <modShopLabel>COQ4C_MIR2</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_2a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_mirror_3</modelName>
+          <modShopLabel>COQ4C_MIR3</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_3a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_mirror_4</modelName>
+          <modShopLabel>COQ4C_MIR4</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_4a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_mirror_5</modelName>
+          <modShopLabel>COQ4C_MIR5</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_5a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_mirror_6</modelName>
+          <modShopLabel>COQ4C_MIR6</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_6a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_mirror_7</modelName>
+          <modShopLabel>COQ4C_MIR7</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_mirror_7a</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_q</Item>
+         	<Item>misc_r</Item>
+		  </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Side Vent Trim -->
+		 <Item>
+          <modelName>coquette4c_vent_1</modelName>
+          <modShopLabel>COQ4C_VNT1</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_vent_1a</Item>
+         	<Item>coquette4c_vent_1b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_u</Item>
+         	<Item>misc_v</Item>
+        	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS3</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_vent_2</modelName>
+          <modShopLabel>CYPH_VENT_A2</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_vent_2a</Item>
+         	<Item>coquette4c_vent_2b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_u</Item>
+         	<Item>misc_v</Item>
+        	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS3</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_vent_3</modelName>
+          <modShopLabel>CYPH_VENT_AC</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_vent_3a</Item>
+         	<Item>coquette4c_vent_3b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_u</Item>
+         	<Item>misc_v</Item>
+        	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS3</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_vent_4</modelName>
+          <modShopLabel>COQ4C_VNT4</modShopLabel>
+          <linkedModels>
+         	<Item>coquette4c_vent_4a</Item>
+         	<Item>coquette4c_vent_4b</Item>
+          </linkedModels>
+		  <turnOffBones> 
+         	<Item>misc_u</Item>
+         	<Item>misc_v</Item>
+        	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS3</type>
+          <bone>bodyshell</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Rollcages -->
+		 <Item>
+          <modelName>coquette4c_cage_1</modelName>
+          <modShopLabel>COQ4C_CGE1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_cage_2</modelName>
+          <modShopLabel>COQ4C_CGE2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+		 <Item>
+          <modelName>coquette4c_cage_3</modelName>
+          <modShopLabel>COQ4C_CGE3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+         </Item>
+<!-- Dashboard -->
+		<Item>
+          <modelName>coquette4c_dash_1</modelName>
+          <modShopLabel>TENF2_DASH_AC</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_dash_2</modelName>
+          <modShopLabel>COQ4C_DASH2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_dash_3</modelName>
+          <modShopLabel>TENF2_DASH_AA</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_dash_4</modelName>
+          <modShopLabel>TENF2_DASH_AF</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_dash_5</modelName>
+          <modShopLabel>TENF2_DASH_AW</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Seats -->
+		<Item>
+          <modelName>coquette4c_seats_1</modelName>
+          <modShopLabel>TENF2_SEATS_A</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>    
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_2</modelName>
+          <modShopLabel>TENF2_SEATS_B</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_3</modelName>
+          <modShopLabel>TENF2_SEATS_B2</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_4</modelName>
+          <modShopLabel>TENF2_SEATS_B3</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_5</modelName>
+          <modShopLabel>TENF2_SEATS_C</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>    
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_6</modelName>
+          <modShopLabel>TENF2_SEATS_C2</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_7</modelName>
+          <modShopLabel>TENF2_SEATS_C3</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>   
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_8</modelName>
+          <modShopLabel>TENF2_SEATS_D</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_9</modelName>
+          <modShopLabel>TENF2_SEATS_D2</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>    
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_10</modelName>
+          <modShopLabel>TENF2_SEATS_D3</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_11</modelName>
+          <modShopLabel>TENF2_SEATS_E</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_12</modelName>
+          <modShopLabel>TENF2_SEATS_E2</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_13</modelName>
+          <modShopLabel>TENF2_SEATS_E3</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_seats_14</modelName>
+          <modShopLabel>TENF2_SEATS_F</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_harnessbar</Item>
+		  </linkedModels> 
+		  <turnOffBones>  
+			<Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Steering Wheels -->
+		<Item>
+          <modelName>coquette4c_stwheel_1</modelName>
+          <modShopLabel>SMOD2_STEER13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_stwheel_2</modelName>
+          <modShopLabel>TENF2_STEER1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_stwheel_3</modelName>
+          <modShopLabel>SMOD2_STEER10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_stwheel_4</modelName>
+          <modShopLabel>SMOD2_STEER11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_stwheel_5</modelName>
+          <modShopLabel>SMOD2_STEER12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_stwheel_6</modelName>
+          <modShopLabel>SMOD2_STEER13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_stwheel_7</modelName>
+          <modShopLabel>SMOD2_STEER16</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>  
+			<Item>steeringwheel</Item>
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<!-- Doorcards -->
+		<Item>
+          <modelName>coquette4c_door_1</modelName>
+          <modShopLabel>TENF2_DOORS_AA</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_door_1a</Item>
+          </linkedModels>
+          <turnOffBones>  
+		  <Item>misc_s</Item>
+		  <Item>misc_t</Item> 
+		  </turnOffBones> 
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_door_2</modelName>
+          <modShopLabel>TENF2_DOORS_AC</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_door_2a</Item>
+          </linkedModels>
+          <turnOffBones>  
+		  <Item>misc_s</Item>
+		  <Item>misc_t</Item> 
+		  </turnOffBones> 
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_door_3</modelName>
+          <modShopLabel>COQ4C_DOOR3</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_door_3a</Item>
+          </linkedModels>
+          <turnOffBones>  
+		  <Item>misc_s</Item>
+		  <Item>misc_t</Item> 
+		  </turnOffBones> 
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_door_4</modelName>
+          <modShopLabel>TENF2_DOORS_AF</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_door_4a</Item>
+          </linkedModels>
+          <turnOffBones>  
+		  <Item>misc_s</Item>
+		  <Item>misc_t</Item> 
+		  </turnOffBones> 
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_door_5</modelName>
+          <modShopLabel>TENF2_DOORS_AW</modShopLabel>
+          <linkedModels>
+			<Item>coquette4c_door_5a</Item>
+          </linkedModels>
+          <turnOffBones>  
+		  <Item>misc_s</Item>
+		  <Item>misc_t</Item> 
+		  </turnOffBones> 
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		</visibleMods>
+      <linkMods>
+		<Item>
+          <modelName>coquette4c_roof_1a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_1b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_2a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_2b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_3a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_3b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_4a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_4b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_5a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_5b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_6a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_6b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_7a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_7b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_8a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_8b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_9a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_9b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_10a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_10b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_11a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_11b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_12a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_12b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_13a</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_roof_13b</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>coquette4c_hlight_1a</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_2a</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_3a</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_4a</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_5a</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_hlight_6a</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_arches_1a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_arches_1b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_arches_2a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_arches_2b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_arches_3a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_arches_3b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_wing_roofbox</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_1a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_2a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_3a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_4a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_5a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_6a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_mirror_7a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_harnessbar</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_door_1a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_door_2a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_door_3a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_door_4a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_door_5a</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_1a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_1b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_2a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_2b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_3a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_3b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_4a</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>coquette4c_vent_4b</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+      </linkMods> 
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="125" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="150"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="150" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+   		<Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+		<Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_SUNST</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS5</slot>
+          <name>TOP_ROOFSC</name>
+        </Item>
+        <Item>
+          <slot>VMT_INTERIOR1</slot>
+          <name>COQ4C_SLP</name>
+        </Item>
+        <Item>
+          <slot>VMT_KNOB</slot>
+          <name>TOP_HSWTURBO</name>
+        </Item>
+        <Item>
+          <slot>VMT_ICE</slot>
+          <name>TOP_HSWUPGRADE</name>
+        </Item>
+        <Item>
+          <slot>VMT_BONNET</slot>
+          <name>COQ4C_FRNK</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS2</slot>
+          <name>TOP_HL_CV</name>
+        </Item>
+		<Item>
+          <slot>VMT_GRILL</slot>
+          <name>TOP_HLT</name>
+        </Item>
+		<Item>
+          <slot>VMT_PLTVANITY</slot>
+          <name>TOP_CANARDS</name>
+        </Item>
+		<Item>
+          <slot>VMT_DOOR_L</slot>
+          <name>TOP_MIR</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS3</slot>
+          <name>TOP_VENT</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS4</slot>
+          <name>TOP_CAGE</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+    </Item>	
+  </Kits>
+  <Lights>
+    <Item>
+      <id value="234" />
+      <indicator>
+        <intensity value="0.375000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="30.000000" />
+        <outerConeAngle value="50.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.025000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.000000" />
+        <size_far value="8.000000" />
+        <intensity value="4.000000" />
+        <intensity_far value="8.000000" />
+        <color value="0xFFFF0F05" />
+        <numCoronas value="3" />
+        <distBetweenCoronas value="22" />
+        <distBetweenCoronas_far value="1" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="5.730000" />
+        <zBias value="0.000000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFF7FA7E3" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.100000" />
+        <size_far value="7.000000" />
+        <intensity value="7.000000" />
+        <intensity_far value="5.000000" />
+        <color value="0xFF61A5FF" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="185" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.5000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.250000" />
+        <size_far value="0.800000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>coquette4c</name>
+    </Item>
+  </Lights>
+</CVehicleModelInfoVarGlobal>

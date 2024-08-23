@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>boorc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            34 
+            34 
+            35 
+            0
+            22
+            35		
+          </indices>
+        </Item>		  
+        <Item>
+          <indices content="char_array">
+            76 
+            76 
+            63 
+            0
+            22
+            0		
+          </indices>
+        </Item>	
+        <Item>
+          <indices content="char_array">
+            122 
+            122 
+            122 
+            0
+            22
+            127		
+          </indices>
+        </Item>	
+        <Item>
+          <indices content="char_array">
+            0 
+            0		
+            2 
+            0
+            22
+            126	
+          </indices>
+        </Item>	
+        <Item>
+          <indices content="char_array">
+            1 
+            1		
+            5 
+            0
+            22
+            92		
+          </indices>
+        </Item>		
+	    <Item>
+          <indices content="char_array">
+            127 
+            127	
+            0
+            0
+            22
+            0		
+          </indices>
+        </Item>		
+	    <Item>
+          <indices content="char_array">
+            20 
+            20	
+            0
+            0
+            22
+            124		
+          </indices>
+        </Item>	
+	    <Item>
+          <indices content="char_array">
+            144 
+            144	
+            0
+            0
+            22
+            0		
+          </indices>
+        </Item>	
+	    <Item>
+          <indices content="char_array">
+            51 
+            51	
+            60
+            0
+            22
+            60		
+          </indices>
+        </Item>	
+      </colors>
+      <kits>
+        <Item>847_boorc_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

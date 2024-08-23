@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>buffaloh</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            9
+            9
+            10
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            28
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            68
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            3
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            71
+            111
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            10
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            101
+            105
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            50
+            50
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            6
+            111
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>799_buffaloh_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>742_sultan2c_modkit</kitName>
+      <id value="742" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+		<Item>
+          <modelName>sultan2c_boost1</modelName>
+          <modShopLabel>CMOD_BOS_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_boost2</modelName>
+          <modShopLabel>CMOD_BOS_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_boost3</modelName>
+          <modShopLabel>CMOD_BOS_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_hood_1</modelName>
+          <modShopLabel>SLTN2C_HOOD1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2_hooda</modelName>
+          <modShopLabel>SULTAN2_HOODA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodb</modelName>
+          <modShopLabel>SULTAN2_HOODB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodc</modelName>
+          <modShopLabel>SULTAN2_HOODC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodd</modelName>
+          <modShopLabel>SULTAN2_HOODD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoode</modelName>
+          <modShopLabel>SULTAN2_HOODE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodf</modelName>
+          <modShopLabel>SULTAN2_HOODF</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodg</modelName>
+          <modShopLabel>SULTAN2_HOODG</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodh</modelName>
+          <modShopLabel>SULTAN2_HOODH</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodi</modelName>
+          <modShopLabel>SULTAN2_HOODI</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodj</modelName>
+          <modShopLabel>SULTAN2_HOODJ</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodk</modelName>
+          <modShopLabel>SULTAN2_HOODK</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodl</modelName>
+          <modShopLabel>SULTAN2_HOODL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodm</modelName>
+          <modShopLabel>SULTAN2_HOODM</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodn</modelName>
+          <modShopLabel>SULTAN2_HOODN</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_hoodo</modelName>
+          <modShopLabel>SULTAN2_HOODO</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingnull</modelName>
+          <modShopLabel>VAG_WING_STD</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingnull</modelName>
+          <modShopLabel>OMNIS_NOSPOIL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_wing_1</modelName>
+          <modShopLabel>SLTN2C_WING1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2_winga</modelName>
+          <modShopLabel>SULTAN2_WINGA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingb</modelName>
+          <modShopLabel>SULTAN2_WINGB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingc</modelName>
+          <modShopLabel>SULTAN2_WINGC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingd</modelName>
+          <modShopLabel>SULTAN2_WINGD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_winge</modelName>
+          <modShopLabel>SULTAN2_WINGE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingf</modelName>
+          <modShopLabel>SULTAN2_WINGF</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingg</modelName>
+          <modShopLabel>SULTAN2_WINGG</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_wing_2</modelName>
+          <modShopLabel>SLTN2C_WING2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_wing_3</modelName>
+          <modShopLabel>SLTN2C_WING3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_wing_4</modelName>
+          <modShopLabel>SLTN2C_WING4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingh</modelName>
+          <modShopLabel>SULTAN2_WINGH</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingi</modelName>
+          <modShopLabel>SULTAN2_WINGI</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingj</modelName>
+          <modShopLabel>SULTAN2_WINGJ</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingk</modelName>
+          <modShopLabel>SULTAN2_WINGK</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingl</modelName>
+          <modShopLabel>SULTAN2_WINGL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingm</modelName>
+          <modShopLabel>SULTAN2_WINGM</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingn</modelName>
+          <modShopLabel>SULTAN2_WINGN</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingo</modelName>
+          <modShopLabel>SULTAN2_WINGO</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_wingp</modelName>
+          <modShopLabel>SULTAN2_WINGP</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_wing_5</modelName>
+          <modShopLabel>SLTN2C_WING5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2c_wing_6</modelName>
+          <modShopLabel>SLTN2C_WING6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_lighta</modelName>
+          <modShopLabel>ASBO_LIGHTA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_lightb</modelName>
+          <modShopLabel>ASBO_LIGHTB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_lightc</modelName>
+          <modShopLabel>ASBO_LIGHTC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_boota</modelName>
+          <modShopLabel>SULTAN2_BOOTA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_bootb</modelName>
+          <modShopLabel>SULTAN2_BOOTB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_bootc</modelName>
+          <modShopLabel>SULTAN2_BOOTC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_roof_1</modelName>
+          <modShopLabel>SLTN2C_ROOF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2_roofa</modelName>
+          <modShopLabel>SULTAN2_ROOFA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofc</modelName>
+          <modShopLabel>SULTAN2_ROOFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofd</modelName>
+          <modShopLabel>SULTAN2_ROOFD</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofe</modelName>
+          <modShopLabel>SULTAN2_ROOFE</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_rooff</modelName>
+          <modShopLabel>SULTAN2_ROOFF</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofg</modelName>
+          <modShopLabel>SULTAN2_ROOFG</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofh</modelName>
+          <modShopLabel>SULTAN2_ROOFH</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofi</modelName>
+          <modShopLabel>SULTAN2_ROOFI</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofj</modelName>
+          <modShopLabel>SULTAN2_ROOFJ</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofk</modelName>
+          <modShopLabel>SULTAN2_ROOFK</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofl</modelName>
+          <modShopLabel>SULTAN2_ROOFL</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofwingnull</modelName>
+          <modShopLabel>OMNIS_NOSPOIL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>sultan2_roofwinga</modelName>
+          <modShopLabel>SULTAN2_RWINGA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofwingb</modelName>
+          <modShopLabel>SULTAN2_RWINGB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofwingc</modelName>
+          <modShopLabel>SULTAN2_RWINGC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofwingd</modelName>
+          <modShopLabel>SULTAN2_RWINGD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofwinge</modelName>
+          <modShopLabel>SULTAN2_RWINGE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2_roofwingf</modelName>
+          <modShopLabel>SULTAN2_RWINGF</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_s</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_arch_1a</modelName>
+          <modShopLabel>SLTN2C_ARCH1</modShopLabel>
+          <linkedModels>
+			<Item>sultan2c_arch_1b</Item>
+			<Item>sultan2c_arch_1c</Item>
+			<Item>sultan2c_arch_1d</Item>
+			<Item>sultan2c_arch_1e</Item>
+			<Item>sultan2c_arch_1f</Item>
+			<Item>sultan2c_arch_1g</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_k</Item>
+			<Item>misc_l</Item>
+			<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+			<Item>misc_q</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_arch_2a</modelName>
+          <modShopLabel>SLTN2C_ARCH2</modShopLabel>
+          <linkedModels>
+			<Item>sultan2c_arch_2b</Item>
+			<Item>sultan2c_arch_2c</Item>
+			<Item>sultan2c_arch_2d</Item>
+			<Item>sultan2c_arch_2e</Item>
+			<Item>sultan2c_arch_2f</Item>
+			<Item>sultan2c_arch_2g</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_k</Item>
+			<Item>misc_l</Item>
+			<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+			<Item>misc_q</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_grille_null</modelName>
+          <modShopLabel>SLTN2C_GRL1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_u</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_grille_1</modelName>
+          <modShopLabel>SLTN2C_GRL2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_u</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>sultan2c_grille_1</modelName>
+          <modShopLabel>SLTN2C_GRL3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+	  <linkMods>
+		<Item>
+          <modelName>sultan2c_arch_1b</modelName>
+          <bone>wing_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_1c</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_1d</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_1e</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_1f</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_1g</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_2b</modelName>
+          <bone>wing_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_2c</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_2d</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_2e</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_2f</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>sultan2c_arch_2g</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="90" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="135" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="180" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+   		<Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+	  <slotNames>
+		<Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>CMOD_ROOF_ACC</name>
+        </Item>
+		<Item>
+          <slot>VMT_GRILL</slot>
+          <name>TOP_HLT</name>
+        </Item>
+		<Item>
+          <slot>VMT_WING_L</slot>
+          <name>TOP_TRUNK</name>
+        </Item>
+		<Item>
+          <slot>VMT_WING_R</slot>
+          <name>TOP_RWING</name>
+        </Item>
+		<Item>
+          <slot>VMT_BUMPER_F</slot>
+          <name>SLTN2C_GRL</name>
+        </Item>
+		<Item>
+          <slot>VMT_SKIRT</slot>
+          <name>SLTN2C_ARCH</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+    </Item>
+  </Kits>
+  <Lights>
+    <Item>
+      <id value="243"/>
+      <indicator>
+        <intensity value="0.37500000"/>
+        <falloffMax value="2.50000000"/>
+        <falloffExponent value="8.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="50.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF7300"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.25000000"/>
+        <falloffMax value="4.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="45.00000000"/>
+        <outerConeAngle value="90.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF0000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </tailLight>
+      <tailLightCorona>
+        <size value="8.000000" />
+        <size_far value="5.000000" />
+        <intensity value="0.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF0F05"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.50000000"/>
+        <falloffMax value="35.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="0.00000000"/>
+        <outerConeAngle value="60.00000000"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFF7FA7E3"/>
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false"/>
+      </headLight>
+      <headLightCorona>
+        <size value="0.10000000"/>
+        <size_far value="7.00000000"/>
+        <intensity value="7.00000000"/>
+        <intensity_far value="5.00000000"/>
+        <color value="0xFF61A5FF"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.50000000"/>
+        <falloffMax value="7.20000000"/>
+        <falloffExponent value="32.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="78.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFFFFF"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.80000000"/>
+        <size_far value="2.00000000"/>
+        <intensity value="1.50000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0x00F7F7F7"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </reversingLightCorona>
+      <name>sultan2c</name>
+    </Item>
+  </Lights>
+</CVehicleModelInfoVarGlobal>

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>monroer</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            127
+            0
+            127
+            156
+            122
+            122
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            0
+            0
+            156
+            98
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            0
+            101
+            156
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            0
+            111
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            45
+            0
+            101
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            0
+            60
+            156
+            90
+            90
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            54
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            102
+            0
+            160
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            0
+            0
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            5
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            0
+            0
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            0
+            25
+            156
+            46
+            46
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            0
+            47
+            156
+            129
+            129
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            0
+            83
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            57
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            61
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            0
+            71
+            156
+            122
+            122
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>846_monroer_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="0"/>
+    </Item>
+    <Item>
+      <modelName>monroei</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            0
+            0
+            156
+            98
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            0
+            101
+            156
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            0
+            111
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            45
+            0
+            101
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            0
+            60
+            156
+            90
+            90
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            54
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            102
+            0
+            160
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            0
+            0
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            5
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            0
+            0
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            0
+            25
+            156
+            46
+            46
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            0
+            47
+            156
+            129
+            129
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            0
+            83
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            57
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            61
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            0
+            71
+            156
+            122
+            122
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>845_monroei_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="0"/>
+    </Item>
+    <Item>
+      <modelName>monroerw</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            127
+            0
+            127
+            156
+            122
+            122
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            0
+            0
+            156
+            98
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            0
+            101
+            156
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            0
+            111
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            45
+            0
+            101
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            0
+            60
+            156
+            90
+            90
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            54
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            102
+            0
+            160
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            0
+            0
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            5
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            0
+            0
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            0
+            25
+            156
+            46
+            46
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            0
+            47
+            156
+            129
+            129
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            0
+            83
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            57
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            61
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            0
+            71
+            156
+            122
+            122
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>844_monroerw_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="0"/>
+    </Item>
+    <Item>
+      <modelName>monroeiw</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            0
+            0
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            0
+            0
+            156
+            98
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            0
+            101
+            156
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            0
+            111
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            45
+            0
+            101
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            0
+            60
+            156
+            90
+            90
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            54
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            102
+            0
+            160
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            0
+            0
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            5
+            156
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            0
+            0
+            156
+            66
+            66
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            0
+            25
+            156
+            46
+            46
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            0
+            0
+            156
+            98
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            0
+            47
+            156
+            129
+            129
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            0
+            83
+            156
+            154
+            154
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            0
+            57
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            61
+            156
+            99
+            99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            0
+            71
+            156
+            122
+            122
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>843_monroeiw_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

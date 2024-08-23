@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>sentineldm</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            30
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            0
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            50
+            50
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            112
+            92
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            61
+            64
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145
+            145
+            145
+            89
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            89
+            111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>  
+  </variationData>
+</CVehicleModelInfoVariation>

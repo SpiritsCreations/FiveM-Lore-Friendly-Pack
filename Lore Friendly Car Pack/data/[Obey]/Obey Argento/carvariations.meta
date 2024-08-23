@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+	<Item>
+      <modelName>argento</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            9
+            9
+            4
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            64
+            70
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            0
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            142
+            142
+            71
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            22
+            22
+            24
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            44
+            44
+            44
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            122
+            112
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            18
+            18
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            143
+            143
+            46
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            41
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            56
+            56
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            93
+            0
+            22
+            43
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>743_argento_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="240" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
