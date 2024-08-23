@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>vorstand</modelName>
+      <colors>
+	    <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            62
+            62
+            64
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            5
+            4
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            27
+            27
+            29
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11
+            11
+            8
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            49
+            49
+            50
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            63
+            63
+            68
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            88
+            88
+            88
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            32
+            32
+            30
+            156
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>701_vorstand_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="90" />
+          </Item>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="10" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+	</Item>
+  </variationData>
+</CVehicleModelInfoVariation>

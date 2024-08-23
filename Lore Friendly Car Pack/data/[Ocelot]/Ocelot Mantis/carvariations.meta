@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+    <Item>
+      <modelName>mantis</modelName>
+      <colors>
+	  	<Item>
+          <indices content="char_array">
+            32 
+            32
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            50 
+            50
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            5 
+            5
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            67 
+            67
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            89 
+            89
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            138 
+            138
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            73 
+            73
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            1 
+            1
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            112 
+            112
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            27 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            63 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            145 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            138 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            70 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            112 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            107 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            139 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            92 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+	  	<Item>
+          <indices content="char_array">
+            3 
+            0
+            3
+            156
+			14
+			134
+          </indices>
+          <liveries /> 
+        </Item>
+      </colors>
+      <kits>
+        <Item>639_mantis_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="139" />
+      <sirenSettings value="0" />
+  </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

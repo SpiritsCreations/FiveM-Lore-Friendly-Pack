@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>  
+    <Item>
+      <modelName>sancyb4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            73
+            73
+            66
+            156
+            111
+            11
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            32
+            156
+            111
+            11
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            111
+            11
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            125
+            125
+            156
+            111
+            11
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            126
+            126
+            126
+            156
+            111
+            11
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            124
+            124
+            124
+            156
+            111
+            11
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>669_sancyb4_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="60" />
+          </Item>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="5"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="35"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="193" />
+      <sirenSettings value="0" />
+    </Item>  
+  </variationData>
+</CVehicleModelInfoVariation>
