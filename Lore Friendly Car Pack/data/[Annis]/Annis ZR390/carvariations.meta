@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>zr390</modelName>
+      <colors>
+	  	<!--Magnetic Black-->
+        <Item>
+          <indices content="char_array">
+            0
+            88
+            27
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Chicane Yellow-->
+        <Item>
+          <indices content="char_array">
+            88
+            27
+            88
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Pearl White-->
+        <Item>
+          <indices content="char_array">
+            111
+            27
+            111
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Brilliant Silver-->
+        <Item>
+          <indices content="char_array">
+            5
+            27
+            111
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Platinum Graphite-->
+        <Item>
+          <indices content="char_array">
+            7
+            27
+            5
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Gunmetal Grey-->
+        <Item>
+          <indices content="char_array">
+            118
+            27
+            3
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Solid Red-->
+        <Item>
+          <indices content="char_array">
+            27
+            27
+            27
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Magma Red-->
+        <Item>
+          <indices content="char_array">
+            33
+            27
+            41
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Passion Red-->
+        <Item>
+          <indices content="char_array">
+            34
+            27
+            35
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Monterey Blue-->
+        <Item>
+          <indices content="char_array">
+            73
+            27
+            73
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Midnigh Blue-->
+        <Item>
+          <indices content="char_array">
+            141
+            27
+            81
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+        <!--Deep Blue-->
+        <Item>
+          <indices content="char_array">
+            62
+            27
+            70
+            0
+            2
+            63
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>600_zr390_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
