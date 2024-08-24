@@ -1731,6 +1731,12 @@ Citizen.CreateThread(function ()
 		AddTextEntryByHash(0xC6A01D3C, 'Sultan Classic Custom')
 		AddTextEntryByHash(0xDD87B4E0, 'OEM Hood')
 -- Karin Sultan Classic Custom --
+-- Karin Sultan RS V8 TwinTurbo --
+AddTextEntryByHash(0xCD0E5CEF, 'Sultan RS V8 Twin Turbo')
+-- Karin Sultan RS V8 TwinTurbo --
+-- Karin Sultan RSV8 MK2 --
+AddTextEntryByHash(0x750636F2, 'Sultan RS V8 MK2')
+-- Karin Sultan RSV8 MK2 --
 -- Maibatsu Sunrise R --
 		AddTextEntryByHash(0x000633AD, 'Super Rally')
 		AddTextEntryByHash(0x00DD9637, 'Tuner')

@@ -139,6 +139,11 @@ data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/sultan2c_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/sultan2c_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_sultan2c'
 
+-- Karin Sultan RSV8 MK2 --
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/sultanrsv8_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/sultanrsv8_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_v8sultanrs'
+
 -- Maibatsu Sunrise R --
 data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/sunrise_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/sunrise_sounds.dat'

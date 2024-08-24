@@ -1,7 +1,7 @@
 # FiveM Lore Friendly Pack
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
-![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-59-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-61-brightgreen?style=for-the-badge)
 ![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
@@ -56,6 +56,8 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Karin Drift Rebel** | rebeld | ![Picture](./Image/rebeld.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-drift-rebel-add-on-sounds-lods) | ✔️ |
 | **Karin Sigma-Three** | sigma3 | ![Picture](./Image/sigma3.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-sigma-three-add-on-tuning-sounds-lambofreak) | ✔️ |
 | **Karin Sultan Classic Custom** | sultan2c | ![Picture](./Image/sultan2c.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-sultan-classic-custom-add-on-sounds) | ✔️ |
+| **Karin Sultan RS V8 TwinTurbo** | sultanrsv8 | ![Picture](./Image/sultanrsv8.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/sultan-rs-v8-twinturbo-add-on) | ✔️ |
+| **Karin Sultan RSV8 MK2** | sultanrsv82 | ![Picture](./Image/sultanrsv82.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/sultan-rsv8-mk2-add-on-tuning-sound-livery-template) | ✔️ |
 | **Maibatsu Sunrise R** | sunrise1 | ![Picture](./Image/sunrise1.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) | ✔️ |
 | **Obey 9R** | niner | ![Picture](./Image/niner.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/obey-9r-add-on) | ✔️ |
 | **Obey Argento** | argento | ![Picture](./Image/argento.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/obey-argento-add-on-sounds-lods) | ✔️ |
