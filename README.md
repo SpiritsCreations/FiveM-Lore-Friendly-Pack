@@ -7,6 +7,8 @@
 
 _Tested upon [Build ID 3258](https://zap-hosting.com/guides/docs/fivem-gamebuild/)_
 
+_Currently there is an issue causing a FiveM Server Crash, I am looking into this, hopefully via the next update this issue should be ironed out, thanks for your patience! :)_
+
 This Pack is currently a work in progress!
 
 A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.com/). This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
