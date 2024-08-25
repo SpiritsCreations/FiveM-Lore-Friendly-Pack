@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>nexus</modelName>
+				<colors>
+					<Item>
+					<!--white-->
+						<indices content="char_array">
+						112
+						1
+						112
+						4
+						2
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--formula red-->
+						<indices content="char_array">
+						29
+						29
+						27
+						4
+						2
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--cabernet candy-->
+						<indices content="char_array">
+						34
+						34
+						35
+						4
+						2
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--matte orange-->
+						<indices content="char_array">
+						38
+						12
+						37
+						4
+						2
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--shadow silver-->
+						<indices content="char_array">
+						7
+						7
+						5
+						4
+						2
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--yellow-->
+						<indices content="char_array">
+						88
+						0
+						88
+						2
+						99
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--purple-->
+						<indices content="char_array">
+						72
+						72
+						63
+						4
+						3
+						112
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--racing red-->
+						<indices content="char_array">
+						143
+						143
+						27
+						1
+						30
+						36
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--racing blue-->
+						<indices content="char_array">
+						73
+						73
+						70
+						1
+						101
+						36
+						</indices>
+						<liveries/>
+					</Item>
+					<Item>
+						<!--infernus classic brown-->
+						<indices content="char_array">
+						97
+						97
+						98
+						4
+						2
+						112
+						</indices>
+						<liveries/>
+					</Item>
+				</colors>
+			<kits>
+				<Item>nexus_modkit</Item>
+			</kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="127" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

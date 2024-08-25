@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+    <Item>
+      <modelName>bati901</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            0
+            134
+            126
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            0
+            35
+            0
+            134
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            25
+            0
+            134
+            55
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            0
+            38
+            0
+            134
+            46
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            76
+            0
+            81
+            0
+            134
+            127
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            0
+            111
+            0
+            134
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            0
+            0
+            0
+            134
+            126
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            0
+            0
+            134
+            124
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>842_bati901_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="233"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

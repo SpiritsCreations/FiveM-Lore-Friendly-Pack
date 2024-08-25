@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>supergts</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            76
+            76
+            81
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            44
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            113
+            113
+            154
+            0
+            22
+            47
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            127
+            127
+            0
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            23
+            23
+            24
+            0
+            22
+            89
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            19
+            0
+            0
+            22
+            124
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            17
+            17
+            5
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            61
+            54
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            60
+            60
+            111
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            81
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            20
+            24
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            91
+            91
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            124
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            0
+            22
+            43
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            122
+            122
+            0
+            22
+            72
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            144
+            0
+            22
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            129
+            0
+            22
+            0
+          </indices>
+        </Item>
+	  </colors>
+      <kits>
+        <Item>739_supergts_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243" />
+      <sirenSettings value="0" />
+    </Item>  
+  </variationData>
+</CVehicleModelInfoVariation>

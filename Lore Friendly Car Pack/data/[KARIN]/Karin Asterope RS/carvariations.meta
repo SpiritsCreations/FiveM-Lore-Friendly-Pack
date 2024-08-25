@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>asteropers</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            4
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            16
+            0
+            156
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            0
+            5
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            0
+            35
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            0
+            0
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            76
+            0
+            83
+            156
+            22
+            27
+          </indices>
+        </Item>		
+        <Item>
+          <indices content="char_array">
+            122
+            0
+            121
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            66
+            0
+            86
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            144
+            0
+            0
+            156
+            22
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            0
+            57
+            156
+            22
+            27
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>766_asteropers_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="232"/>
+      <sirenSettings value="0"/>
+    </Item>    
+  </variationData>
+</CVehicleModelInfoVariation>

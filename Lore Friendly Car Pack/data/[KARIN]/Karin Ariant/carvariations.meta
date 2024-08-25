@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>ariant</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            18
+            5
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            122
+            122
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            35
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            76
+            76
+            77
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            56
+            57
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            93
+            156
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            19
+            23
+            156
+            5
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>738_ariant_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="0"/>
+    </Item>    
+  </variationData>
+</CVehicleModelInfoVariation>

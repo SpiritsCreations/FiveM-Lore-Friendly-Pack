@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>tampar</modelName>
+      <colors>
+       <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            0
+            0
+            22
+          </indices>
+        </Item>
+       <Item>
+          <indices content="char_array">
+            17
+            0
+            5
+            0
+            0
+            22
+          </indices>
+        </Item>
+       <Item>
+          <indices content="char_array">
+            43
+            0
+            38
+            0
+            0
+            22
+          </indices>
+        </Item>
+       <Item>
+          <indices content="char_array">
+            125
+            0
+            139
+            0
+            0
+            22
+          </indices>
+        </Item>
+       <Item>
+          <indices content="char_array">
+            76
+            0
+            81
+            0
+            0
+            22
+          </indices>
+        </Item>
+       <Item>
+          <indices content="char_array">
+            122
+            0
+            112
+            0
+            0
+            22
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>848_tampar_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="251" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
