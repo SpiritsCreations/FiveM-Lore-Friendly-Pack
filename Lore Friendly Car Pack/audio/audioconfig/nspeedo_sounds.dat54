@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="28255625" />
+ <NameTable>
+  <Item>RESIDENT\VEHICLES</Item>
+  <Item>0</Item>
+  <Item>DLC_NSPEEDO\nspeedo</Item>
+  <Item>DLC_NSPEEDO\nspeedo_npc</Item>
+ </NameTable>
+ <Items>
+  <Item type="GranularSound">
+   <Name>nspeedo_engine_accel</Name>
+   <Header>
+    <Flags value="0x00008011" />
+    <Flags2 value="0x9555AAAA" />
+    <Unk04 value="100" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+    <FileName>engine_decel</FileName>
+   </Wave3>
+   <Wave4>
+    <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+    <FileName>exhaust_decel</FileName>
+   </Wave4>
+   <Wave5>
+    <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkInt0 value="1008981770" />
+   <UnkInt1 value="1028443341" />
+   <UnkShort0 value="0" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="0" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="64536" />
+   <UnkShort5 value="0" />
+   <TrackName />
+   <UnkVecData>
+    7.5, 35
+    7.1, 7.1
+   </UnkVecData>
+  </Item>
+  <Item type="GranularSound">
+   <Name>nspeedo_engine_accel_npc</Name>
+   <Header>
+    <Flags value="0x00008011" />
+    <Flags2 value="0x9555AAAA" />
+    <Unk04 value="100" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>dlc_nspeedo/nspeedo_npc</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>dlc_nspeedo/nspeedo_npc</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>0</ContainerName>
+    <FileName />
+   </Wave3>
+   <Wave4>
+    <ContainerName>0</ContainerName>
+    <FileName />
+   </Wave4>
+   <Wave5>
+    <ContainerName>dlc_nspeedo/nspeedo_npc</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>dlc_nspeedo/nspeedo_npc</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkInt0 value="1008981770" />
+   <UnkInt1 value="1028443341" />
+   <UnkShort0 value="0" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="0" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="65136" />
+   <UnkShort5 value="0" />
+   <TrackName>nspeedo_engine_accel</TrackName>
+   <UnkVecData>
+    7.5, 35
+    7.1, 7.1
+   </UnkVecData>
+  </Item>
+  <Item type="EnvironmentSound">
+   <Name>nspeedo_exhaust_accel</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <UnkByte value="1" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>nspeedo_shut_down</Name>
+   <Header>
+    <Flags value="0x00008100" />
+    <Unk08 value="100" />
+    <Category>hash_A7A1137D</Category>
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_3B393DEA</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>nspeedo_start_up</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>hash_A7A1137D</Category>
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_9D64B840</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_nspeedo_nspeedo_vehicles_extras_dump_valve_10a</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_22FABE43</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_nspeedo_nspeedo_vehicles_extras_dump_valve_10b</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_693BCAC4</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_nspeedo_nspeedo_vehicles_extras_dump_valve_10c</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_787F694B</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="WrapperSound">
+   <Name>nspeedo_dump_valve</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash0>nspeedo_dump_valve_mt</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_C0108E98</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>nspeedo_dump_valve_mt</Item>
+    <Item>hash_C0108E98</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>nspeedo_dump_valve_mt</Name>
+   <Header>
+    <Flags value="0x00008005" />
+    <Flags2 value="0xAAA0AAAA" />
+    <Unk02 value="64736" />
+    <Category>hash_2432F0D5</Category>
+   </Header>
+   <AudioTracks>
+    <Item>nspeedo_dump_valve_rnd</Item>
+    <Item>nspeedo_waste_gate</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>nspeedo_dump_valve_rnd</Name>
+   <Header>
+    <Flags value="0x00000014" />
+    <Unk02 value="64736" />
+    <Unk04 value="100" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes>FF</UnkBytes>
+   <Items>
+    <Item key="dlc_nspeedo_nspeedo_vehicles_extras_dump_valve_10a" value="1" />
+    <Item key="dlc_nspeedo_nspeedo_vehicles_extras_dump_valve_10b" value="1" />
+    <Item key="dlc_nspeedo_nspeedo_vehicles_extras_dump_valve_10c" value="1" />
+   </Items>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>nspeedo_waste_gate</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash0>hash_B92E4307</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1 />
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_B92E4307</Item>
+    <Item />
+   </AudioTracks>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>nspeedo_door_close</Name>
+   <Header>
+    <Flags value="0x00008024" />
+    <Unk02 value="400" />
+    <Unk05 value="50" />
+    <Category>vehicles_doors</Category>
+   </Header>
+   <AudioHash0>nspeedo_door_close_rnd</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_1AC47381</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>nspeedo_door_close_rnd</Item>
+    <Item>hash_1AC47381</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>nspeedo_door_open</Name>
+   <Header>
+    <Flags value="0x00008020" />
+    <Unk05 value="50" />
+    <Category>vehicles_doors</Category>
+   </Header>
+   <AudioHash0>dlc_nspeedo_nspeedo_vehicle_extras_door_truck_smooth_open</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_EE43EB05</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>dlc_nspeedo_nspeedo_vehicle_extras_door_truck_smooth_open</Item>
+    <Item>hash_EE43EB05</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>nspeedo_door_close_rnd</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes />
+   <Items>
+    <Item key="dlc_nspeedo_nspeedo_heavy_gen_vehicle_door_close_01" value="1" />
+    <Item key="dlc_nspeedo_nspeedo_heavy_gen_vehicle_door_close_02" value="1" />
+   </Items>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_nspeedo_nspeedo_vehicle_extras_door_truck_smooth_open</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_D15E6D63</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_nspeedo_nspeedo_heavy_gen_vehicle_door_close_01</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_AE114C37</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_nspeedo_nspeedo_heavy_gen_vehicle_door_close_02</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_nspeedo/nspeedo</ContainerName>
+   <FileName>hash_E4A43960</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+ </Items>
+</Dat54>
