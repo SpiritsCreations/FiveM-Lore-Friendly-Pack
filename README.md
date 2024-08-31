@@ -9,6 +9,8 @@ _Tested upon [Build ID 3258](https://zap-hosting.com/guides/docs/fivem-gamebuild
 
 _Currently there is an issue causing a FiveM Server Crash, I am looking into this, hopefully via the next update this issue should be ironed out, thanks for your patience! :)_
 
+_Update and V1.0 Release Coming Soon..._
+
 This Pack is currently a work in progress!
 
 A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.com/). This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
@@ -18,7 +20,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 * # Install
 * Drag and drop
-* Ensure FiveM-Lore-Friendly-Car-Pack
+* Ensure **Lore-Friendly-Car-Pack**
 
 # Important ⚠️
 * All credits to go the original creators of these vehicles. These vehicles may be removed from the pack if the owners will it.
