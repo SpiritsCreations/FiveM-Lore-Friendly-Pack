@@ -1,7 +1,7 @@
 # FiveM Lore Friendly Pack
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
-![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-61-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-69-brightgreen?style=for-the-badge)
 ![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
@@ -34,6 +34,15 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **6STR Annis ZR380 Custom** | zr3806str | ![Picture](./Image/zr3806str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-annis-zr380-custom-add-on-tuning) | ✔️ |
+| **6STR Benefactor Schwartzer 'Aggressor' Custom** | schwarzer2 | ![Picture](./Image/schwarzer2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-benefactor-schwartzer-aggressor-custom-add-on-tuning) | ✔️ |
+| **6STR Bravado Gauntlet Custom** | gauntlet6str | ![Picture](./Image/gauntlet6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-bravado-gauntlet-custom-add-on-tuning) | ✔️ |
+| **6STR Declasse Drift Yosemite** | yosemite6str | ![Picture](./Image/yosemite6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-declasse-drift-yosemite-add-on-tuning) | ✔️ |
+| **6STR Karin Futo GT Hatch Custom** | futo2 | ![Picture](./Image/futo2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-karin-futo-gt-hatch-custom-tuners-and-outlaws-add-on-tuneable) | ✔️ |
+| **6STR Imponte Ruiner 450 Custom** | ruiner6str | ![Picture](./Image/ruiner6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-imponte-ruiner-450-custom-add-on-tuning) | ✔️ |
+| **6STR Pegassi Tempesta Custom** | tempesta2 | ![Picture](./Image/tempesta2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-pegassi-tempesta-custom-tuners-outlaws-add-on-tuneable) | ✔️ |
+| **6STR Ubermacht Sentinel Classic Custom** | sentinel6str2 | ![Picture](./Image/sentinel6str2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-ubermacht-sentinel-classic-custom-add-on-tuning) | ✔️ |
+| **6STR Vapid Drift Ellie Custom** | ellie6str | ![Picture](./Image/ellie6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-vapid-drift-ellie-custom-add-on-tuning) | ✔️ |
 | **Annis Elegy RH4** | elegyrh4 | ![Picture](./Image/elegyrh4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh4-add-on-tuning-liveries-sounds) | ✔️ |
 | **Annis Elegy RH6** | elegyrh6 | ![Picture](./Image/elegyrh6.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh6-add-on-tuning-liveries-sounds) | ✔️ |
 | **Annis Elegy RH8-X** | elegyx | ![Picture](./Image/elegyx.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh8-x-add-on-sounds) | ✔️ |
