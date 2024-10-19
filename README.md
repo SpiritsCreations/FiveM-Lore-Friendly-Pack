@@ -7,6 +7,17 @@
 
 _Tested upon [Build ID 3258](https://zap-hosting.com/guides/docs/fivem-gamebuild/)_
 
+If some Vehicles don't load, it is possible it is due to your Game Build, if so add the following or change the following via the server.cfg
+
+Previous
+```
+sv_enforceGameBuild 3095 #mp2023_02 - The Chop Shop
+```
+Updated
+```
+sv_enforceGameBuild 3258 #mp2024_01 - Bottom Dollar Bounties
+```
+
 _Currently there is an issue causing a FiveM Server Crash, I am looking into this, hopefully via the next update this issue should be ironed out, thanks for your patience! :)_
 
 _Update and V1.0 Release Coming Soon..._
