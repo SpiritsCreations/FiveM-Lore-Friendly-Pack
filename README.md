@@ -2,7 +2,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-69-brightgreen?style=for-the-badge)
-![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-7-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
 _Tested upon [Build ID 3258](https://zap-hosting.com/guides/docs/fivem-gamebuild/)_
@@ -115,7 +115,6 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Lore Friendly + Neon Wheels Pack** | ![Picture](./Image/LoreFriendlyNeonWheelsPack.webp) | microoowave | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
 | **Lore Friendly Bikes Wheels Pack** | ![Picture](./Image/LoreFriendlyBikesWheelsPack.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
-| **Lore Friendly Generic Wheel Pack** | ![Picture](./Image/LoreFriendlyGenericWheelPack.webp) | ciimy | [5MODS Link](https://www.gta5-mods.com/vehicles/generic-wheel-pack-add-on-lod-preview-version) | ✔️ |
 | **Lore Friendly Muscle Wheels Pack** | ![Picture](./Image/LoreFriendlyMuscleWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-muscle-wheels-pack-roosterthegamer) | ✔️ |
 | **Lore Friendly Sports Wheels Pack** | ![Picture](./Image/LoreFriendlySportsWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-sports-wheels-pack-lfswp-add-on-lods) | ✔️ |
 | **Lore Friendly Tuner Wheels Pack** | ![Picture](./Image/LoreFriendlyTunerWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-tuner-wheels-pack) | ✔️ |

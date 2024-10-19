@@ -1,12 +1,12 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author "RooST4R"
+author "Spirits Creations"
 description 'Lore Friendly Tuner Wheels Pack'
 repository 'https://github.com/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack'
 
 client_scripts {
-	'client/client.lua'
+	'client.lua'
 }
 
 files {
