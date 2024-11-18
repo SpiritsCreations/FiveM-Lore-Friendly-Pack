@@ -43,7 +43,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
-| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status | Extra Notes |
+| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **6STR Annis ZR380 Custom** | zr3806str | ![Picture](./Image/zr3806str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-annis-zr380-custom-add-on-tuning) | ✔️ |
 | **6STR Benefactor Schwartzer 'Aggressor' Custom** | schwarzer2 | ![Picture](./Image/schwarzer2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-benefactor-schwartzer-aggressor-custom-add-on-tuning) | ✔️ |
@@ -122,7 +122,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 
 # Lore Friendly Rim Pack
-| Rim Set | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/)</sub> | Status | Extra Notes |
+| Rim Set | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Lore Friendly + Neon Wheels Pack** | ![Picture](./Image/LoreFriendlyNeonWheelsPack.webp) | microoowave | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
 | **Lore Friendly Bikes Wheels Pack** | ![Picture](./Image/LoreFriendlyBikesWheelsPack.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
