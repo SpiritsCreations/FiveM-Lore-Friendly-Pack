@@ -18,12 +18,6 @@ Updated
 sv_enforceGameBuild 3258 #mp2024_01 - Bottom Dollar Bounties
 ```
 
-_Currently there is an issue causing a FiveM Server Crash, I am looking into this, hopefully via the next update this issue should be ironed out, thanks for your patience! :)_
-
-_Update and V1.0 Release Coming Soon..._
-
-This Pack is currently a work in progress!
-
 A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.com/). This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
 * Only high quality models and sounds.
 * **Most** models run at <40 MiB of physical memory.
