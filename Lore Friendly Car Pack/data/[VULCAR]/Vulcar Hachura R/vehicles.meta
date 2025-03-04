@@ -3,11 +3,11 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-	<Item>
-      <modelName>hachura</modelName>
-      <txdName>hachura</txdName>
-      <handlingId>HACHURA</handlingId>
-      <gameName>HACHURA</gameName>
+	  <Item>
+      <modelName>hachurac</modelName>
+      <txdName>hachurac</txdName>
+      <handlingId>HACHURAC</handlingId>
+      <gameName>HACHURAC</gameName>
       <vehicleMakeName>VULCAR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>hachura</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>IMORGON_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -110,17 +110,9 @@
     </Item>
 	</InitDatas>
   <txdRelationships>
-	<Item>
-		<parent>vehicles_race_generic</parent>
-		<child>vehicles_race_interior</child>
-	</Item>	
-	<Item>
-      <parent>vehicles_race_interior</parent>
-      <child>vehicles_fmj_interior</child>
-    </Item>
     <Item>
-      <parent>vehicles_fmj_interior</parent>
-      <child>hachura</child>
+        <parent>vehicles_fmj_interior</parent>
+        <child>hachurac</child>
     </Item> 
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

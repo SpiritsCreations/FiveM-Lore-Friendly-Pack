@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>HACHURA</handlingName>
+      <handlingName>HACHURAC</handlingName>
       <fMass value="2250.000000" />
       <fInitialDragCoeff value="8.500000" />
       <fPercentSubmerged value="85.000000" />

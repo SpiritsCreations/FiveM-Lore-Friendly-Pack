@@ -3,7 +3,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
    <Item>
-      <modelName>hachura</modelName>
+      <modelName>hachurac</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -70,7 +70,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>876_hachura_modkit</Item>
+        <Item>877_hachurac_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

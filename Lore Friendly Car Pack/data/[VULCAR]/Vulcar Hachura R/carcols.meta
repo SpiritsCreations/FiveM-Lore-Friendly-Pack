@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 	<Item>
-      <kitName>876_hachura_modkit</kitName>
-      <id value="876" />	 	  
+      <kitName>877_hachurac_modkit</kitName>
+      <id value="877" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
@@ -696,18 +696,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_bumf1</modelName>
-          <modShopLabel>HACH_BUMF1</modShopLabel>
+        <Item>
+          <modelName>hachc_bonnetlink1</modelName>
+          <modShopLabel>hoodaerop1</modShopLabel>
           <linkedModels />
           <turnOffBones>
-			<Item>bumper_f</Item>
-			<Item>indicator_lf</Item>
-			<Item>indicator_rf</Item>
+		    
 		  </turnOffBones>
-          <type>VMT_BUMPER_F</type>
-          <bone>bumper_f</bone>
-          <collisionBone>bumper_f</collisionBone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -715,17 +713,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_kit</modelName>
-          <modShopLabel>HACH_SKIRT</modShopLabel>
-          <linkedModels>
-			<Item>hach_bumrkit</Item>
-			<Item>hach_bumfkit</Item>
-		  </linkedModels>
-          <turnOffBones />
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
+        <Item>
+          <modelName>hachc_bonnetlink2</modelName>
+          <modShopLabel>hoodaerop2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		    
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -733,56 +730,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_ant</modelName>
-          <modShopLabel>HACH_ANT</modShopLabel>
+        <Item>
+          <modelName>hachc_bonnetlink3</modelName>
+          <modShopLabel>hoodaeroc</modShopLabel>
           <linkedModels />
-          <turnOffBones />
-          <type>VMT_CHASSIS3</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>	
-		<Item>
-          <modelName>hach_bumflatch</modelName>
-          <modShopLabel>HACH_LATCH</modShopLabel>
-          <linkedModels>
-			<Item>hach_bootlatch</Item>
-			<Item>hach_hoodlatch</Item>
-			<Item>hach_bumrlatch</Item>
-		  </linkedModels>
           <turnOffBones>
-			<Item>misc_h</Item>
-			<Item>misc_i</Item>
+		    
 		  </turnOffBones>
-          <type>VMT_CHASSIS4</type>
-          <bone>bumper_f</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>		
-		<Item>
-          <modelName>hach_bumfplate</modelName>
-          <modShopLabel>HACH_PLATE</modShopLabel>
-          <linkedModels>
-			<Item>hach_bootplate</Item>
-		  </linkedModels>
-          <turnOffBones>
-			<Item>misc_h</Item>
-			<Item>misc_i</Item>
-		  </turnOffBones>
-          <type>VMT_CHASSIS4</type>
-          <bone>bumper_f</bone>
-          <collisionBone>chassis</collisionBone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -790,49 +747,9 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_exh</modelName>
-          <modShopLabel>HACH_EXH</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-			<Item>misc_b</Item>
-			<Item>exhaust</Item>
-			<Item>exhaust_2</Item>
-			<Item>exhaust_3</Item>
-			<Item>exhaust_4</Item>
-		  </turnOffBones>
-          <type>VMT_EXHAUST</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>	
-		<Item>
-          <modelName>hach_hlightc</modelName>
-          <modShopLabel>HACH_HLIGHTC</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-		    <Item>misc_g</Item>
-			<Item>headlight_l</Item>
-			<Item>headlight_r</Item>
-		  </turnOffBones>
-          <type>VMT_PLTHOLDER</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>hach_hood</modelName>
-          <modShopLabel>HACH_HOOD</modShopLabel>
+        <Item>
+          <modelName>hachc_bonnet1</modelName>
+          <modShopLabel>hachchood1</modShopLabel>
           <linkedModels />
           <turnOffBones>
 		    <Item>misc_j</Item>
@@ -847,14 +764,18 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_cage</modelName>
-          <modShopLabel>HACH_CAGE</modShopLabel>
-          <linkedModels />
-          <turnOffBones />
-          <type>VMT_CHASSIS</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
+        <Item>
+          <modelName>hachc_bonnet1</modelName>
+          <modShopLabel>hachchood1a</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink1</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -862,16 +783,54 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_raceint</modelName>
-          <modShopLabel>HACH_INT</modShopLabel>
+        <Item>
+          <modelName>hachc_bonnet1</modelName>
+          <modShopLabel>hachchood1b</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink2</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnet1</modelName>
+          <modShopLabel>hachchood1c</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink3</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_bonnet1b</modelName>
+          <modShopLabel>hachchood1b</modShopLabel>
           <linkedModels />
           <turnOffBones>
-		    <Item>misc_l</Item>
+		    <Item>misc_j</Item>
 		  </turnOffBones>
-          <type>VMT_INTERIOR3</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -879,16 +838,73 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_seat</modelName>
-          <modShopLabel>HACH_SEAT</modShopLabel>
+        <Item>
+          <modelName>hachc_bonnet1b</modelName>
+          <modShopLabel>hachchood1ba</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink1</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnet1b</modelName>
+          <modShopLabel>hachchood1bb</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink2</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnet1b</modelName>
+          <modShopLabel>hachchood1bc</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink3</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_bonnet3</modelName>
+          <modShopLabel>hachchood3</modShopLabel>
           <linkedModels />
           <turnOffBones>
-		    <Item>misc_o</Item>
+		    <Item>misc_j</Item>
 		  </turnOffBones>
-          <type>VMT_SEATS</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -896,13 +912,70 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_sunstrip</modelName>
-          <modShopLabel>HACH_SUNSTRIP</modShopLabel>
+        <Item>
+          <modelName>hachc_bonnet3</modelName>
+          <modShopLabel>hachchood3a</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink1</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnet3</modelName>
+          <modShopLabel>hachchood3b</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink2</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnet3</modelName>
+          <modShopLabel>hachchood3c</modShopLabel>
+          <linkedModels>
+                     <Item>hachc_bonnetlink3</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_canard1</modelName>
+          <modShopLabel>canardp1</modShopLabel>
           <linkedModels />
           <turnOffBones />
-          <type>VMT_INTERIOR2</type>
-          <bone>chassis</bone>
+          <type>VMT_CHASSIS5</type>
+          <bone>bumper_f</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
@@ -911,10 +984,514 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
+        <Item>
+          <modelName>hachc_canard2</modelName>
+          <modShopLabel>canardp2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS5</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_canard3</modelName>
+          <modShopLabel>canardc</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS5</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_dif2</modelName>
+          <modShopLabel>difp2</modShopLabel>
+          <linkedModels>
+          </linkedModels>          
+          <turnOffBones>
+		    <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>hachc_dif3</modelName>
+          <modShopLabel>difc</modShopLabel>
+          <linkedModels>
+          </linkedModels>          
+          <turnOffBones>
+		    <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_ducktail1</modelName>
+          <modShopLabel>HACHc_duck1</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_ducktail2</modelName>
+          <modShopLabel>HACHc_duck2</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_ducktail3</modelName>
+          <modShopLabel>HACHc_duck3</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing1</modelName>
+          <modShopLabel>HACHc_WING1</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing1</modelName>
+          <modShopLabel>HACHc_WING1</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing1</modelName>
+          <modShopLabel>HACHc_WING1</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing1</modelName>
+          <modShopLabel>HACHc_WING1</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail3</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing2</modelName>
+          <modShopLabel>HACHc_WING2</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing2</modelName>
+          <modShopLabel>HACHc_WING2</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+         <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing2</modelName>
+          <modShopLabel>HACHc_WING2</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing2</modelName>
+          <modShopLabel>HACHc_WING2</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail3</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing3</modelName>
+          <modShopLabel>HACHc_WING3</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing3</modelName>
+          <modShopLabel>HACHc_WING3</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing3</modelName>
+          <modShopLabel>HACHc_WING3</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_wing3</modelName>
+          <modShopLabel>HACHc_WING3</modShopLabel>
+          <linkedModels>
+			<Item>hach_boot</Item>
+                        <Item>hachc_ducktail3</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_m</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_lip2</modelName>
+          <modShopLabel>HACHc_lipp2</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_lip3</modelName>
+          <modShopLabel>HACHc_lipc</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_roofwing1</modelName>
+          <modShopLabel>HACHc_ROOFw1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_roofwing2</modelName>
+          <modShopLabel>HACHc_ROOFw2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_roofwing3</modelName>
+          <modShopLabel>HACHc_ROOFwc</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
           <modelName>hach_roof1</modelName>
           <modShopLabel>HACH_ROOF1</modShopLabel>
           <linkedModels />
+          <turnOffBones>
+		    <Item>misc_a</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_roof1</modelName>
+          <modShopLabel>HACH_ROOF1</modShopLabel>
+          <linkedModels>
+                    <Item>hachc_roofwing1</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_a</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_roof1</modelName>
+          <modShopLabel>HACH_ROOF1</modShopLabel>
+          <linkedModels>
+                    <Item>hachc_roofwing2</Item>
+          </linkedModels>
+          <turnOffBones>
+		    <Item>misc_a</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_roof1</modelName>
+          <modShopLabel>HACH_ROOF1</modShopLabel>
+          <linkedModels>
+                    <Item>hachc_roofwing3</Item>
+          </linkedModels>
           <turnOffBones>
 		    <Item>misc_a</Item>
 			<Item>misc_c</Item>
@@ -947,18 +1524,19 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_wing1</modelName>
-          <modShopLabel>HACH_WING1</modShopLabel>
-          <linkedModels>
-			<Item>hach_boot</Item>
-		  </linkedModels>
+<Item>
+          <modelName>hach_roof2</modelName>
+          <modShopLabel>HACH_ROOF2</modShopLabel>
+           <linkedModels>
+                    <Item>hachc_roofwing1</Item>
+          </linkedModels>
           <turnOffBones>
-		    <Item>misc_m</Item>
+		    <Item>misc_a</Item>
+			<Item>misc_c</Item>
 		  </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>boot</bone>
-          <collisionBone>boot</collisionBone>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -966,18 +1544,19 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_wing2</modelName>
-          <modShopLabel>HACH_WING2</modShopLabel>
-          <linkedModels>
-			<Item>hach_boot</Item>
-		  </linkedModels>
+<Item>
+          <modelName>hach_roof2</modelName>
+          <modShopLabel>HACH_ROOF2</modShopLabel>
+           <linkedModels>
+                    <Item>hachc_roofwing2</Item>
+          </linkedModels>
           <turnOffBones>
-		    <Item>misc_m</Item>
+		    <Item>misc_a</Item>
+			<Item>misc_c</Item>
 		  </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>boot</bone>
-          <collisionBone>mod_col_1</collisionBone>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -985,18 +1564,19 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_wing3</modelName>
-          <modShopLabel>HACH_WING3</modShopLabel>
-          <linkedModels>
-			<Item>hach_boot</Item>
-		  </linkedModels>
+<Item>
+          <modelName>hach_roof2</modelName>
+          <modShopLabel>HACH_ROOF2</modShopLabel>
+           <linkedModels>
+                    <Item>hachc_roofwing3</Item>
+          </linkedModels>
           <turnOffBones>
-		    <Item>misc_m</Item>
+		    <Item>misc_a</Item>
+			<Item>misc_c</Item>
 		  </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>boot</bone>
-          <collisionBone>mod_col_2</collisionBone>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -1004,18 +1584,74 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>hach_wing4</modelName>
-          <modShopLabel>HACH_WING4</modShopLabel>
-          <linkedModels>
-			<Item>hach_boot</Item>
-		  </linkedModels>
-          <turnOffBones>
-		    <Item>misc_m</Item>
-		  </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>boot</bone>
-          <collisionBone>mod_col_3</collisionBone>
+<Item>
+          <modelName>hachc_sideaero1</modelName>
+          <modShopLabel>sideaerop1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>	
+<Item>
+          <modelName>hachc_sideaero2</modelName>
+          <modShopLabel>sideaerop2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>	
+<Item>
+          <modelName>hachc_sideaero3</modelName>
+          <modShopLabel>sideaeroc</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>	
+<Item>
+          <modelName>hachc_sidesplit1</modelName>
+          <modShopLabel>sidesplit1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>	
+<Item>
+          <modelName>hachc_sidesplit2</modelName>
+          <modShopLabel>sidesplit2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -1023,7 +1659,319 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
+<Item>
+          <modelName>hachc_sidesplit3</modelName>
+          <modShopLabel>sidesplitc</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt2</modelName>
+          <modShopLabel>sideskirt2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt2</modelName>
+          <modShopLabel>sideskirt2a</modShopLabel>
+          <linkedModels>
+                  <Item>hachc_sidesplit1</Item>
+          </linkedModels>
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt2</modelName>
+          <modShopLabel>sideskirt2b</modShopLabel>
+          <linkedModels>
+                  <Item>hachc_sidesplit2</Item>
+          </linkedModels>
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt2</modelName>
+          <modShopLabel>sideskirt2c</modShopLabel>
+          <linkedModels>
+                  <Item>hachc_sidesplit3</Item>
+          </linkedModels>
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt3</modelName>
+          <modShopLabel>sideskirt2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt3</modelName>
+          <modShopLabel>sideskirt3a</modShopLabel>
+          <linkedModels>
+                  <Item>hachc_sidesplit1</Item>
+          </linkedModels>
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt3</modelName>
+          <modShopLabel>sideskirt3b</modShopLabel>
+          <linkedModels>
+                  <Item>hachc_sidesplit2</Item>
+          </linkedModels>
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sideskirt3</modelName>
+          <modShopLabel>sideskirt3c</modShopLabel>
+          <linkedModels>
+                  <Item>hachc_sidesplit3</Item>
+          </linkedModels>
+          <turnOffBones>
+                  <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_split1</modelName>
+          <modShopLabel>split1</modShopLabel>
+          <linkedModel>        
+          </linkedModel>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_split2</modelName>
+          <modShopLabel>split2</modShopLabel>
+          <linkedModel>        
+          </linkedModel>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_split3</modelName>
+          <modShopLabel>split3</modShopLabel>
+          <linkedModel>       
+          </linkedModel>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sunstrip1</modelName>
+          <modShopLabel>HACH_SUNSTRIP</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sunstrip2</modelName>
+          <modShopLabel>HACH_SUNSTRIP2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_sunstrip3</modelName>
+          <modShopLabel>HACH_SUNSTRIP3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachc_noplate</modelName>
+          <modShopLabel>noplate</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_bumfplate</modelName>
+          <modShopLabel>HACH_PLATE</modShopLabel>
+          <linkedModels>
+			<Item>hach_bootplate</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_h</Item>
+			<Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_cage</modelName>
+          <modShopLabel>HACH_CAGE</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
           <modelName>hach_grillframe1</modelName>
           <modShopLabel>HACH_GRILLE2</modShopLabel>
           <linkedModels />
@@ -1228,64 +2176,132 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
+<Item>
+          <modelName>hach_raceint</modelName>
+          <modShopLabel>HACH_INT</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		    <Item>misc_l</Item>
+		  </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_seat</modelName>
+          <modShopLabel>HACH_SEAT</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		    <Item>misc_o</Item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hach_hlightc</modelName>
+          <modShopLabel>HACH_HLIGHTC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		    <Item>misc_g</Item>
+			<Item>headlight_l</Item>
+			<Item>headlight_r</Item>
+		  </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachuc_mirrord</modelName>
+          <modShopLabel>HACHc_WING3</modShopLabel>
+          <linkedModels>
+			<Item>hachuc_mirrorp</Item>
+		  </linkedModels>
+          <turnOffBones>
+		    <Item>misc_s</Item>
+                    <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+<Item>
+          <modelName>hachuc_mirror2d</modelName>
+          <modShopLabel>HACHc_WING3</modShopLabel>
+          <linkedModels>
+			<Item>hachuc_mirror2p</Item>
+		  </linkedModels>
+          <turnOffBones>
+                    <Item>misc_s</Item>
+		    <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
 		</visibleMods>
       <linkMods>
-        <Item>
-          <modelName>hach_bumfplate</modelName>
-          <bone>bumper_f</bone>
+<Item>
+          <modelName>hachuc_mirrorp</modelName>
+          <bone>door_pside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_bumflatch</modelName>
-          <bone>bumper_f</bone>
+<Item>
+          <modelName>hachuc_mirror2p</modelName>
+          <bone>door_pside_f</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_bumfkit</modelName>
-          <bone>bumper_f</bone>
-          <turnOffExtra value="false" />
-        </Item>
-		<Item>
-          <modelName>hach_bumrkit</modelName>
-          <bone>bumper_r</bone>
-          <turnOffExtra value="false" />
-        </Item>
-		<Item>
-          <modelName>hach_bumrlatch</modelName>
-          <bone>bumper_r</bone>
-          <turnOffExtra value="false" />
-        </Item>
-		<Item>
-          <modelName>hach_sunstrip</modelName>
+<Item>
+          <modelName>hachc_roofwing1</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_hoodlatch</modelName>
-          <bone>bonnet</bone>
-          <turnOffExtra value="false" />
-        </Item>
-		<Item>
-          <modelName>hach_cage</modelName>
+<Item>
+          <modelName>hachc_roofwing2</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_seat</modelName>
+<Item>
+          <modelName>hachc_roofwing3</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_raceint</modelName>
+<Item>
+          <modelName>hach_fan</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_kit</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false" />
-        </Item>
-		<Item>
+<Item>
           <modelName>hach_grill1</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
@@ -1300,8 +2316,23 @@
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_fan</modelName>
+<Item>
+          <modelName>hach_bootplate</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+<Item>
+          <modelName>hachc_sidesplit1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+<Item>
+          <modelName>hachc_sidesplit2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+<Item>
+          <modelName>hachc_sidesplit3</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
@@ -1310,13 +2341,33 @@
           <bone>boot</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_bootplate</modelName>
+        <Item>
+          <modelName>hachc_bonnetlink1</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnetlink2</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>hachc_bonnetlink3</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>hachc_ducktail1</modelName>
           <bone>boot</bone>
           <turnOffExtra value="false" />
         </Item>
-		<Item>
-          <modelName>hach_bootlatch</modelName>
+<Item>
+          <modelName>hachc_ducktail2</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+<Item>
+          <modelName>hachc_ducktail3</modelName>
           <bone>boot</bone>
           <turnOffExtra value="false" />
         </Item>
