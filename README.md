@@ -1,7 +1,7 @@
 # FiveM Lore Friendly Pack
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
-![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-69-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-70-brightgreen?style=for-the-badge)
 ![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
@@ -105,6 +105,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Vapid Dominator GT Coupe** | domgtcoupe | ![Picture](./Image/domgtcoupe.webp) | Dayashii | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-dominator-gt-coupe-add-on-tuning) | ✔️ |
 | **Vapid Sabot** | sabot | ![Picture](./Image/sabot.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-sabot-add-on-liveries-sound) | ✔️ |
 | **Vulcar Hachura R** | hachura | ![Picture](./Image/hachura.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-r-add-on-tuning-liveries-sounds) | ✔️ |
+| **Vulcar Hachura R Custom** | hachurac | ![Picture](./Image/hachurac.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-custom-add-on-tuning) | ✔️ |
 | **Vulcar Ingot R255** | r255 | ![Picture](./Image/r255.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-ingot-r255-add-on-liveries) | ✔️ |
 | **Vulcar Zodiac** | zodiac | ![Picture](./Image/zodiac.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
 | **Vulcar Zodiac** | zodiacc | ![Picture](./Image/zodiacc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
