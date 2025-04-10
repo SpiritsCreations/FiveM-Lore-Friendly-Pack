@@ -1,5 +1,5 @@
 -- Sets server list convar
-SetConvarServerInfo('tags', 'FiveM-Lore-Friendly-Car-Pack')
+SetConvarServerInfo('tags', "FiveM-Lore-Friendly-Car-Pack")
 
 -- Setup for the version check
 updatePath = "/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack" -- your git user/repo path
@@ -12,7 +12,7 @@ Citizen.CreateThread(function()
         print("Please Dont Change the resource name to avoid errors.")
         print("-----------------------------------------------------")
     end
-    if GetCurrentResourceName() == 'FiveM-Lore-Friendly-Car-Pack' then
+    if GetCurrentResourceName() == "FiveM-Lore-Friendly-Car-Pack" then
         function checkVersion(_, responseText)
             local curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
 
