@@ -1,16 +1,14 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author "Spirits Creations"
+author 'SpiritsCreations'
 description 'Lore-Friendly Car Pack'
-repository 'https://github.com/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack'
+repository 'https://github.com/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack/Lore_Friendly_Car_Pack'
 
-server_scripts {
-	"versioncheck.lua"
-}
+server_script 'server.lua'
 
 client_scripts {
-	"client.lua"
+	'client.lua'
 }
 
 files {
