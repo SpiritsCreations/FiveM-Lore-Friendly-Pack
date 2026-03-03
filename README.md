@@ -99,7 +99,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Progen MF1 Spyder (Custom)** | mf1c | ![Picture](./Image/mf1c.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-mf1-spyder-add-on-animated-roof-sounds) | ✔️ |
 | **Progen T20 GTR** | t20gtr | ![Picture](./Image/t20gtr.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
 | **Shitzu Castella** | castella | ![Picture](./Image/castella.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
-| **Shitzu Castella** | castellajp | ![Picture](./Image/castellajp.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
+| **Shitzu Castella JP** | castellajp | ![Picture](./Image/castellajp.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
 | **Truffade Adder Sport** | adders | ![Picture](./Image/adders.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
 | **Ubermacht Sentinel Mk.4** | sentinelmk4 | ![Picture](./Image/sentinelmk4.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
 | **Ubermacht Sentinel Mk.4 GTR** | sentinelmk4gtr | ![Picture](./Image/sentinelmk4gtr.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
