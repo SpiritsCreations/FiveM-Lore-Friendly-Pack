@@ -11,7 +11,7 @@ Citizen.CreateThread(function()
     end
     if GetCurrentResourceName() == 'Lore_Friendly_Car_Pack' then
         function checkVersion(_, responseText)
-            curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
+            curVersion = GetResourceMetadata(GetCurrentResourceName(), 'version', 0)
 
             if curVersion ~= responseText and tonumber(curVersion) < tonumber(responseText) then
                 print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Lore Friendly Car Pack!")

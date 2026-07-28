@@ -4,6 +4,7 @@ games { 'rdr3', 'gta5' }
 author 'SpiritsCreations'
 description 'Lore-Friendly Car Pack'
 repository 'https://github.com/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack/Lore_Friendly_Car_Pack'
+version '1.2'
 
 server_script 'server.lua'
 
